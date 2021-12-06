@@ -1,0 +1,144 @@
+---
+title: 'Final Project: Chess Dataset Analysis'
+author: "Isabella Sturm"
+date: "3/4/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Load the data
+```{r}
+# Load libraries
+library(ggplot2)
+library(rsample)
+
+# Load the data
+setwd('/Users/isabellasturm/Documents/DataScience/DSC520Winter2020/ChessFinal/')
+full_chess_df <- read.csv('games.csv')
+```
+
+# Clean the data
+```{r}
+# Clean the data
+# Remove unneeded columns
+chess_df <- subset(full_chess_df, select=c(id, created_at, last_move_at, turns,
+                                         victory_status, winner, white_rating, 
+                                         black_rating, moves, opening_eco, 
+                                         opening_name, opening_ply))
+
+# Set factors: victory_status
+chess_df$victory_status <- as.factor(chess_df$victory_status)
+# Set winner to numeric: white = 1, black = 0, draw = -1
+chess_df$winner_num[chess_df$winner == "white"] <- 1
+chess_df$winner_num[chess_df$winner == 'black'] <- 0
+chess_df$winner_num[chess_df$winner == 'draw'] <- -1
+chess_df$winner_num <- as.numeric(chess_df$winner_num)
+# Set dates: created_at, last_move_at
+#chess_df$created_at <- as.Date.numeric(chess_df$created_at, origin='1970-01-01')
+#chess_df$last_move_at<- as.Date.numeric(chess_df$last_move_at, origin = '1970-01-01')
+# Create new column: game_length, rating_diff
+chess_df$game_length <- (chess_df$last_move_at - chess_df$created_at) / 1000 / 60 # Time diff in minutes
+chess_df$rating_diff <- chess_df$white_rating - chess_df$black_rating # negative if black is rated higher
+
+chess_df <- chess_df[chess_df$game_length < (2.5e+04/60),] # Remove the potential outliers to see the plot better
+
+
+# Split the dataset for later
+sample <- initial_split(chess_df, prop=.70)
+train <- training(sample)
+test <- testing(sample)
+
+```
+
+# Data Summary
+```{r}
+head(chess_df)
+summary(chess_df)
+hist(chess_df$winner_num)
+```
+
+# Descriptive Stats
+```{r}
+# Mean, median of the white player ratings
+mean(chess_df$white_rating)
+median(chess_df$white_rating)
+# Mean of the black player ratings
+mean(chess_df$black_rating)
+median(chess_df$black_rating)
+```
+
+# Distributions, Plotting
+```{r}
+# Frequency of player ratings
+hist(chess_df$white_rating)
+hist(chess_df$black_rating)
+
+# Scatterplot of player rating difference vs number of moves, color
+ggplot(data=chess_df, aes(x=rating_diff, y=turns, color=victory_status, alpha=0.5)) +
+         geom_point() 
+
+# Barplot of Winner based on Difference in Player Rating
+win_counts = table(chess_df$winner, chess_df$rating_diff)
+barplot(win_counts, main="Distribution of Wins based on Rating Difference",
+        xlab="Difference in Player Rating", col=c("blue", "black", "red"),
+        legend=rownames(win_counts))
+
+# Plot the number of turns to game duration
+ggplot(data=chess_df, aes(x=moves, y=game_length, color=winner, alpha=0.5)) +
+  geom_point()
+
+# Plot the player rating diff to game duration
+ggplot(data=chess_df, aes(x=rating_diff, y=game_length, color=winner, alpha=0.5)) +
+  geom_point()
+```
+
+# Correlation
+```{r}
+# Find correlation between game length and game duration
+cor(x=chess_df$rating_diff, y=chess_df$winner_num)
+
+# Find covariance between rating difference and winner
+cov(x=chess_df$rating_diff, y=chess_df$winner_num)
+
+
+# Find correlation between rating difference and winner
+#cor(x=chess_df$rating_diff, y=chess_df$game_length)
+
+# Find covariance between difference in player rating and game length (duration)
+#cov(x=chess_df$rating_diff, y=chess_df$game_length)
+
+```
+
+# Regression (Linear/Multiple/Logical?)
+```{r}
+# Find linear regression model for the chess data
+# Winner based on rating and number of turns
+chess_lm = lm(winner_num ~ white_rating + black_rating + turns, data=train)
+# Return the summary
+summary(chess_lm)
+
+# Plot the data with regression line
+ggplot(data=train, aes(x=white_rating, y = game_length, color=winner, alpha=0.5)) +
+  geom_point()
+
+ggplot(data=train, aes(x=black_rating, y = game_length, color=winner, alpha=0.5)) +
+  geom_point() 
+
+ggplot(data=train, aes(x=turns, y=game_length, color=winner, alpha=0.5)) +
+  geom_point() 
+
+# Plot the residuals
+plot(chess_lm$residuals, ylab="Residuals")
+
+# Plot cooks distance
+plot(cooks.distance(chess_lm), ylab="Cooks Distance")
+
+# Predict and check accuracy of model
+predictions <- predict(chess_lm, test, type="response")
+confmat <- table(Actual_Value=test$winner_num,Predicted_Value=predictions > 0.5)
+# Validate accuracy
+(confmat[[1,1]]) / sum(confmat)
+```
