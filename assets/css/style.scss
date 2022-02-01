@@ -1,8 +1,8 @@
 ---
---- 
+---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-slate";
 
-#header_wrap {
-    background-color: #b784a7;
+#header_wrap, #footer_wrap {
+    background-color: #9d7390;
 }
