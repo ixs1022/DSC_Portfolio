@@ -1,0 +1,113 @@
+,airline,type,incidents,fatalities,fatal_accidents
+0,Aer Lingus,85-99,2,0,0
+1,Aeroflot*,85-99,76,128,14
+2,Aerolineas Argentinas,85-99,6,0,0
+3,Aeromexico*,85-99,3,64,1
+4,Air Canada,85-99,2,0,0
+5,Air France,85-99,14,79,4
+6,Air India*,85-99,2,329,1
+7,Air New Zealand*,85-99,3,0,0
+8,Alaska Airlines*,85-99,5,0,0
+9,Alitalia,85-99,7,50,2
+10,All Nippon Airways,85-99,3,1,1
+11,American*,85-99,21,101,5
+12,Austrian Airlines,85-99,1,0,0
+13,Avianca,85-99,5,323,3
+14,British Airways*,85-99,4,0,0
+15,Cathay Pacific*,85-99,0,0,0
+16,China Airlines,85-99,12,535,6
+17,Condor,85-99,2,16,1
+18,COPA,85-99,3,47,1
+19,Delta / Northwest*,85-99,24,407,12
+20,Egyptair,85-99,8,282,3
+21,El Al,85-99,1,4,1
+22,Ethiopian Airlines,85-99,25,167,5
+23,Finnair,85-99,1,0,0
+24,Garuda Indonesia,85-99,10,260,3
+25,Gulf Air,85-99,1,0,0
+26,Hawaiian Airlines,85-99,0,0,0
+27,Iberia,85-99,4,148,1
+28,Japan Airlines,85-99,3,520,1
+29,Kenya Airways,85-99,2,0,0
+30,KLM*,85-99,7,3,1
+31,Korean Air,85-99,12,425,5
+32,LAN Airlines,85-99,3,21,2
+33,Lufthansa*,85-99,6,2,1
+34,Malaysia Airlines,85-99,3,34,1
+35,Pakistan International,85-99,8,234,3
+36,Philippine Airlines,85-99,7,74,4
+37,Qantas*,85-99,1,0,0
+38,Royal Air Maroc,85-99,5,51,3
+39,SAS*,85-99,5,0,0
+40,Saudi Arabian,85-99,7,313,2
+41,Singapore Airlines,85-99,2,6,2
+42,South African,85-99,2,159,1
+43,Southwest Airlines,85-99,1,0,0
+44,Sri Lankan / AirLanka,85-99,2,14,1
+45,SWISS*,85-99,2,229,1
+46,TACA,85-99,3,3,1
+47,TAM,85-99,8,98,3
+48,TAP - Air Portugal,85-99,0,0,0
+49,Thai Airways,85-99,8,308,4
+50,Turkish Airlines,85-99,8,64,3
+51,United / Continental*,85-99,19,319,8
+52,US Airways / America West*,85-99,16,224,7
+53,Vietnam Airlines,85-99,7,171,3
+54,Virgin Atlantic,85-99,1,0,0
+55,Xiamen Airlines,85-99,9,82,1
+0,Aer Lingus,00-14,0,0,0
+1,Aeroflot*,00-14,6,88,1
+2,Aerolineas Argentinas,00-14,1,0,0
+3,Aeromexico*,00-14,5,0,0
+4,Air Canada,00-14,2,0,0
+5,Air France,00-14,6,337,2
+6,Air India*,00-14,4,158,1
+7,Air New Zealand*,00-14,5,7,1
+8,Alaska Airlines*,00-14,5,88,1
+9,Alitalia,00-14,4,0,0
+10,All Nippon Airways,00-14,7,0,0
+11,American*,00-14,17,416,3
+12,Austrian Airlines,00-14,1,0,0
+13,Avianca,00-14,0,0,0
+14,British Airways*,00-14,6,0,0
+15,Cathay Pacific*,00-14,2,0,0
+16,China Airlines,00-14,2,225,1
+17,Condor,00-14,0,0,0
+18,COPA,00-14,0,0,0
+19,Delta / Northwest*,00-14,24,51,2
+20,Egyptair,00-14,4,14,1
+21,El Al,00-14,1,0,0
+22,Ethiopian Airlines,00-14,5,92,2
+23,Finnair,00-14,0,0,0
+24,Garuda Indonesia,00-14,4,22,2
+25,Gulf Air,00-14,3,143,1
+26,Hawaiian Airlines,00-14,1,0,0
+27,Iberia,00-14,5,0,0
+28,Japan Airlines,00-14,0,0,0
+29,Kenya Airways,00-14,2,283,2
+30,KLM*,00-14,1,0,0
+31,Korean Air,00-14,1,0,0
+32,LAN Airlines,00-14,0,0,0
+33,Lufthansa*,00-14,3,0,0
+34,Malaysia Airlines,00-14,3,537,2
+35,Pakistan International,00-14,10,46,2
+36,Philippine Airlines,00-14,2,1,1
+37,Qantas*,00-14,5,0,0
+38,Royal Air Maroc,00-14,3,0,0
+39,SAS*,00-14,6,110,1
+40,Saudi Arabian,00-14,11,0,0
+41,Singapore Airlines,00-14,2,83,1
+42,South African,00-14,1,0,0
+43,Southwest Airlines,00-14,8,0,0
+44,Sri Lankan / AirLanka,00-14,4,0,0
+45,SWISS*,00-14,3,0,0
+46,TACA,00-14,1,3,1
+47,TAM,00-14,7,188,2
+48,TAP - Air Portugal,00-14,0,0,0
+49,Thai Airways,00-14,2,1,1
+50,Turkish Airlines,00-14,8,84,2
+51,United / Continental*,00-14,14,109,2
+52,US Airways / America West*,00-14,11,23,2
+53,Vietnam Airlines,00-14,1,0,0
+54,Virgin Atlantic,00-14,0,0,0
+55,Xiamen Airlines,00-14,2,0,0
