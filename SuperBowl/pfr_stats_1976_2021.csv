@@ -163,7 +163,7 @@
 14,,,Playoffs,,,,,,,,,,,,,,,,,,,,Raiders,False,False,1976,,,
 15,Division,Sat,December 18,4:00PM ET,boxscore,W,,14-1,,New England Patriots,24.0,21.0,20.0,282.0,201.0,81.0,1.0,23.0,331.0,167.0,164.0,3.0,Raiders,False,False,1976,,,
 16,Conf. Champ.,Sun,December 26,4:00PM ET,boxscore,W,,15-1,,Pittsburgh Steelers,24.0,7.0,15.0,220.0,63.0,157.0,,13.0,237.0,165.0,72.0,1.0,Raiders,False,False,1976,,,
-17,SuperBowl,Sun,January 9,3:50PM ET,boxscore,W,,16-1,N,Minnesota Vikings,32.0,14.0,21.0,429.0,163.0,266.0,,20.0,353.0,282.0,71.0,3.0,Raiders,False,False,1976,,,
+17,SuperBowl,Sun,January 9,3:50PM ET,boxscore,W,,16-1,N,Minnesota Vikings,32.0,14.0,21.0,429.0,163.0,266.0,,20.0,353.0,282.0,71.0,3.0,Raiders,True,True,1976,,,
 0,1,Sun,September 12,2:00PM ET,boxscore,W,,1-0,@,Kansas City Chiefs,30.0,16.0,27.0,467.0,200.0,267.0,,19.0,330.0,217.0,113.0,4.0,Chargers,False,False,1976,,,
 1,2,Sun,September 19,1:00PM ET,boxscore,W,,2-0,@,Tampa Bay Buccaneers,23.0,0.0,16.0,326.0,131.0,195.0,2.0,5.0,125.0,-4.0,129.0,4.0,Chargers,False,False,1976,,,
 2,3,Sun,September 26,4:00PM ET,boxscore,W,,3-0,,St. Louis Cardinals,43.0,24.0,24.0,451.0,245.0,206.0,,22.0,364.0,240.0,124.0,5.0,Chargers,False,False,1976,,,
@@ -325,7 +325,7 @@
 14,,,Playoffs,,,,,,,,,,,,,,,,,,,,Vikings,False,False,1976,,,
 15,Division,Sat,December 18,1:00PM ET,boxscore,W,,12-2-1,,Washington Redskins,35.0,20.0,21.0,384.0,163.0,221.0,2.0,19.0,365.0,290.0,75.0,2.0,Vikings,False,False,1976,,,
 16,Conf. Champ.,Sun,December 26,1:00PM ET,boxscore,W,,13-2-1,,Los Angeles Rams,24.0,13.0,13.0,267.0,109.0,158.0,2.0,21.0,336.0,143.0,193.0,4.0,Vikings,False,False,1976,,,
-17,SuperBowl,Sun,January 9,3:50PM ET,boxscore,L,,13-3-1,N,Oakland Raiders,14.0,32.0,20.0,353.0,282.0,71.0,3.0,21.0,429.0,163.0,266.0,,Vikings,False,False,1976,,,
+17,SuperBowl,Sun,January 9,3:50PM ET,boxscore,L,,13-3-1,N,Oakland Raiders,14.0,32.0,20.0,353.0,282.0,71.0,3.0,21.0,429.0,163.0,266.0,,Vikings,True,False,1976,,,
 0,1,Sun,September 12,2:00PM ET,boxscore,W,,1-0,,Detroit Lions,10.0,3.0,12.0,240.0,126.0,114.0,,15.0,243.0,134.0,109.0,3.0,Bears,False,False,1976,,,
 1,2,Sun,September 19,4:00PM ET,boxscore,W,,2-0,@,San Francisco 49ers,19.0,12.0,15.0,259.0,92.0,167.0,2.0,16.0,190.0,112.0,78.0,3.0,Bears,False,False,1976,,,
 2,3,Sun,September 26,2:00PM ET,boxscore,L,,2-1,,Atlanta Falcons,0.0,10.0,10.0,226.0,110.0,116.0,6.0,19.0,270.0,133.0,137.0,,Bears,False,False,1976,,,
@@ -605,7 +605,7 @@
 14,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,1977,,,
 15,Division,Sat,December 24,4:00PM ET,boxscore,W,,13-2,,Pittsburgh Steelers,34.0,21.0,15.0,258.0,155.0,103.0,1.0,18.0,304.0,177.0,127.0,4.0,Broncos,False,False,1977,,,
 16,Conf. Champ.,Sun,January 1,2:00PM ET,boxscore,W,,14-2,,Oakland Raiders,20.0,17.0,16.0,308.0,217.0,91.0,1.0,20.0,298.0,204.0,94.0,3.0,Broncos,False,False,1977,,,
-17,SuperBowl,Sun,January 15,6:00PM ET,boxscore,L,,14-3,N,Dallas Cowboys,10.0,27.0,11.0,156.0,35.0,121.0,8.0,17.0,325.0,182.0,143.0,2.0,Broncos,False,False,1977,,,
+17,SuperBowl,Sun,January 15,6:00PM ET,boxscore,L,,14-3,N,Dallas Cowboys,10.0,27.0,11.0,156.0,35.0,121.0,8.0,17.0,325.0,182.0,143.0,2.0,Broncos,True,False,1977,,,
 0,1,Sun,September 18,2:00PM ET,boxscore,W,OT,1-0,@,Minnesota Vikings,16.0,10.0,16.0,297.0,166.0,131.0,1.0,20.0,294.0,138.0,156.0,5.0,Cowboys,False,False,1977,,,
 1,2,Sun,September 25,2:00PM ET,boxscore,W,,2-0,,New York Giants,41.0,21.0,25.0,444.0,259.0,185.0,1.0,14.0,161.0,92.0,69.0,5.0,Cowboys,False,False,1977,,,
 2,3,Sun,October 2,1:00PM ET,boxscore,W,,3-0,,Tampa Bay Buccaneers,23.0,7.0,23.0,415.0,210.0,205.0,3.0,10.0,163.0,87.0,76.0,2.0,Cowboys,False,False,1977,,,
@@ -623,7 +623,7 @@
 14,,,Playoffs,,,,,,,,,,,,,,,,,,,,Cowboys,False,False,1977,,,
 15,Division,Mon,December 26,2:00PM ET,boxscore,W,,13-2,,Chicago Bears,37.0,7.0,20.0,365.0,132.0,233.0,3.0,15.0,224.0,143.0,81.0,7.0,Cowboys,False,False,1977,,,
 16,Conf. Champ.,Sun,January 1,5:00PM ET,boxscore,W,,14-2,,Minnesota Vikings,23.0,6.0,16.0,328.0,158.0,170.0,2.0,12.0,214.0,148.0,66.0,4.0,Cowboys,False,False,1977,,,
-17,SuperBowl,Sun,January 15,6:00PM ET,boxscore,W,,15-2,N,Denver Broncos,27.0,10.0,17.0,325.0,182.0,143.0,2.0,11.0,156.0,35.0,121.0,8.0,Cowboys,False,False,1977,,,
+17,SuperBowl,Sun,January 15,6:00PM ET,boxscore,W,,15-2,N,Denver Broncos,27.0,10.0,17.0,325.0,182.0,143.0,2.0,11.0,156.0,35.0,121.0,8.0,Cowboys,True,True,1977,,,
 0,1,Sun,September 18,1:00PM ET,boxscore,W,,1-0,,Tampa Bay Buccaneers,13.0,3.0,15.0,281.0,137.0,144.0,5.0,8.0,118.0,26.0,92.0,1.0,Eagles,False,False,1977,,,
 1,2,Sun,September 25,4:00PM ET,boxscore,L,,1-1,@,Los Angeles Rams,0.0,20.0,6.0,112.0,81.0,31.0,4.0,21.0,356.0,136.0,220.0,2.0,Eagles,False,False,1977,,,
 2,3,Sun,October 2,2:00PM ET,boxscore,L,,1-2,@,Detroit Lions,13.0,17.0,19.0,330.0,193.0,137.0,3.0,18.0,235.0,95.0,140.0,1.0,Eagles,False,False,1977,,,
@@ -966,7 +966,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Steelers,False,False,1978,,,
 17,Division,Sat,December 30,12:30PM ET,boxscore,W,,15-2,,Denver Broncos,33.0,10.0,24.0,425.0,272.0,153.0,2.0,15.0,218.0,131.0,87.0,2.0,Steelers,False,False,1978,,,
 18,Conf. Champ.,Sun,January 7,1:00PM ET,boxscore,W,,16-2,,Houston Oilers,34.0,5.0,21.0,379.0,200.0,179.0,5.0,10.0,142.0,70.0,72.0,9.0,Steelers,False,False,1978,,,
-19,SuperBowl,Sun,January 21,4:00PM ET,boxscore,W,,17-2,N,Dallas Cowboys,35.0,31.0,19.0,357.0,291.0,66.0,3.0,20.0,330.0,176.0,154.0,3.0,Steelers,False,False,1978,,,
+19,SuperBowl,Sun,January 21,4:00PM ET,boxscore,W,,17-2,N,Dallas Cowboys,35.0,31.0,19.0,357.0,291.0,66.0,3.0,20.0,330.0,176.0,154.0,3.0,Steelers,True,True,1978,,,
 0,1,Sun,September 3,1:00PM ET,boxscore,W,,1-0,,San Francisco 49ers,24.0,7.0,18.0,393.0,180.0,213.0,3.0,18.0,295.0,164.0,131.0,6.0,Browns,False,False,1978,,,
 1,2,Sun,September 10,2:00PM ET,boxscore,W,OT,2-0,,Cincinnati Bengals,13.0,10.0,20.0,355.0,186.0,169.0,1.0,14.0,277.0,162.0,115.0,1.0,Browns,False,False,1978,,,
 2,3,Sun,September 17,1:00PM ET,boxscore,W,,3-0,@,Atlanta Falcons,24.0,16.0,17.0,308.0,198.0,110.0,3.0,17.0,234.0,147.0,87.0,4.0,Browns,False,False,1978,,,
@@ -1068,7 +1068,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Cowboys,False,False,1978,,,
 17,Division,Sat,December 30,4:00PM ET,boxscore,W,,13-4,,Atlanta Falcons,27.0,20.0,26.0,369.0,221.0,148.0,4.0,16.0,216.0,52.0,164.0,3.0,Cowboys,False,False,1978,,,
 18,Conf. Champ.,Sun,January 7,5:00PM ET,boxscore,W,,14-4,@,Los Angeles Rams,28.0,0.0,16.0,235.0,109.0,126.0,3.0,15.0,277.0,196.0,81.0,7.0,Cowboys,False,False,1978,,,
-19,SuperBowl,Sun,January 21,4:00PM ET,boxscore,L,,14-5,N,Pittsburgh Steelers,31.0,35.0,20.0,330.0,176.0,154.0,3.0,19.0,357.0,291.0,66.0,3.0,Cowboys,False,False,1978,,,
+19,SuperBowl,Sun,January 21,4:00PM ET,boxscore,L,,14-5,N,Pittsburgh Steelers,31.0,35.0,20.0,330.0,176.0,154.0,3.0,19.0,357.0,291.0,66.0,3.0,Cowboys,True,False,1978,,,
 0,1,Sun,September 3,1:00PM ET,boxscore,L,,0-1,,Los Angeles Rams,14.0,16.0,10.0,208.0,80.0,128.0,2.0,15.0,220.0,117.0,103.0,1.0,Eagles,False,False,1978,,,
 1,2,Sun,September 10,1:00PM ET,boxscore,L,,0-2,@,Washington Redskins,30.0,35.0,18.0,313.0,185.0,128.0,2.0,19.0,316.0,199.0,117.0,3.0,Eagles,False,False,1978,,,
 2,3,Sun,September 17,2:00PM ET,boxscore,W,,1-2,@,New Orleans Saints,24.0,17.0,22.0,373.0,166.0,207.0,3.0,14.0,308.0,220.0,88.0,4.0,Eagles,False,False,1978,,,
@@ -1440,7 +1440,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Steelers,False,False,1979,,,
 17,Division,Sun,December 30,12:30PM ET,boxscore,W,,13-4,,Miami Dolphins,34.0,14.0,27.0,379.0,220.0,159.0,3.0,16.0,249.0,224.0,25.0,2.0,Steelers,False,False,1979,,,
 18,Conf. Champ.,Sun,January 6,1:00PM ET,boxscore,W,,14-4,,Houston Oilers,27.0,13.0,22.0,358.0,197.0,161.0,2.0,11.0,227.0,203.0,24.0,3.0,Steelers,False,False,1979,,,
-19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,W,,15-4,N,Los Angeles Rams,31.0,19.0,19.0,393.0,309.0,84.0,3.0,16.0,301.0,194.0,107.0,1.0,Steelers,False,False,1979,,,
+19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,W,,15-4,N,Los Angeles Rams,31.0,19.0,19.0,393.0,309.0,84.0,3.0,16.0,301.0,194.0,107.0,1.0,Steelers,True,True,1979,,,
 0,1,Sun,September 2,4:00PM ET,boxscore,W,OT,1-0,@,New York Jets,25.0,22.0,24.0,423.0,292.0,131.0,4.0,24.0,390.0,161.0,229.0,2.0,Browns,False,False,1979,,,
 1,2,Sun,September 9,4:00PM ET,boxscore,W,,2-0,@,Kansas City Chiefs,27.0,24.0,23.0,402.0,238.0,164.0,2.0,19.0,248.0,147.0,101.0,1.0,Browns,False,False,1979,,,
 2,3,Sun,September 16,1:00PM ET,boxscore,W,,3-0,,Baltimore Colts,13.0,10.0,16.0,321.0,197.0,124.0,2.0,13.0,283.0,185.0,98.0,,Browns,False,False,1979,,,
@@ -1730,7 +1730,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Rams,False,False,1979,,,
 17,Division,Sun,December 30,4:00PM ET,boxscore,W,,10-7,@,Dallas Cowboys,21.0,19.0,16.0,361.0,202.0,159.0,2.0,17.0,306.0,150.0,156.0,1.0,Rams,False,False,1979,,,
 18,Conf. Champ.,Sun,January 6,5:00PM ET,boxscore,W,,11-7,@,Tampa Bay Buccaneers,9.0,0.0,23.0,369.0,153.0,216.0,1.0,7.0,177.0,85.0,92.0,1.0,Rams,False,False,1979,,,
-19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,L,,11-8,N,Pittsburgh Steelers,19.0,31.0,16.0,301.0,194.0,107.0,1.0,19.0,393.0,309.0,84.0,3.0,Rams,False,False,1979,,,
+19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,L,,11-8,N,Pittsburgh Steelers,19.0,31.0,16.0,301.0,194.0,107.0,1.0,19.0,393.0,309.0,84.0,3.0,Rams,True,False,1979,,,
 0,1,Sun,September 2,2:00PM ET,boxscore,L,,0-1,,Dallas Cowboys,21.0,22.0,17.0,342.0,105.0,237.0,2.0,24.0,455.0,294.0,161.0,1.0,Cardinals,False,False,1979,,,
 1,2,Sun,September 9,1:00PM ET,boxscore,W,,1-1,@,New York Giants,27.0,14.0,23.0,348.0,159.0,189.0,4.0,10.0,128.0,88.0,40.0,3.0,Cardinals,False,False,1979,,,
 2,3,Sun,September 16,4:00PM ET,boxscore,L,,1-2,,Pittsburgh Steelers,21.0,24.0,12.0,212.0,106.0,106.0,1.0,25.0,398.0,234.0,164.0,4.0,Cardinals,False,False,1979,,,
@@ -1965,7 +1965,7 @@
 17,Wild Card,Sun,December 28,5:00PM ET,boxscore,W,,12-5,,Houston Oilers,27.0,7.0,12.0,250.0,139.0,111.0,1.0,18.0,275.0,178.0,97.0,3.0,Raiders,False,False,1980,,,
 18,Division,Sun,January 4,12:30PM ET,boxscore,W,,13-5,@,Cleveland Browns,14.0,12.0,12.0,208.0,132.0,76.0,3.0,17.0,254.0,169.0,85.0,4.0,Raiders,False,False,1980,,,
 19,Conf. Champ.,Sun,January 11,5:00PM ET,boxscore,W,,14-5,@,San Diego Chargers,34.0,27.0,21.0,362.0,224.0,138.0,,26.0,434.0,351.0,83.0,3.0,Raiders,False,False,1980,,,
-20,SuperBowl,Sun,January 25,6:00PM ET,boxscore,W,,15-5,N,Philadelphia Eagles,27.0,10.0,17.0,377.0,260.0,117.0,,19.0,360.0,291.0,69.0,4.0,Raiders,False,False,1980,,,
+20,SuperBowl,Sun,January 25,6:00PM ET,boxscore,W,,15-5,N,Philadelphia Eagles,27.0,10.0,17.0,377.0,260.0,117.0,,19.0,360.0,291.0,69.0,4.0,Raiders,True,True,1980,,,
 0,1,Sun,September 7,4:00PM ET,boxscore,W,,1-0,@,Seattle Seahawks,34.0,13.0,22.0,421.0,224.0,197.0,,13.0,249.0,202.0,47.0,2.0,Chargers,False,False,1980,,,
 1,2,Sun,September 14,4:00PM ET,boxscore,W,OT,2-0,,Oakland Raiders,30.0,24.0,30.0,448.0,372.0,76.0,7.0,25.0,435.0,249.0,186.0,4.0,Chargers,False,False,1980,,,
 2,3,Sun,September 21,4:00PM ET,boxscore,W,,3-0,@,Denver Broncos,30.0,13.0,16.0,303.0,211.0,92.0,3.0,22.0,374.0,221.0,153.0,7.0,Chargers,False,False,1980,,,
@@ -2040,7 +2040,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Eagles,False,False,1980,,,
 17,Division,Sat,January 3,12:30PM ET,boxscore,W,,13-4,,Minnesota Vikings,31.0,16.0,24.0,305.0,179.0,126.0,3.0,14.0,215.0,179.0,36.0,8.0,Eagles,False,False,1980,,,
 18,Conf. Champ.,Sun,January 11,1:00PM ET,boxscore,W,,14-4,,Dallas Cowboys,20.0,7.0,19.0,340.0,77.0,263.0,2.0,11.0,206.0,116.0,90.0,4.0,Eagles,False,False,1980,,,
-19,SuperBowl,Sun,January 25,6:00PM ET,boxscore,L,,14-5,N,Oakland Raiders,10.0,27.0,19.0,360.0,291.0,69.0,4.0,17.0,377.0,260.0,117.0,,Eagles,False,False,1980,,,
+19,SuperBowl,Sun,January 25,6:00PM ET,boxscore,L,,14-5,N,Oakland Raiders,10.0,27.0,19.0,360.0,291.0,69.0,4.0,17.0,377.0,260.0,117.0,,Eagles,True,False,1980,,,
 0,1,Mon,September 8,9:00PM ET,boxscore,L,,0-1,,Dallas Cowboys,3.0,17.0,14.0,239.0,181.0,58.0,1.0,18.0,284.0,107.0,177.0,2.0,Football Team,False,False,1980,,,
 1,2,Sun,September 14,4:00PM ET,boxscore,W,,1-1,@,New York Giants,23.0,21.0,18.0,326.0,118.0,208.0,1.0,15.0,250.0,163.0,87.0,4.0,Football Team,False,False,1980,,,
 2,3,Sun,September 21,4:00PM ET,boxscore,L,,1-2,@,Oakland Raiders,21.0,24.0,23.0,240.0,156.0,84.0,1.0,24.0,391.0,164.0,227.0,3.0,Football Team,False,False,1980,,,
@@ -2377,7 +2377,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bengals,False,False,1981,,,
 17,Division,Sun,January 3,1:00PM ET,boxscore,W,,13-4,,Buffalo Bills,28.0,21.0,22.0,305.0,169.0,136.0,,21.0,336.0,202.0,134.0,2.0,Bengals,False,False,1981,,,
 18,Conf. Champ.,Sun,January 10,1:00PM ET,boxscore,W,,14-4,,San Diego Chargers,27.0,7.0,19.0,318.0,175.0,143.0,1.0,18.0,301.0,173.0,128.0,4.0,Bengals,False,False,1981,,,
-19,SuperBowl,Sun,January 24,4:00PM ET,boxscore,L,,14-5,N,San Francisco 49ers,21.0,26.0,24.0,356.0,284.0,72.0,4.0,20.0,275.0,148.0,127.0,1.0,Bengals,False,False,1981,,,
+19,SuperBowl,Sun,January 24,4:00PM ET,boxscore,L,,14-5,N,San Francisco 49ers,21.0,26.0,24.0,356.0,284.0,72.0,4.0,20.0,275.0,148.0,127.0,1.0,Bengals,True,False,1981,,,
 0,1,Sun,September 6,1:00PM ET,boxscore,L,,0-1,,Kansas City Chiefs,33.0,37.0,29.0,408.0,319.0,89.0,7.0,17.0,353.0,214.0,139.0,2.0,Steelers,False,False,1981,,,
 1,2,Thu,September 10,8:30PM ET,boxscore,L,,0-2,@,Miami Dolphins,10.0,30.0,15.0,300.0,183.0,117.0,2.0,25.0,346.0,161.0,185.0,1.0,Steelers,False,False,1981,,,
 2,3,Sun,September 20,1:00PM ET,boxscore,W,,1-2,,New York Jets,38.0,10.0,33.0,566.0,223.0,343.0,1.0,16.0,258.0,174.0,84.0,2.0,Steelers,False,False,1981,,,
@@ -2714,7 +2714,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,1981,,,
 17,Division,Sun,January 3,5:00PM ET,boxscore,W,,14-3,,New York Giants,38.0,24.0,24.0,423.0,288.0,135.0,1.0,13.0,346.0,281.0,65.0,4.0,49ers,False,False,1981,,,
 18,Conf. Champ.,Sun,January 10,4:30PM ET,boxscore,W,,15-3,,Dallas Cowboys,28.0,27.0,26.0,393.0,266.0,127.0,6.0,16.0,250.0,135.0,115.0,3.0,49ers,False,False,1981,,,
-19,SuperBowl,Sun,January 24,4:00PM ET,boxscore,W,,16-3,N,Cincinnati Bengals,26.0,21.0,20.0,275.0,148.0,127.0,1.0,24.0,356.0,284.0,72.0,4.0,49ers,False,False,1981,,,
+19,SuperBowl,Sun,January 24,4:00PM ET,boxscore,W,,16-3,N,Cincinnati Bengals,26.0,21.0,20.0,275.0,148.0,127.0,1.0,24.0,356.0,284.0,72.0,4.0,49ers,True,True,1981,,,
 0,1,Sun,September 6,1:00PM ET,boxscore,L,,0-1,@,Cincinnati Bengals,21.0,27.0,17.0,290.0,230.0,60.0,4.0,24.0,375.0,165.0,210.0,4.0,Seahawks,False,False,1981,,,
 1,2,Sun,September 13,4:00PM ET,boxscore,W,,1-1,,Denver Broncos,13.0,10.0,18.0,267.0,156.0,111.0,2.0,16.0,252.0,142.0,110.0,2.0,Seahawks,False,False,1981,,,
 2,3,Sun,September 20,4:00PM ET,boxscore,L,,1-2,@,Oakland Raiders,10.0,20.0,18.0,390.0,308.0,82.0,2.0,26.0,432.0,242.0,190.0,3.0,Seahawks,False,False,1981,,,
@@ -2764,7 +2764,7 @@
 10,Wild Card,Sat,January 8,4:00PM ET,boxscore,W,,8-2,,New England Patriots,28.0,13.0,27.0,448.0,234.0,214.0,3.0,14.0,237.0,160.0,77.0,3.0,Dolphins,False,False,1982,,,
 11,Division,Sun,January 16,12:30PM ET,boxscore,W,,9-2,,San Diego Chargers,34.0,13.0,29.0,413.0,199.0,214.0,2.0,17.0,247.0,168.0,79.0,7.0,Dolphins,False,False,1982,,,
 12,Conf. Champ.,Sun,January 23,1:00PM ET,boxscore,W,,10-2,,New York Jets,14.0,0.0,13.0,198.0,60.0,138.0,4.0,10.0,139.0,77.0,62.0,5.0,Dolphins,False,False,1982,,,
-13,SuperBowl,Sun,January 30,6:00PM ET,boxscore,L,,10-3,N,Washington Redskins,17.0,27.0,9.0,176.0,80.0,96.0,2.0,24.0,400.0,124.0,276.0,2.0,Dolphins,False,False,1982,,,
+13,SuperBowl,Sun,January 30,6:00PM ET,boxscore,L,,10-3,N,Washington Redskins,17.0,27.0,9.0,176.0,80.0,96.0,2.0,24.0,400.0,124.0,276.0,2.0,Dolphins,True,False,1982,,,
 0,1,Sun,September 12,4:00PM ET,boxscore,L,,0-1,,Miami Dolphins,28.0,45.0,20.0,341.0,197.0,144.0,4.0,25.0,323.0,113.0,210.0,2.0,Jets,False,False,1982,,,
 1,2,Sun,September 19,1:00PM ET,boxscore,W,,1-1,@,New England Patriots,31.0,7.0,30.0,396.0,142.0,254.0,2.0,5.0,57.0,-4.0,61.0,3.0,Jets,False,False,1982,,,
 2,11,Sun,November 21,1:00PM ET,boxscore,W,,2-1,,Baltimore Colts,37.0,0.0,29.0,476.0,249.0,227.0,,17.0,318.0,230.0,88.0,3.0,Jets,False,False,1982,,,
@@ -2906,7 +2906,7 @@
 10,Wild Card,Sat,January 8,12:30PM ET,boxscore,W,,9-1,,Detroit Lions,31.0,7.0,18.0,366.0,191.0,175.0,,20.0,364.0,269.0,95.0,5.0,Football Team,False,False,1982,,,
 11,Division,Sat,January 15,12:30PM ET,boxscore,W,,10-1,,Minnesota Vikings,21.0,7.0,23.0,415.0,211.0,204.0,1.0,15.0,317.0,238.0,79.0,,Football Team,False,False,1982,,,
 12,Conf. Champ.,Sat,January 22,12:30PM ET,boxscore,W,,11-1,,Dallas Cowboys,31.0,17.0,18.0,260.0,123.0,137.0,,21.0,340.0,275.0,65.0,3.0,Football Team,False,False,1982,,,
-13,SuperBowl,Sun,January 30,6:00PM ET,boxscore,W,,12-1,N,Miami Dolphins,27.0,17.0,24.0,400.0,124.0,276.0,2.0,9.0,176.0,80.0,96.0,2.0,Football Team,False,False,1982,,,
+13,SuperBowl,Sun,January 30,6:00PM ET,boxscore,W,,12-1,N,Miami Dolphins,27.0,17.0,24.0,400.0,124.0,276.0,2.0,9.0,176.0,80.0,96.0,2.0,Football Team,True,True,1982,,,
 0,1,Sun,September 12,1:00PM ET,boxscore,L,,0-1,,Atlanta Falcons,14.0,16.0,17.0,378.0,302.0,76.0,4.0,17.0,272.0,154.0,118.0,3.0,Giants,False,False,1982,,,
 1,2,Mon,September 20,9:00PM ET,boxscore,L,,0-2,,Green Bay Packers,19.0,27.0,15.0,267.0,191.0,76.0,3.0,16.0,361.0,163.0,198.0,1.0,Giants,False,False,1982,,,
 2,11,Sun,November 21,4:00PM ET,boxscore,L,,0-3,,Washington Redskins,17.0,27.0,20.0,287.0,151.0,136.0,1.0,19.0,312.0,173.0,139.0,,Giants,False,False,1982,,,
@@ -3212,7 +3212,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Raiders,False,False,1983,,,
 17,Division,Sun,January 1,4:00PM ET,boxscore,W,,13-4,,Pittsburgh Steelers,38.0,10.0,24.0,413.0,225.0,188.0,,17.0,331.0,169.0,162.0,2.0,Raiders,False,False,1983,,,
 18,Conf. Champ.,Sun,January 8,4:00PM ET,boxscore,W,,14-4,,Seattle Seahawks,30.0,14.0,21.0,401.0,196.0,205.0,4.0,16.0,167.0,102.0,65.0,5.0,Raiders,False,False,1983,,,
-19,SuperBowl,Sun,January 22,4:50PM ET,boxscore,W,,15-4,N,Washington Redskins,38.0,9.0,18.0,385.0,154.0,231.0,2.0,19.0,283.0,193.0,90.0,3.0,Raiders,False,False,1983,,,
+19,SuperBowl,Sun,January 22,4:50PM ET,boxscore,W,,15-4,N,Washington Redskins,38.0,9.0,18.0,385.0,154.0,231.0,2.0,19.0,283.0,193.0,90.0,3.0,Raiders,True,True,1983,,,
 0,1,Sun,September 4,4:00PM ET,boxscore,L,,0-1,,New York Jets,29.0,41.0,23.0,488.0,354.0,134.0,4.0,25.0,391.0,140.0,251.0,1.0,Chargers,False,False,1983,,,
 1,2,Mon,September 12,9:00PM ET,boxscore,W,,1-1,@,Kansas City Chiefs,17.0,14.0,27.0,443.0,251.0,192.0,3.0,13.0,267.0,222.0,45.0,2.0,Chargers,False,False,1983,,,
 2,3,Sun,September 18,4:00PM ET,boxscore,L,,1-2,@,Seattle Seahawks,31.0,34.0,23.0,431.0,332.0,99.0,3.0,24.0,368.0,162.0,206.0,3.0,Chargers,False,False,1983,,,
@@ -3300,7 +3300,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Football Team,False,False,1983,,,
 17,Division,Sun,January 1,12:30PM ET,boxscore,W,,15-2,,Los Angeles Rams,51.0,7.0,23.0,445.0,315.0,130.0,1.0,12.0,204.0,153.0,51.0,4.0,Football Team,False,False,1983,,,
 18,Conf. Champ.,Sun,January 8,12:30PM ET,boxscore,W,,16-2,,San Francisco 49ers,24.0,21.0,24.0,410.0,238.0,172.0,2.0,19.0,434.0,347.0,87.0,3.0,Football Team,False,False,1983,,,
-19,SuperBowl,Sun,January 22,4:50PM ET,boxscore,L,,16-3,N,Los Angeles Raiders,9.0,38.0,19.0,283.0,193.0,90.0,3.0,18.0,385.0,154.0,231.0,2.0,Football Team,False,False,1983,,,
+19,SuperBowl,Sun,January 22,4:50PM ET,boxscore,L,,16-3,N,Los Angeles Raiders,9.0,38.0,19.0,283.0,193.0,90.0,3.0,18.0,385.0,154.0,231.0,2.0,Football Team,True,False,1983,,,
 0,1,Sun,September 4,1:00PM ET,boxscore,L,,0-1,,Los Angeles Rams,6.0,16.0,13.0,259.0,137.0,122.0,5.0,20.0,395.0,279.0,116.0,5.0,Giants,False,False,1983,,,
 1,2,Sun,September 11,1:00PM ET,boxscore,W,OT,1-1,@,Atlanta Falcons,16.0,13.0,19.0,343.0,187.0,156.0,1.0,14.0,298.0,235.0,63.0,3.0,Giants,False,False,1983,,,
 2,3,Sun,September 18,4:00PM ET,boxscore,L,,1-2,@,Dallas Cowboys,13.0,28.0,16.0,334.0,203.0,131.0,4.0,18.0,309.0,220.0,89.0,3.0,Giants,False,False,1983,,,
@@ -3556,7 +3556,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Dolphins,False,False,1984,,,
 17,Division,Sat,December 29,12:30PM ET,boxscore,W,,15-2,,Seattle Seahawks,31.0,10.0,22.0,405.0,262.0,143.0,2.0,8.0,267.0,216.0,51.0,1.0,Dolphins,False,False,1984,,,
 18,Conf. Champ.,Sun,January 6,12:30PM ET,boxscore,W,,16-2,,Pittsburgh Steelers,45.0,28.0,28.0,569.0,435.0,134.0,2.0,22.0,455.0,312.0,143.0,4.0,Dolphins,False,False,1984,,,
-19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,L,,16-3,N,San Francisco 49ers,16.0,38.0,19.0,314.0,289.0,25.0,2.0,31.0,537.0,326.0,211.0,2.0,Dolphins,False,False,1984,,,
+19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,L,,16-3,N,San Francisco 49ers,16.0,38.0,19.0,314.0,289.0,25.0,2.0,31.0,537.0,326.0,211.0,2.0,Dolphins,True,False,1984,,,
 0,1,Sun,September 2,4:00PM ET,boxscore,W,,1-0,@,Indianapolis Colts,23.0,14.0,23.0,308.0,153.0,155.0,3.0,19.0,294.0,172.0,122.0,5.0,Jets,False,False,1984,,,
 1,2,Thu,September 6,9:00PM ET,boxscore,L,,1-1,,Pittsburgh Steelers,17.0,23.0,11.0,168.0,95.0,73.0,4.0,19.0,293.0,172.0,121.0,2.0,Jets,False,False,1984,,,
 2,3,Sun,September 16,1:00PM ET,boxscore,W,,2-1,,Cincinnati Bengals,43.0,23.0,25.0,397.0,219.0,178.0,,20.0,425.0,339.0,86.0,6.0,Jets,False,False,1984,,,
@@ -3961,7 +3961,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,1984,,,
 17,Division,Sat,December 29,4:00PM ET,boxscore,W,,16-1,,New York Giants,21.0,10.0,22.0,412.0,281.0,131.0,3.0,18.0,260.0,173.0,87.0,3.0,49ers,False,False,1984,,,
 18,Conf. Champ.,Sun,January 6,4:00PM ET,boxscore,W,,17-1,,Chicago Bears,23.0,0.0,25.0,387.0,228.0,159.0,2.0,13.0,186.0,37.0,149.0,1.0,49ers,False,False,1984,,,
-19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,W,,18-1,N,Miami Dolphins,38.0,16.0,31.0,537.0,326.0,211.0,2.0,19.0,314.0,289.0,25.0,2.0,49ers,False,False,1984,,,
+19,SuperBowl,Sun,January 20,6:00PM ET,boxscore,W,,18-1,N,Miami Dolphins,38.0,16.0,31.0,537.0,326.0,211.0,2.0,19.0,314.0,289.0,25.0,2.0,49ers,True,True,1984,,,
 0,1,Mon,September 3,4:00PM ET,boxscore,W,,1-0,,Cleveland Browns,33.0,0.0,20.0,307.0,162.0,145.0,3.0,10.0,120.0,68.0,52.0,5.0,Seahawks,False,False,1984,,,
 1,2,Sun,September 9,4:00PM ET,boxscore,W,,2-0,,San Diego Chargers,31.0,17.0,21.0,430.0,257.0,173.0,2.0,21.0,415.0,318.0,97.0,8.0,Seahawks,False,False,1984,,,
 2,3,Sun,September 16,1:00PM ET,boxscore,L,,2-1,@,New England Patriots,23.0,38.0,16.0,252.0,215.0,37.0,3.0,22.0,291.0,102.0,189.0,2.0,Seahawks,False,False,1984,,,
@@ -4017,7 +4017,7 @@
 17,Wild Card,Sat,December 28,4:00PM ET,boxscore,W,,12-5,@,New York Jets,26.0,14.0,12.0,258.0,159.0,99.0,,15.0,240.0,182.0,58.0,4.0,Patriots,False,False,1985,,,
 18,Division,Sun,January 5,4:00PM ET,boxscore,W,,13-5,@,Los Angeles Raiders,27.0,20.0,15.0,254.0,98.0,156.0,2.0,17.0,287.0,124.0,163.0,6.0,Patriots,False,False,1985,,,
 19,Conf. Champ.,Sun,January 12,4:00PM ET,boxscore,W,,14-5,@,Miami Dolphins,31.0,14.0,21.0,326.0,71.0,255.0,2.0,18.0,302.0,234.0,68.0,6.0,Patriots,False,False,1985,,,
-20,SuperBowl,Sun,January 26,5:00PM ET,boxscore,L,,14-6,N,Chicago Bears,10.0,46.0,12.0,123.0,116.0,7.0,6.0,23.0,408.0,241.0,167.0,2.0,Patriots,False,False,1985,,,
+20,SuperBowl,Sun,January 26,5:00PM ET,boxscore,L,,14-6,N,Chicago Bears,10.0,46.0,12.0,123.0,116.0,7.0,6.0,23.0,408.0,241.0,167.0,2.0,Patriots,True,False,1985,,,
 0,1,Sun,September 8,1:00PM ET,boxscore,L,,0-1,@,Houston Oilers,23.0,26.0,17.0,360.0,291.0,69.0,3.0,21.0,394.0,229.0,165.0,4.0,Dolphins,False,False,1985,,,
 1,2,Sun,September 15,1:00PM ET,boxscore,W,,1-1,,Indianapolis Colts,30.0,13.0,33.0,486.0,329.0,157.0,1.0,17.0,298.0,202.0,96.0,1.0,Dolphins,False,False,1985,,,
 2,3,Sun,September 22,4:00PM ET,boxscore,W,,2-1,,Kansas City Chiefs,31.0,0.0,27.0,391.0,258.0,133.0,2.0,15.0,284.0,187.0,97.0,2.0,Dolphins,False,False,1985,,,
@@ -4371,7 +4371,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bears,False,False,1985,,,
 17,Division,Sun,January 5,12:30PM ET,boxscore,W,,16-1,,New York Giants,21.0,0.0,17.0,363.0,216.0,147.0,,10.0,181.0,149.0,32.0,1.0,Bears,False,False,1985,,,
 18,Conf. Champ.,Sun,January 12,12:30PM ET,boxscore,W,,17-1,,Los Angeles Rams,24.0,0.0,13.0,232.0,141.0,91.0,1.0,9.0,130.0,44.0,86.0,3.0,Bears,False,False,1985,,,
-19,SuperBowl,Sun,January 26,5:00PM ET,boxscore,W,,18-1,N,New England Patriots,46.0,10.0,23.0,408.0,241.0,167.0,2.0,12.0,123.0,116.0,7.0,6.0,Bears,False,False,1985,,,
+19,SuperBowl,Sun,January 26,5:00PM ET,boxscore,W,,18-1,N,New England Patriots,46.0,10.0,23.0,408.0,241.0,167.0,2.0,12.0,123.0,116.0,7.0,6.0,Bears,True,True,1985,,,
 0,1,Sun,September 8,1:00PM ET,boxscore,W,,1-0,@,Atlanta Falcons,28.0,27.0,16.0,286.0,156.0,130.0,2.0,21.0,300.0,140.0,160.0,1.0,Lions,False,False,1985,,,
 1,2,Sun,September 15,1:00PM ET,boxscore,W,,2-0,,Dallas Cowboys,26.0,21.0,13.0,200.0,128.0,72.0,1.0,33.0,554.0,452.0,102.0,5.0,Lions,False,False,1985,,,
 2,3,Sun,September 22,1:00PM ET,boxscore,L,,2-1,@,Indianapolis Colts,6.0,14.0,10.0,204.0,99.0,105.0,2.0,24.0,355.0,127.0,228.0,3.0,Lions,False,False,1985,,,
@@ -4678,7 +4678,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,1986,,,
 17,Division,Sun,January 4,4:00PM ET,boxscore,W,,12-5,,New England Patriots,22.0,17.0,23.0,441.0,253.0,188.0,2.0,12.0,271.0,150.0,121.0,,Broncos,False,False,1986,,,
 18,Conf. Champ.,Sun,January 11,12:30PM ET,boxscore,W,OT,13-5,@,Cleveland Browns,23.0,20.0,22.0,374.0,225.0,149.0,1.0,17.0,356.0,256.0,100.0,3.0,Broncos,False,False,1986,,,
-19,SuperBowl,Sun,January 25,4:00PM ET,boxscore,L,,13-6,N,New York Giants,20.0,39.0,24.0,372.0,320.0,52.0,1.0,24.0,399.0,263.0,136.0,,Broncos,False,False,1986,,,
+19,SuperBowl,Sun,January 25,4:00PM ET,boxscore,L,,13-6,N,New York Giants,20.0,39.0,24.0,372.0,320.0,52.0,1.0,24.0,399.0,263.0,136.0,,Broncos,True,False,1986,,,
 0,1,Mon,September 8,9:00PM ET,boxscore,W,,1-0,,New York Giants,31.0,28.0,22.0,378.0,265.0,113.0,2.0,24.0,377.0,261.0,116.0,2.0,Cowboys,False,False,1986,,,
 1,2,Sun,September 14,1:00PM ET,boxscore,W,,2-0,@,Detroit Lions,31.0,7.0,24.0,388.0,191.0,197.0,2.0,12.0,184.0,104.0,80.0,3.0,Cowboys,False,False,1986,,,
 2,3,Sun,September 21,1:00PM ET,boxscore,L,,2-1,,Atlanta Falcons,35.0,37.0,22.0,415.0,263.0,152.0,4.0,26.0,420.0,233.0,187.0,1.0,Cowboys,False,False,1986,,,
@@ -4750,7 +4750,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Giants,False,False,1986,,,
 17,Division,Sun,January 4,12:30PM ET,boxscore,W,,15-2,,San Francisco 49ers,49.0,3.0,21.0,366.0,150.0,216.0,,9.0,184.0,155.0,29.0,4.0,Giants,False,False,1986,,,
 18,Conf. Champ.,Sun,January 11,4:00PM ET,boxscore,W,,16-2,,Washington Redskins,17.0,0.0,12.0,199.0,82.0,117.0,3.0,12.0,190.0,150.0,40.0,2.0,Giants,False,False,1986,,,
-19,SuperBowl,Sun,January 25,4:00PM ET,boxscore,W,,17-2,N,Denver Broncos,39.0,20.0,24.0,399.0,263.0,136.0,,24.0,372.0,320.0,52.0,1.0,Giants,False,False,1986,,,
+19,SuperBowl,Sun,January 25,4:00PM ET,boxscore,W,,17-2,N,Denver Broncos,39.0,20.0,24.0,399.0,263.0,136.0,,24.0,372.0,320.0,52.0,1.0,Giants,True,True,1986,,,
 0,1,Sun,September 7,1:00PM ET,boxscore,L,,0-1,,San Francisco 49ers,7.0,31.0,17.0,286.0,195.0,91.0,7.0,28.0,453.0,345.0,108.0,2.0,Buccaneers,False,False,1986,,,
 1,2,Sun,September 14,4:00PM ET,boxscore,L,,0-2,,Minnesota Vikings,10.0,23.0,21.0,239.0,156.0,83.0,3.0,17.0,242.0,120.0,122.0,,Buccaneers,False,False,1986,,,
 2,3,Sun,September 21,1:00PM ET,boxscore,W,,1-2,@,Detroit Lions,24.0,20.0,14.0,253.0,24.0,229.0,1.0,26.0,379.0,286.0,93.0,5.0,Buccaneers,False,False,1986,,,
@@ -5139,7 +5139,7 @@
 15,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,1987,,,
 16,Division,Sun,January 10,4:00PM ET,boxscore,W,,11-4-1,,Houston Oilers,34.0,10.0,19.0,316.0,255.0,61.0,1.0,20.0,337.0,264.0,73.0,3.0,Broncos,False,False,1987,,,
 17,Conf. Champ.,Sun,January 17,4:00PM ET,boxscore,W,,12-4-1,,Cleveland Browns,38.0,33.0,24.0,412.0,256.0,156.0,1.0,25.0,464.0,336.0,128.0,4.0,Broncos,False,False,1987,,,
-18,SuperBowl,Sun,January 31,6:00PM ET,boxscore,L,,12-5-1,N,Washington Redskins,10.0,42.0,18.0,327.0,230.0,97.0,3.0,25.0,602.0,322.0,280.0,1.0,Broncos,False,False,1987,,,
+18,SuperBowl,Sun,January 31,6:00PM ET,boxscore,L,,12-5-1,N,Washington Redskins,10.0,42.0,18.0,327.0,230.0,97.0,3.0,25.0,602.0,322.0,280.0,1.0,Broncos,True,False,1987,,,
 0,1,Sun,September 13,1:00PM ET,boxscore,L,,0-1,@,St. Louis Cardinals,13.0,24.0,19.0,322.0,197.0,125.0,1.0,20.0,360.0,252.0,108.0,,Cowboys,False,False,1987,,,
 1,2,Sun,September 20,4:00PM ET,boxscore,W,,1-1,@,New York Giants,16.0,14.0,21.0,356.0,242.0,114.0,4.0,14.0,265.0,205.0,60.0,5.0,Cowboys,False,False,1987,,,
 2,4,Sun,October 4,4:00PM ET,boxscore,W,,2-1,@,New York Jets,38.0,24.0,14.0,246.0,132.0,114.0,4.0,22.0,241.0,159.0,82.0,5.0,Cowboys,False,False,1987,,,
@@ -5188,7 +5188,7 @@
 15,,,Playoffs,,,,,,,,,,,,,,,,,,,,Football Team,False,False,1987,,,
 16,Division,Sun,January 10,12:30PM ET,boxscore,W,,12-4,@,Chicago Bears,21.0,17.0,17.0,272.0,200.0,72.0,2.0,15.0,280.0,170.0,110.0,3.0,Football Team,False,False,1987,,,
 17,Conf. Champ.,Sun,January 17,12:30PM ET,boxscore,W,,13-4,,Minnesota Vikings,17.0,10.0,11.0,280.0,119.0,161.0,,16.0,259.0,183.0,76.0,1.0,Football Team,False,False,1987,,,
-18,SuperBowl,Sun,January 31,6:00PM ET,boxscore,W,,14-4,N,Denver Broncos,42.0,10.0,25.0,602.0,322.0,280.0,1.0,18.0,327.0,230.0,97.0,3.0,Football Team,False,False,1987,,,
+18,SuperBowl,Sun,January 31,6:00PM ET,boxscore,W,,14-4,N,Denver Broncos,42.0,10.0,25.0,602.0,322.0,280.0,1.0,18.0,327.0,230.0,97.0,3.0,Football Team,True,True,1987,,,
 0,1,Mon,September 14,9:00PM ET,boxscore,L,,0-1,@,Chicago Bears,19.0,34.0,14.0,203.0,122.0,81.0,1.0,17.0,416.0,292.0,124.0,2.0,Giants,False,False,1987,,,
 1,2,Sun,September 20,4:00PM ET,boxscore,L,,0-2,,Dallas Cowboys,14.0,16.0,14.0,265.0,205.0,60.0,5.0,21.0,356.0,242.0,114.0,4.0,Giants,False,False,1987,,,
 2,4,Mon,October 5,9:00PM ET,boxscore,L,,0-3,,San Francisco 49ers,21.0,41.0,14.0,231.0,154.0,77.0,4.0,28.0,433.0,191.0,242.0,1.0,Giants,False,False,1987,,,
@@ -5502,7 +5502,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bengals,False,False,1988,,,
 17,Division,Sat,December 31,4:00PM ET,boxscore,W,,13-4,,Seattle Seahawks,21.0,13.0,22.0,345.0,91.0,254.0,2.0,19.0,294.0,276.0,18.0,3.0,Bengals,False,False,1988,,,
 18,Conf. Champ.,Sun,January 8,12:30PM ET,boxscore,W,,14-4,,Buffalo Bills,21.0,10.0,23.0,249.0,74.0,175.0,2.0,10.0,181.0,136.0,45.0,3.0,Bengals,False,False,1988,,,
-19,SuperBowl,Sun,January 22,5:00PM ET,boxscore,L,,14-5,N,San Francisco 49ers,16.0,20.0,13.0,229.0,123.0,106.0,1.0,23.0,452.0,341.0,111.0,2.0,Bengals,False,False,1988,,,
+19,SuperBowl,Sun,January 22,5:00PM ET,boxscore,L,,14-5,N,San Francisco 49ers,16.0,20.0,13.0,229.0,123.0,106.0,1.0,23.0,452.0,341.0,111.0,2.0,Bengals,True,False,1988,,,
 0,1,Sun,September 4,1:00PM ET,boxscore,W,,1-0,,Dallas Cowboys,24.0,21.0,17.0,356.0,214.0,142.0,,25.0,414.0,280.0,134.0,3.0,Steelers,False,False,1988,,,
 1,2,Sun,September 11,1:00PM ET,boxscore,L,,1-1,@,Washington Redskins,29.0,30.0,14.0,341.0,258.0,83.0,1.0,25.0,515.0,422.0,93.0,3.0,Steelers,False,False,1988,,,
 2,3,Sun,September 18,1:00PM ET,boxscore,L,,1-2,,Cincinnati Bengals,12.0,17.0,19.0,319.0,195.0,124.0,6.0,20.0,306.0,190.0,116.0,1.0,Steelers,False,False,1988,,,
@@ -5838,7 +5838,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,1988,,,
 17,Division,Sun,January 1,4:00PM ET,boxscore,W,,11-6,,Minnesota Vikings,34.0,9.0,20.0,372.0,171.0,201.0,2.0,20.0,262.0,208.0,54.0,3.0,49ers,False,False,1988,,,
 18,Conf. Champ.,Sun,January 8,4:00PM ET,boxscore,W,,12-6,@,Chicago Bears,28.0,3.0,21.0,406.0,268.0,138.0,1.0,15.0,267.0,176.0,91.0,2.0,49ers,False,False,1988,,,
-19,SuperBowl,Sun,January 22,5:00PM ET,boxscore,W,,13-6,N,Cincinnati Bengals,20.0,16.0,23.0,452.0,341.0,111.0,2.0,13.0,229.0,123.0,106.0,1.0,49ers,False,False,1988,,,
+19,SuperBowl,Sun,January 22,5:00PM ET,boxscore,W,,13-6,N,Cincinnati Bengals,20.0,16.0,23.0,452.0,341.0,111.0,2.0,13.0,229.0,123.0,106.0,1.0,49ers,True,True,1988,,,
 0,1,Sun,September 4,4:00PM ET,boxscore,W,,1-0,@,Denver Broncos,21.0,14.0,19.0,330.0,152.0,178.0,1.0,19.0,302.0,226.0,76.0,3.0,Seahawks,False,False,1988,,,
 1,2,Sun,September 11,4:00PM ET,boxscore,W,,2-0,,Kansas City Chiefs,31.0,10.0,19.0,263.0,107.0,156.0,1.0,19.0,286.0,236.0,50.0,6.0,Seahawks,False,False,1988,,,
 2,3,Sun,September 18,4:00PM ET,boxscore,L,,2-1,@,San Diego Chargers,6.0,17.0,20.0,299.0,194.0,105.0,4.0,14.0,237.0,78.0,159.0,1.0,Seahawks,False,False,1988,,,
@@ -6078,7 +6078,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,1989,,,
 17,Division,Sun,January 7,4:00PM ET,boxscore,W,,12-5,,Pittsburgh Steelers,24.0,23.0,19.0,364.0,226.0,138.0,1.0,19.0,404.0,229.0,175.0,2.0,Broncos,False,False,1989,,,
 18,Conf. Champ.,Sun,January 14,1:30PM ET,boxscore,W,,13-5,,Cleveland Browns,37.0,21.0,22.0,497.0,377.0,120.0,2.0,14.0,256.0,190.0,66.0,3.0,Broncos,False,False,1989,,,
-19,SuperBowl,Sun,January 28,5:00PM ET,boxscore,L,,13-6,N,San Francisco 49ers,10.0,55.0,12.0,167.0,103.0,64.0,4.0,28.0,461.0,317.0,144.0,,Broncos,False,False,1989,,,
+19,SuperBowl,Sun,January 28,5:00PM ET,boxscore,L,,13-6,N,San Francisco 49ers,10.0,55.0,12.0,167.0,103.0,64.0,4.0,28.0,461.0,317.0,144.0,,Broncos,True,False,1989,,,
 0,1,Sun,September 10,1:00PM ET,boxscore,L,,0-1,@,New Orleans Saints,0.0,28.0,10.0,174.0,154.0,20.0,2.0,26.0,344.0,145.0,199.0,1.0,Cowboys,False,False,1989,,,
 1,2,Sun,September 17,1:00PM ET,boxscore,L,,0-2,@,Atlanta Falcons,21.0,27.0,18.0,349.0,241.0,108.0,3.0,23.0,333.0,243.0,90.0,,Cowboys,False,False,1989,,,
 2,3,Sun,September 24,1:00PM ET,boxscore,L,,0-3,,Washington Redskins,7.0,30.0,10.0,190.0,156.0,34.0,4.0,20.0,373.0,208.0,165.0,1.0,Cowboys,False,False,1989,,,
@@ -6316,7 +6316,7 @@
 16,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,1989,,,
 17,Division,Sat,January 6,4:00PM ET,boxscore,W,,15-2,,Minnesota Vikings,41.0,13.0,22.0,403.0,241.0,162.0,1.0,25.0,385.0,299.0,86.0,5.0,49ers,False,False,1989,,,
 18,Conf. Champ.,Sun,January 14,5:00PM ET,boxscore,W,,16-2,,Los Angeles Rams,30.0,3.0,29.0,442.0,263.0,179.0,2.0,9.0,156.0,130.0,26.0,3.0,49ers,False,False,1989,,,
-19,SuperBowl,Sun,January 28,5:00PM ET,boxscore,W,,17-2,N,Denver Broncos,55.0,10.0,28.0,461.0,317.0,144.0,,12.0,167.0,103.0,64.0,4.0,49ers,False,False,1989,,,
+19,SuperBowl,Sun,January 28,5:00PM ET,boxscore,W,,17-2,N,Denver Broncos,55.0,10.0,28.0,461.0,317.0,144.0,,12.0,167.0,103.0,64.0,4.0,49ers,True,True,1989,,,
 0,1,Sun,September 10,4:00PM ET,boxscore,L,,0-1,@,Philadelphia Eagles,7.0,31.0,17.0,270.0,193.0,77.0,3.0,18.0,365.0,234.0,131.0,,Seahawks,False,False,1989,,,
 1,2,Sun,September 17,4:00PM ET,boxscore,L,,0-2,,Phoenix Cardinals,24.0,34.0,23.0,346.0,269.0,77.0,1.0,25.0,469.0,298.0,171.0,2.0,Seahawks,False,False,1989,,,
 2,3,Sun,September 24,1:00PM ET,boxscore,W,,1-2,@,New England Patriots,24.0,3.0,20.0,316.0,159.0,157.0,,13.0,219.0,128.0,91.0,3.0,Seahawks,False,False,1989,,,
@@ -6353,7 +6353,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bills,False,False,1990,,,
 18,Division,Sat,January 12,12:30PM ET,boxscore,W,,14-3,,Miami Dolphins,44.0,34.0,24.0,493.0,339.0,154.0,2.0,24.0,430.0,323.0,107.0,3.0,Bills,False,False,1990,,,
 19,Conf. Champ.,Sun,January 20,12:30PM ET,boxscore,W,,15-3,,Los Angeles Raiders,51.0,3.0,30.0,502.0,300.0,202.0,1.0,21.0,320.0,169.0,151.0,7.0,Bills,False,False,1990,,,
-20,SuperBowl,Sun,January 27,5:30PM ET,boxscore,L,,15-4,N,New York Giants,19.0,20.0,18.0,371.0,205.0,166.0,,24.0,386.0,214.0,172.0,,Bills,False,False,1990,,,
+20,SuperBowl,Sun,January 27,5:30PM ET,boxscore,L,,15-4,N,New York Giants,19.0,20.0,18.0,371.0,205.0,166.0,,24.0,386.0,214.0,172.0,,Bills,True,False,1990,,,
 0,1,Sun,September 9,4:00PM ET,boxscore,L,,0-1,,Miami Dolphins,24.0,27.0,13.0,265.0,183.0,82.0,,23.0,432.0,255.0,177.0,4.0,Patriots,False,False,1990,,,
 1,2,Sun,September 16,1:00PM ET,boxscore,W,,1-1,@,Indianapolis Colts,16.0,14.0,16.0,310.0,187.0,123.0,1.0,14.0,207.0,143.0,64.0,5.0,Patriots,False,False,1990,,,
 2,3,Sun,September 23,1:00PM ET,boxscore,L,,1-2,@,Cincinnati Bengals,7.0,41.0,18.0,302.0,250.0,52.0,5.0,18.0,346.0,236.0,110.0,2.0,Patriots,False,False,1990,,,
@@ -6647,7 +6647,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Giants,False,False,1990,,,
 18,Division,Sun,January 13,12:30PM ET,boxscore,W,,14-3,,Chicago Bears,31.0,3.0,23.0,288.0,94.0,194.0,1.0,11.0,232.0,205.0,27.0,2.0,Giants,False,False,1990,,,
 19,Conf. Champ.,Sun,January 20,4:00PM ET,boxscore,W,,15-3,@,San Francisco 49ers,15.0,13.0,20.0,311.0,159.0,152.0,,13.0,240.0,201.0,39.0,1.0,Giants,False,False,1990,,,
-20,SuperBowl,Sun,January 27,5:30PM ET,boxscore,W,,16-3,N,Buffalo Bills,20.0,19.0,24.0,386.0,214.0,172.0,,18.0,371.0,205.0,166.0,,Giants,False,False,1990,,,
+20,SuperBowl,Sun,January 27,5:30PM ET,boxscore,W,,16-3,N,Buffalo Bills,20.0,19.0,24.0,386.0,214.0,172.0,,18.0,371.0,205.0,166.0,,Giants,True,True,1990,,,
 0,1,Sun,September 9,1:00PM ET,boxscore,W,,1-0,@,Detroit Lions,38.0,21.0,20.0,375.0,237.0,138.0,2.0,18.0,258.0,168.0,90.0,6.0,Buccaneers,False,False,1990,,,
 1,2,Sun,September 16,1:00PM ET,boxscore,L,,1-1,,Los Angeles Rams,14.0,35.0,13.0,255.0,194.0,61.0,2.0,22.0,389.0,253.0,136.0,,Buccaneers,False,False,1990,,,
 2,3,Sun,September 23,8:00PM ET,boxscore,W,,2-1,,Detroit Lions,23.0,20.0,19.0,323.0,171.0,152.0,1.0,18.0,307.0,152.0,155.0,2.0,Buccaneers,False,False,1990,,,
@@ -6863,7 +6863,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bills,False,False,1991,,,
 18,Division,Sun,January 5,12:30PM ET,boxscore,W,,14-3,,Kansas City Chiefs,37.0,14.0,29.0,448.0,268.0,180.0,3.0,14.0,213.0,136.0,77.0,4.0,Bills,False,False,1991,,,
 19,Conf. Champ.,Sun,January 12,12:30PM ET,boxscore,W,,15-3,,Denver Broncos,10.0,7.0,12.0,213.0,109.0,104.0,2.0,20.0,304.0,223.0,81.0,2.0,Bills,False,False,1991,,,
-20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,L,,15-4,N,Washington Redskins,24.0,37.0,25.0,283.0,240.0,43.0,5.0,24.0,417.0,292.0,125.0,1.0,Bills,False,False,1991,,,
+20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,L,,15-4,N,Washington Redskins,24.0,37.0,25.0,283.0,240.0,43.0,5.0,24.0,417.0,292.0,125.0,1.0,Bills,True,False,1991,,,
 0,1,Sun,September 1,4:00PM ET,boxscore,W,,1-0,@,Indianapolis Colts,16.0,7.0,14.0,206.0,125.0,81.0,1.0,19.0,337.0,271.0,66.0,2.0,Patriots,False,False,1991,,,
 1,2,Sun,September 8,1:00PM ET,boxscore,L,,1-1,,Cleveland Browns,0.0,20.0,8.0,143.0,71.0,72.0,4.0,16.0,279.0,166.0,113.0,,Patriots,False,False,1991,,,
 2,3,Sun,September 15,1:00PM ET,boxscore,L,,1-2,@,Pittsburgh Steelers,6.0,20.0,12.0,174.0,92.0,82.0,2.0,16.0,290.0,247.0,43.0,2.0,Patriots,False,False,1991,,,
@@ -7138,7 +7138,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Football Team,False,False,1991,,,
 18,Division,Sat,January 4,12:30PM ET,boxscore,W,,15-2,,Atlanta Falcons,24.0,7.0,22.0,332.0,170.0,162.0,1.0,12.0,193.0,150.0,43.0,6.0,Football Team,False,False,1991,,,
 19,Conf. Champ.,Sun,January 12,4:00PM ET,boxscore,W,,16-2,,Detroit Lions,41.0,10.0,17.0,345.0,228.0,117.0,,20.0,304.0,232.0,72.0,3.0,Football Team,False,False,1991,,,
-20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,W,,17-2,N,Buffalo Bills,37.0,24.0,24.0,417.0,292.0,125.0,1.0,25.0,283.0,240.0,43.0,5.0,Football Team,False,False,1991,,,
+20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,W,,17-2,N,Buffalo Bills,37.0,24.0,24.0,417.0,292.0,125.0,1.0,25.0,283.0,240.0,43.0,5.0,Football Team,True,True,1991,,,
 0,1,Mon,September 2,9:00PM ET,boxscore,W,,1-0,,San Francisco 49ers,16.0,14.0,17.0,331.0,201.0,130.0,,14.0,258.0,152.0,106.0,2.0,Giants,False,False,1991,,,
 1,2,Sun,September 8,1:00PM ET,boxscore,L,,1-1,,Los Angeles Rams,13.0,19.0,18.0,293.0,177.0,116.0,3.0,10.0,217.0,74.0,143.0,1.0,Giants,False,False,1991,,,
 2,3,Sun,September 15,1:00PM ET,boxscore,L,,1-2,@,Chicago Bears,17.0,20.0,21.0,337.0,205.0,132.0,2.0,10.0,307.0,206.0,101.0,3.0,Giants,False,False,1991,,,
@@ -7374,7 +7374,7 @@
 18,Wild Card,Sun,January 3,12:30PM ET,boxscore,W,OT,12-5,,Houston Oilers,41.0,38.0,19.0,366.0,268.0,98.0,1.0,27.0,429.0,347.0,82.0,2.0,Bills,False,False,1992,,,
 19,Division,Sat,January 9,12:30PM ET,boxscore,W,,13-5,@,Pittsburgh Steelers,24.0,3.0,19.0,325.0,156.0,169.0,,18.0,240.0,111.0,129.0,3.0,Bills,False,False,1992,,,
 20,Conf. Champ.,Sun,January 17,12:30PM ET,boxscore,W,,14-5,@,Miami Dolphins,29.0,10.0,20.0,358.0,176.0,182.0,2.0,15.0,276.0,243.0,33.0,5.0,Bills,False,False,1992,,,
-21,SuperBowl,Sun,January 31,6:30PM ET,boxscore,L,,14-6,N,Dallas Cowboys,17.0,52.0,22.0,362.0,254.0,108.0,9.0,20.0,408.0,271.0,137.0,1.0,Bills,False,False,1992,,,
+21,SuperBowl,Sun,January 31,6:30PM ET,boxscore,L,,14-6,N,Dallas Cowboys,17.0,52.0,22.0,362.0,254.0,108.0,9.0,20.0,408.0,271.0,137.0,1.0,Bills,True,False,1992,,,
 0,2,Sun,September 13,4:00PM ET,boxscore,L,,0-1,@,Los Angeles Rams,0.0,14.0,14.0,227.0,109.0,118.0,5.0,13.0,240.0,119.0,121.0,,Patriots,False,False,1992,,,
 1,3,Sun,September 20,1:00PM ET,boxscore,L,,0-2,,Seattle Seahawks,6.0,10.0,16.0,245.0,146.0,99.0,3.0,14.0,250.0,110.0,140.0,,Patriots,False,False,1992,,,
 2,4,Sun,September 27,1:00PM ET,boxscore,L,,0-3,,Buffalo Bills,7.0,41.0,16.0,265.0,196.0,69.0,3.0,23.0,490.0,308.0,182.0,1.0,Patriots,False,False,1992,,,
@@ -7609,7 +7609,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Cowboys,False,False,1992,,,
 18,Division,Sun,January 10,12:30PM ET,boxscore,W,,14-3,,Philadelphia Eagles,34.0,10.0,22.0,346.0,186.0,160.0,1.0,12.0,178.0,115.0,63.0,2.0,Cowboys,False,False,1992,,,
 19,Conf. Champ.,Sun,January 17,4:00PM ET,boxscore,W,,15-3,@,San Francisco 49ers,30.0,20.0,24.0,416.0,295.0,121.0,,24.0,415.0,301.0,114.0,4.0,Cowboys,False,False,1992,,,
-20,SuperBowl,Sun,January 31,6:30PM ET,boxscore,W,,16-3,N,Buffalo Bills,52.0,17.0,20.0,408.0,271.0,137.0,1.0,22.0,362.0,254.0,108.0,9.0,Cowboys,False,False,1992,,,
+20,SuperBowl,Sun,January 31,6:30PM ET,boxscore,W,,16-3,N,Buffalo Bills,52.0,17.0,20.0,408.0,271.0,137.0,1.0,22.0,362.0,254.0,108.0,9.0,Cowboys,True,True,1992,,,
 0,1,Sun,September 6,1:00PM ET,boxscore,W,,1-0,,New Orleans Saints,15.0,13.0,21.0,320.0,136.0,184.0,4.0,8.0,202.0,147.0,55.0,2.0,Eagles,False,False,1992,,,
 1,2,Sun,September 13,8:00PM ET,boxscore,W,,2-0,@,Phoenix Cardinals,31.0,14.0,21.0,365.0,235.0,130.0,2.0,14.0,239.0,185.0,54.0,1.0,Eagles,False,False,1992,,,
 2,3,Sun,September 20,1:00PM ET,boxscore,W,,3-0,,Denver Broncos,30.0,0.0,20.0,388.0,258.0,130.0,,4.0,82.0,30.0,52.0,1.0,Eagles,False,False,1992,,,
@@ -7882,7 +7882,7 @@
 18,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bills,False,False,1993,,,
 19,Division,Sat,January 15,12:30PM ET,boxscore,W,,13-4,,Los Angeles Raiders,29.0,23.0,25.0,355.0,280.0,75.0,1.0,15.0,325.0,215.0,110.0,1.0,Bills,False,False,1993,,,
 20,Conf. Champ.,Sun,January 23,12:30PM ET,boxscore,W,,14-4,,Kansas City Chiefs,30.0,13.0,30.0,389.0,160.0,229.0,1.0,22.0,338.0,286.0,52.0,2.0,Bills,False,False,1993,,,
-21,SuperBowl,Sun,January 30,6:00PM ET,boxscore,L,,14-5,N,Dallas Cowboys,13.0,30.0,22.0,314.0,227.0,87.0,3.0,20.0,341.0,204.0,137.0,1.0,Bills,False,False,1993,,,
+21,SuperBowl,Sun,January 30,6:00PM ET,boxscore,L,,14-5,N,Dallas Cowboys,13.0,30.0,22.0,314.0,227.0,87.0,3.0,20.0,341.0,204.0,137.0,1.0,Bills,True,False,1993,,,
 0,1,Sun,September 5,1:00PM ET,boxscore,L,,0-1,@,Buffalo Bills,14.0,38.0,15.0,268.0,135.0,133.0,3.0,20.0,334.0,157.0,177.0,1.0,Patriots,False,False,1993,,,
 1,2,Sun,September 12,1:00PM ET,boxscore,L,OT,0-2,,Detroit Lions,16.0,19.0,21.0,292.0,231.0,61.0,3.0,21.0,340.0,154.0,186.0,4.0,Patriots,False,False,1993,,,
 2,3,Sun,September 19,1:00PM ET,boxscore,L,,0-3,,Seattle Seahawks,14.0,17.0,19.0,274.0,223.0,51.0,3.0,23.0,334.0,125.0,209.0,3.0,Patriots,False,False,1993,,,
@@ -8133,7 +8133,7 @@
 18,,,Playoffs,,,,,,,,,,,,,,,,,,,,Cowboys,False,False,1993,,,
 19,Division,Sun,January 16,12:30PM ET,boxscore,W,,13-4,,Green Bay Packers,27.0,17.0,23.0,381.0,284.0,97.0,3.0,19.0,358.0,327.0,31.0,4.0,Cowboys,False,False,1993,,,
 20,Conf. Champ.,Sun,January 23,4:00PM ET,boxscore,W,,14-4,,San Francisco 49ers,38.0,21.0,24.0,377.0,253.0,124.0,,24.0,359.0,275.0,84.0,1.0,Cowboys,False,False,1993,,,
-21,SuperBowl,Sun,January 30,6:00PM ET,boxscore,W,,15-4,N,Buffalo Bills,30.0,13.0,20.0,341.0,204.0,137.0,1.0,22.0,314.0,227.0,87.0,3.0,Cowboys,False,False,1993,,,
+21,SuperBowl,Sun,January 30,6:00PM ET,boxscore,W,,15-4,N,Buffalo Bills,30.0,13.0,20.0,341.0,204.0,137.0,1.0,22.0,314.0,227.0,87.0,3.0,Cowboys,True,True,1993,,,
 0,1,Sun,September 5,1:00PM ET,boxscore,W,,1-0,,Phoenix Cardinals,23.0,17.0,22.0,359.0,192.0,167.0,3.0,14.0,231.0,183.0,48.0,2.0,Eagles,False,False,1993,,,
 1,2,Sun,September 12,1:00PM ET,boxscore,W,,2-0,@,Green Bay Packers,20.0,17.0,23.0,352.0,191.0,161.0,4.0,10.0,159.0,107.0,52.0,2.0,Eagles,False,False,1993,,,
 2,3,Sun,September 19,1:00PM ET,boxscore,W,,3-0,,Washington Redskins,34.0,31.0,20.0,438.0,345.0,93.0,4.0,19.0,377.0,210.0,167.0,2.0,Eagles,False,False,1993,,,
@@ -8619,7 +8619,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Chargers,False,False,1994,,,
 18,Division,Sun,January 8,4:00PM ET,boxscore,W,,12-5,,Miami Dolphins,22.0,21.0,28.0,466.0,264.0,202.0,3.0,17.0,282.0,256.0,26.0,,Chargers,False,False,1994,9.16,-9.78,3.54
 19,Conf. Champ.,Sun,January 15,12:30PM ET,boxscore,W,,13-5,@,Pittsburgh Steelers,17.0,13.0,13.0,226.0,160.0,66.0,1.0,22.0,415.0,349.0,66.0,1.0,Chargers,False,False,1994,0.91,-2.66,0.81
-20,SuperBowl,Sun,January 29,6:00PM ET,boxscore,L,,13-6,N,San Francisco 49ers,26.0,49.0,20.0,354.0,287.0,67.0,3.0,28.0,455.0,316.0,139.0,,Chargers,False,False,1994,-3.94,-27.02,4.06
+20,SuperBowl,Sun,January 29,6:00PM ET,boxscore,L,,13-6,N,San Francisco 49ers,26.0,49.0,20.0,354.0,287.0,67.0,3.0,28.0,455.0,316.0,139.0,,Chargers,True,False,1994,-3.94,-27.02,4.06
 0,1,Sun,September 4,8:00PM ET,boxscore,L,,0-1,,San Diego Chargers,34.0,37.0,30.0,470.0,341.0,129.0,3.0,19.0,370.0,232.0,138.0,1.0,Broncos,False,False,1994,4.13,-17.05,7.23
 1,2,Sun,September 11,4:00PM ET,boxscore,L,OT,0-2,@,New York Jets,22.0,25.0,22.0,401.0,316.0,85.0,1.0,19.0,366.0,287.0,79.0,2.0,Broncos,False,False,1994,-0.11,-6.27,3.23
 2,3,Sun,September 18,4:00PM ET,boxscore,L,,0-3,,Los Angeles Raiders,16.0,48.0,21.0,292.0,223.0,69.0,3.0,20.0,424.0,322.0,102.0,1.0,Broncos,False,False,1994,-31.76,9.47,-2.72
@@ -8891,7 +8891,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,1994,,,
 18,Division,Sat,January 7,4:00PM ET,boxscore,W,,14-3,,Chicago Bears,44.0,15.0,27.0,330.0,185.0,145.0,1.0,20.0,247.0,208.0,39.0,2.0,49ers,False,False,1994,18.15,7.73,-1.38
 19,Conf. Champ.,Sun,January 15,4:00PM ET,boxscore,W,,15-3,,Dallas Cowboys,38.0,28.0,19.0,294.0,155.0,139.0,1.0,29.0,451.0,352.0,99.0,5.0,49ers,False,False,1994,10.92,-2.21,4.23
-20,SuperBowl,Sun,January 29,6:00PM ET,boxscore,W,,16-3,N,San Diego Chargers,49.0,26.0,28.0,455.0,316.0,139.0,,20.0,354.0,287.0,67.0,3.0,49ers,False,False,1994,27.02,3.94,-4.06
+20,SuperBowl,Sun,January 29,6:00PM ET,boxscore,W,,16-3,N,San Diego Chargers,49.0,26.0,28.0,455.0,316.0,139.0,,20.0,354.0,287.0,67.0,3.0,49ers,True,True,1994,27.02,3.94,-4.06
 0,1,Sun,September 4,1:00PM ET,boxscore,W,,1-0,@,Washington Redskins,28.0,7.0,23.0,360.0,176.0,184.0,,17.0,258.0,224.0,34.0,3.0,Seahawks,False,False,1994,7.91,18.32,5.38
 1,2,Sun,September 11,4:00PM ET,boxscore,W,,2-0,@,Los Angeles Raiders,38.0,9.0,22.0,332.0,235.0,97.0,1.0,20.0,297.0,198.0,99.0,4.0,Seahawks,False,False,1994,9.77,42.71,4.41
 2,3,Sun,September 18,4:00PM ET,boxscore,L,,2-1,,San Diego Chargers,10.0,24.0,23.0,187.0,128.0,59.0,2.0,18.0,346.0,251.0,95.0,2.0,Seahawks,False,False,1994,-15.58,3.6,1.91
@@ -9074,7 +9074,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Steelers,False,False,1995,,,
 18,Division,Sat,January 6,12:30PM ET,boxscore,W,,12-5,,Buffalo Bills,40.0,21.0,23.0,409.0,262.0,147.0,2.0,18.0,250.0,156.0,94.0,4.0,Steelers,False,False,1995,-3.37,19.03,5.45
 19,Conf. Champ.,Sun,January 14,12:30PM ET,boxscore,W,,13-5,,Indianapolis Colts,20.0,16.0,21.0,285.0,205.0,80.0,1.0,16.0,328.0,245.0,83.0,,Steelers,False,False,1995,3.02,-2.3,1.29
-20,SuperBowl,Sun,January 28,6:33PM ET,boxscore,L,,13-6,N,Dallas Cowboys,17.0,27.0,25.0,310.0,207.0,103.0,3.0,15.0,254.0,198.0,56.0,,Steelers,False,False,1995,-12.15,-3.32,0.2
+20,SuperBowl,Sun,January 28,6:33PM ET,boxscore,L,,13-6,N,Dallas Cowboys,17.0,27.0,25.0,310.0,207.0,103.0,3.0,15.0,254.0,198.0,56.0,,Steelers,True,False,1995,-12.15,-3.32,0.2
 0,1,Sun,September 3,1:00PM ET,boxscore,L,,0-1,@,New England Patriots,14.0,17.0,13.0,301.0,241.0,60.0,1.0,27.0,427.0,302.0,125.0,,Browns,False,False,1995,5.31,-7.32,1.56
 1,2,Sun,September 10,1:00PM ET,boxscore,W,,1-1,,Tampa Bay Buccaneers,22.0,6.0,19.0,323.0,253.0,70.0,1.0,24.0,311.0,210.0,101.0,4.0,Browns,False,False,1995,0.7,11.14,1.08
 2,3,Sun,September 17,1:00PM ET,boxscore,W,,2-1,@,Houston Oilers,14.0,7.0,14.0,270.0,138.0,132.0,,20.0,327.0,256.0,71.0,4.0,Browns,False,False,1995,0.91,5.1,2.02
@@ -9184,7 +9184,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Cowboys,False,False,1995,,,
 18,Division,Sun,January 7,12:30PM ET,boxscore,W,,13-4,,Philadelphia Eagles,30.0,11.0,21.0,397.0,244.0,153.0,1.0,13.0,227.0,153.0,74.0,1.0,Cowboys,False,False,1995,6.38,9.62,3.81
 19,Conf. Champ.,Sun,January 14,4:00PM ET,boxscore,W,,14-4,,Green Bay Packers,38.0,27.0,27.0,419.0,250.0,169.0,,17.0,328.0,280.0,48.0,2.0,Cowboys,False,False,1995,16.62,3.49,-6.62
-20,SuperBowl,Sun,January 28,6:33PM ET,boxscore,W,,15-4,N,Pittsburgh Steelers,27.0,17.0,15.0,254.0,198.0,56.0,,25.0,310.0,207.0,103.0,3.0,Cowboys,False,False,1995,3.32,12.15,-0.2
+20,SuperBowl,Sun,January 28,6:33PM ET,boxscore,W,,15-4,N,Pittsburgh Steelers,27.0,17.0,15.0,254.0,198.0,56.0,,25.0,310.0,207.0,103.0,3.0,Cowboys,True,True,1995,3.32,12.15,-0.2
 0,1,Sun,September 3,1:00PM ET,boxscore,L,,0-1,,Tampa Bay Buccaneers,6.0,21.0,20.0,273.0,162.0,111.0,2.0,15.0,285.0,202.0,83.0,1.0,Eagles,False,False,1995,-13.41,-4.93,1.97
 1,2,Sun,September 10,8:00PM ET,boxscore,W,,1-1,@,Arizona Cardinals,31.0,19.0,19.0,338.0,170.0,168.0,1.0,17.0,274.0,244.0,30.0,2.0,Eagles,False,False,1995,3.21,5.16,1.1
 2,3,Sun,September 17,1:00PM ET,boxscore,L,,1-2,,San Diego Chargers,21.0,27.0,18.0,319.0,181.0,138.0,2.0,11.0,270.0,139.0,131.0,1.0,Eagles,False,False,1995,-8.62,14.33,-11.4
@@ -9492,7 +9492,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,1996,,,
 18,Division,Sun,January 5,12:30PM ET,boxscore,W,,12-5,,Pittsburgh Steelers,28.0,3.0,17.0,346.0,152.0,194.0,2.0,12.0,213.0,90.0,123.0,2.0,Patriots,False,False,1996,-1.86,25.0,3.98
 19,Conf. Champ.,Sun,January 12,4:00PM ET,boxscore,W,,13-5,,Jacksonville Jaguars,20.0,6.0,13.0,234.0,161.0,73.0,2.0,18.0,289.0,188.0,101.0,4.0,Patriots,False,False,1996,-15.83,28.26,1.53
-20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,L,,13-6,N,Green Bay Packers,21.0,35.0,16.0,257.0,214.0,43.0,4.0,16.0,323.0,208.0,115.0,,Patriots,False,False,1996,-13.48,2.1,-4.54
+20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,L,,13-6,N,Green Bay Packers,21.0,35.0,16.0,257.0,214.0,43.0,4.0,16.0,323.0,208.0,115.0,,Patriots,True,False,1996,-13.48,2.1,-4.54
 0,1,Sun,September 1,4:00PM ET,boxscore,W,,1-0,,New England Patriots,24.0,10.0,19.0,322.0,176.0,146.0,1.0,16.0,229.0,200.0,29.0,4.0,Dolphins,False,False,1996,-7.52,21.21,3.96
 1,2,Sun,September 8,8:00PM ET,boxscore,W,,2-0,@,Arizona Cardinals,38.0,10.0,26.0,331.0,203.0,128.0,1.0,13.0,203.0,176.0,27.0,4.0,Dolphins,False,False,1996,12.34,18.51,-1.6
 2,3,Sun,September 15,1:00PM ET,boxscore,W,,3-0,,New York Jets,36.0,27.0,20.0,445.0,251.0,194.0,2.0,20.0,378.0,304.0,74.0,3.0,Dolphins,False,False,1996,7.04,-2.08,-1.84
@@ -9872,7 +9872,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Packers,False,False,1996,,,
 18,Division,Sat,January 4,12:30PM ET,boxscore,W,,14-3,,San Francisco 49ers,35.0,14.0,15.0,210.0,71.0,139.0,1.0,12.0,196.0,128.0,68.0,5.0,Packers,False,False,1996,-0.75,19.29,6.09
 19,Conf. Champ.,Sun,January 12,12:30PM ET,boxscore,W,,15-3,,Carolina Panthers,30.0,13.0,22.0,479.0,278.0,201.0,2.0,12.0,251.0,206.0,45.0,3.0,Packers,False,False,1996,5.56,11.44,1.47
-20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,W,,16-3,N,New England Patriots,35.0,21.0,16.0,323.0,208.0,115.0,,16.0,257.0,214.0,43.0,4.0,Packers,False,False,1996,-2.1,13.48,4.54
+20,SuperBowl,Sun,January 26,6:30PM ET,boxscore,W,,16-3,N,New England Patriots,35.0,21.0,16.0,323.0,208.0,115.0,,16.0,257.0,214.0,43.0,4.0,Packers,True,True,1996,-2.1,13.48,4.54
 0,1,Sun,September 1,1:00PM ET,boxscore,W,,1-0,,Detroit Lions,17.0,13.0,16.0,311.0,183.0,128.0,,27.0,435.0,244.0,191.0,5.0,Vikings,False,False,1996,-5.36,13.66,-3.33
 1,2,Sun,September 8,1:00PM ET,boxscore,W,,2-0,@,Atlanta Falcons,23.0,17.0,18.0,365.0,266.0,99.0,2.0,21.0,324.0,245.0,79.0,2.0,Vikings,False,False,1996,5.36,0.23,-1.72
 2,3,Sun,September 15,1:00PM ET,boxscore,W,,3-0,@,Chicago Bears,20.0,14.0,21.0,377.0,239.0,138.0,1.0,17.0,299.0,191.0,108.0,3.0,Vikings,False,False,1996,-6.85,13.88,-2.96
@@ -10251,7 +10251,7 @@
 18,Wild Card,Sat,December 27,4:00PM ET,boxscore,W,,13-4,,Jacksonville Jaguars,42.0,17.0,28.0,511.0,201.0,310.0,2.0,14.0,237.0,187.0,50.0,2.0,Broncos,False,False,1997,20.81,8.51,-5.56
 19,Division,Sun,January 4,4:00PM ET,boxscore,W,,14-4,@,Kansas City Chiefs,14.0,10.0,16.0,272.0,163.0,109.0,2.0,18.0,303.0,226.0,77.0,,Broncos,False,False,1997,-1.27,3.78,1.46
 20,Conf. Champ.,Sun,January 11,12:30PM ET,boxscore,W,,15-4,@,Pittsburgh Steelers,24.0,21.0,23.0,345.0,195.0,150.0,2.0,23.0,354.0,193.0,161.0,4.0,Broncos,False,False,1997,8.47,-1.67,-1.3
-21,SuperBowl,Sun,January 25,6:30PM ET,boxscore,W,,16-4,N,Green Bay Packers,31.0,24.0,21.0,302.0,123.0,179.0,2.0,21.0,350.0,255.0,95.0,3.0,Broncos,False,False,1997,4.51,-3.91,7.71
+21,SuperBowl,Sun,January 25,6:30PM ET,boxscore,W,,16-4,N,Green Bay Packers,31.0,24.0,21.0,302.0,123.0,179.0,2.0,21.0,350.0,255.0,95.0,3.0,Broncos,True,True,1997,4.51,-3.91,7.71
 0,1,Sun,August 31,1:00PM ET,boxscore,W,,1-0,@,Pittsburgh Steelers,37.0,7.0,21.0,380.0,295.0,85.0,,15.0,174.0,89.0,85.0,2.0,Cowboys,False,False,1997,14.54,14.84,0.13
 1,2,Sun,September 7,8:00PM ET,boxscore,L,OT,1-1,@,Arizona Cardinals,22.0,25.0,15.0,327.0,147.0,180.0,1.0,21.0,286.0,220.0,66.0,4.0,Cowboys,False,False,1997,-20.74,8.13,9.67
 2,3,Mon,September 15,9:00PM ET,boxscore,W,,2-1,,Philadelphia Eagles,21.0,20.0,18.0,279.0,187.0,92.0,2.0,16.0,333.0,176.0,157.0,,Cowboys,False,False,1997,-19.19,-2.97,15.88
@@ -10413,7 +10413,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Packers,False,False,1997,,,
 18,Division,Sun,January 4,12:30PM ET,boxscore,W,,14-3,,Tampa Bay Buccaneers,21.0,7.0,16.0,289.0,171.0,118.0,3.0,15.0,263.0,173.0,90.0,2.0,Packers,False,False,1997,-7.96,19.69,-0.19
 19,Conf. Champ.,Sun,January 11,4:00PM ET,boxscore,W,,15-3,@,San Francisco 49ers,23.0,10.0,19.0,325.0,219.0,106.0,,15.0,257.0,224.0,33.0,2.0,Packers,False,False,1997,5.31,16.27,-5.61
-20,SuperBowl,Sun,January 25,6:30PM ET,boxscore,L,,15-4,N,Denver Broncos,24.0,31.0,21.0,350.0,255.0,95.0,3.0,21.0,302.0,123.0,179.0,2.0,Packers,False,False,1997,3.91,-4.51,-7.71
+20,SuperBowl,Sun,January 25,6:30PM ET,boxscore,L,,15-4,N,Denver Broncos,24.0,31.0,21.0,350.0,255.0,95.0,3.0,21.0,302.0,123.0,179.0,2.0,Packers,True,False,1997,3.91,-4.51,-7.71
 0,1,Sun,August 31,1:00PM ET,boxscore,W,,1-0,@,Buffalo Bills,34.0,13.0,17.0,385.0,200.0,185.0,1.0,22.0,426.0,279.0,147.0,4.0,Vikings,False,False,1997,9.45,11.76,1.47
 1,2,Sun,September 7,1:00PM ET,boxscore,W,,2-0,@,Chicago Bears,27.0,24.0,23.0,378.0,261.0,117.0,1.0,16.0,305.0,158.0,147.0,2.0,Vikings,False,False,1997,7.22,6.64,-7.96
 2,3,Sun,September 14,1:00PM ET,boxscore,L,,2-1,,Tampa Bay Buccaneers,14.0,28.0,20.0,382.0,310.0,72.0,2.0,17.0,376.0,185.0,191.0,,Vikings,False,False,1997,2.97,-17.43,-3.41
@@ -10795,7 +10795,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,1998,,,
 18,Division,Sat,January 9,4:15PM ET,boxscore,W,,15-2,,Miami Dolphins,38.0,3.0,24.0,424.0,174.0,250.0,,14.0,252.0,238.0,14.0,3.0,Broncos,False,False,1998,22.61,20.56,-5.85
 19,Conf. Champ.,Sun,January 17,4:05PM ET,boxscore,W,,16-2,,New York Jets,23.0,10.0,14.0,331.0,153.0,178.0,,18.0,370.0,356.0,14.0,6.0,Broncos,False,False,1998,-16.94,20.94,7.05
-20,SuperBowl,Sun,January 31,6:30PM ET,boxscore,W,,17-2,N,Atlanta Falcons,34.0,19.0,22.0,457.0,336.0,121.0,1.0,21.0,337.0,206.0,131.0,4.0,Broncos,False,False,1998,13.73,14.96,-9.82
+20,SuperBowl,Sun,January 31,6:30PM ET,boxscore,W,,17-2,N,Atlanta Falcons,34.0,19.0,22.0,457.0,336.0,121.0,1.0,21.0,337.0,206.0,131.0,4.0,Broncos,True,True,1998,13.73,14.96,-9.82
 0,1,Sun,September 6,4:05PM ET,boxscore,W,,1-0,,Arizona Cardinals,38.0,10.0,30.0,444.0,256.0,188.0,3.0,13.0,205.0,160.0,45.0,2.0,Cowboys,False,False,1998,9.14,13.8,9.89
 1,2,Sun,September 13,4:15PM ET,boxscore,L,,1-1,@,Denver Broncos,23.0,42.0,18.0,370.0,201.0,169.0,,21.0,515.0,306.0,209.0,,Cowboys,False,False,1998,11.12,-33.97,6.89
 2,3,Mon,September 21,8:20PM ET,boxscore,W,,2-1,@,New York Giants,31.0,7.0,11.0,302.0,224.0,78.0,,16.0,252.0,196.0,56.0,4.0,Cowboys,False,False,1998,-2.72,25.39,1.43
@@ -10920,7 +10920,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Falcons,False,False,1998,,,
 18,Division,Sat,January 9,12:30PM ET,boxscore,W,,15-2,,San Francisco 49ers,20.0,18.0,16.0,289.0,153.0,136.0,1.0,15.0,334.0,288.0,46.0,3.0,Falcons,False,False,1998,0.38,1.42,1.2
 19,Conf. Champ.,Sun,January 17,12:30PM ET,boxscore,W,OT,16-2,@,Minnesota Vikings,30.0,27.0,25.0,427.0,317.0,110.0,2.0,26.0,356.0,254.0,102.0,2.0,Falcons,False,False,1998,3.76,-6.25,1.83
-20,SuperBowl,Sun,January 31,6:30PM ET,boxscore,L,,16-3,N,Denver Broncos,19.0,34.0,21.0,337.0,206.0,131.0,4.0,22.0,457.0,336.0,121.0,1.0,Falcons,False,False,1998,-14.96,-13.73,9.82
+20,SuperBowl,Sun,January 31,6:30PM ET,boxscore,L,,16-3,N,Denver Broncos,19.0,34.0,21.0,337.0,206.0,131.0,4.0,22.0,457.0,336.0,121.0,1.0,Falcons,True,False,1998,-14.96,-13.73,9.82
 0,1,Sun,September 6,1:00PM ET,boxscore,L,,0-1,,Atlanta Falcons,14.0,19.0,16.0,317.0,263.0,54.0,2.0,19.0,323.0,230.0,93.0,1.0,Panthers,False,False,1998,1.31,-3.29,-2.49
 1,2,Sun,September 13,1:00PM ET,boxscore,L,,0-2,@,New Orleans Saints,14.0,19.0,20.0,375.0,238.0,137.0,3.0,18.0,311.0,104.0,207.0,,Panthers,False,False,1998,-6.47,2.73,-1.42
 2,3,,,,,,,,,Bye Week,,,,,,,,,,,,,Panthers,False,False,1998,,,
@@ -11179,7 +11179,7 @@
 18,Wild Card,Sat,January 8,12:32PM ET,boxscore,W,,14-3,,Buffalo Bills,22.0,16.0,16.0,194.0,55.0,139.0,2.0,13.0,219.0,96.0,123.0,2.0,Titans,False,False,1999,-15.29,9.48,11.87
 19,Division,Sun,January 16,4:05PM ET,boxscore,W,,15-3,@,Indianapolis Colts,19.0,16.0,13.0,309.0,112.0,197.0,1.0,19.0,305.0,227.0,78.0,,Titans,False,False,1999,-5.44,2.65,6.82
 20,Conf. Champ.,Sun,January 23,12:42PM ET,boxscore,W,,16-3,@,Jacksonville Jaguars,33.0,14.0,18.0,289.0,112.0,177.0,4.0,20.0,355.0,211.0,144.0,6.0,Titans,False,False,1999,-3.16,10.07,18.6
-21,SuperBowl,Sun,January 30,6:25PM ET,boxscore,L,,16-4,N,St. Louis Rams,16.0,23.0,27.0,367.0,208.0,159.0,,23.0,436.0,407.0,29.0,,Titans,False,False,1999,13.14,-13.42,-1.52
+21,SuperBowl,Sun,January 30,6:25PM ET,boxscore,L,,16-4,N,St. Louis Rams,16.0,23.0,27.0,367.0,208.0,159.0,,23.0,436.0,407.0,29.0,,Titans,True,False,1999,13.14,-13.42,-1.52
 0,1,Sun,September 12,1:02PM ET,boxscore,W,,1-0,,Buffalo Bills,31.0,14.0,20.0,393.0,284.0,109.0,3.0,19.0,321.0,274.0,47.0,3.0,Colts,False,False,1999,6.87,19.22,-8.41
 1,2,Sun,September 19,1:02PM ET,boxscore,L,,1-1,@,New England Patriots,28.0,31.0,23.0,344.0,223.0,121.0,4.0,26.0,400.0,292.0,108.0,1.0,Colts,False,False,1999,3.8,-6.81,4.88
 2,3,Sun,September 26,4:05PM ET,boxscore,W,,2-1,@,San Diego Chargers,27.0,19.0,26.0,468.0,404.0,64.0,1.0,16.0,274.0,179.0,95.0,1.0,Colts,False,False,1999,14.67,5.79,-10.12
@@ -11590,7 +11590,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Rams,False,False,1999,,,
 18,Division,Sun,January 16,12:35PM ET,boxscore,W,,14-3,,Minnesota Vikings,49.0,37.0,23.0,405.0,374.0,31.0,3.0,27.0,475.0,388.0,87.0,3.0,Rams,False,False,1999,17.68,-12.05,20.3
 19,Conf. Champ.,Sun,January 23,4:22PM ET,boxscore,W,,15-3,,Tampa Bay Buccaneers,11.0,6.0,17.0,309.0,258.0,51.0,3.0,12.0,203.0,126.0,77.0,2.0,Rams,False,False,1999,-8.23,19.64,-1.38
-20,SuperBowl,Sun,January 30,6:25PM ET,boxscore,W,,16-3,N,Tennessee Titans,23.0,16.0,23.0,436.0,407.0,29.0,,27.0,367.0,208.0,159.0,,Rams,False,False,1999,13.42,-13.14,1.52
+20,SuperBowl,Sun,January 30,6:25PM ET,boxscore,W,,16-3,N,Tennessee Titans,23.0,16.0,23.0,436.0,407.0,29.0,,27.0,367.0,208.0,159.0,,Rams,True,True,1999,13.42,-13.14,1.52
 0,1,Sun,September 12,1:04PM ET,boxscore,W,,1-0,@,Philadelphia Eagles,25.0,24.0,23.0,344.0,266.0,78.0,4.0,13.0,205.0,67.0,138.0,4.0,Cardinals,False,False,1999,-19.71,18.56,1.15
 1,2,Sun,September 19,1:01PM ET,boxscore,L,,1-1,@,Miami Dolphins,16.0,19.0,13.0,184.0,120.0,64.0,4.0,14.0,304.0,221.0,83.0,4.0,Cardinals,False,False,1999,-21.48,17.04,-1.13
 2,3,Mon,September 27,8:08PM ET,boxscore,L,,1-2,,San Francisco 49ers,10.0,24.0,20.0,250.0,149.0,101.0,4.0,18.0,322.0,112.0,210.0,1.0,Cardinals,False,False,1999,-11.81,-1.76,-7.63
@@ -11840,7 +11840,7 @@
 18,Wild Card,Sun,December 31,12:35PM ET,boxscore,W,,13-4,,Denver Broncos,21.0,3.0,13.0,240.0,118.0,122.0,,9.0,177.0,135.0,42.0,1.0,Ravens,False,False,2000,-4.53,26.99,-2.81
 19,Division,Sun,January 7,12:35PM ET,boxscore,W,,14-4,@,Tennessee Titans,24.0,10.0,6.0,134.0,85.0,49.0,,23.0,317.0,191.0,126.0,1.0,Ravens,False,False,2000,-12.05,15.61,11.85
 20,Conf. Champ.,Sun,January 14,4:05PM ET,boxscore,W,,15-4,@,Oakland Raiders,16.0,3.0,12.0,282.0,172.0,110.0,2.0,12.0,191.0,167.0,24.0,5.0,Ravens,False,False,2000,-14.84,28.42,-3.12
-21,SuperBowl,Sun,January 28,6:28PM ET,boxscore,W,,16-4,N,New York Giants,34.0,7.0,13.0,244.0,133.0,111.0,,11.0,152.0,86.0,66.0,5.0,Ravens,False,False,2000,-9.78,34.16,0.7
+21,SuperBowl,Sun,January 28,6:28PM ET,boxscore,W,,16-4,N,New York Giants,34.0,7.0,13.0,244.0,133.0,111.0,,11.0,152.0,86.0,66.0,5.0,Ravens,True,True,2000,-9.78,34.16,0.7
 0,1,Sun,September 3,1:00PM ET,boxscore,L,,0-1,,Indianapolis Colts,14.0,27.0,17.0,280.0,206.0,74.0,1.0,20.0,386.0,267.0,119.0,2.0,Chiefs,False,False,2000,-7.06,0.41,-4.02
 1,2,Sun,September 10,1:03PM ET,boxscore,L,OT,0-2,@,Tennessee Titans,14.0,17.0,14.0,189.0,127.0,62.0,,23.0,353.0,232.0,121.0,3.0,Chiefs,False,False,2000,-8.37,7.6,-4.29
 2,3,Sun,September 17,4:05PM ET,boxscore,W,,1-2,,San Diego Chargers,42.0,10.0,25.0,349.0,232.0,117.0,1.0,10.0,187.0,138.0,49.0,2.0,Chiefs,False,False,2000,10.03,22.25,-1.32
@@ -11988,7 +11988,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Giants,False,False,2000,,,
 18,Division,Sun,January 7,4:15PM ET,boxscore,W,,13-4,,Philadelphia Eagles,20.0,10.0,15.0,237.0,125.0,112.0,3.0,11.0,186.0,140.0,46.0,3.0,Giants,False,False,2000,-16.47,31.14,-5.94
 19,Conf. Champ.,Sun,January 14,12:37PM ET,boxscore,W,,14-4,,Minnesota Vikings,41.0,0.0,31.0,518.0,380.0,138.0,2.0,9.0,114.0,60.0,54.0,5.0,Giants,False,False,2000,25.76,24.48,-6.88
-20,SuperBowl,Sun,January 28,6:28PM ET,boxscore,L,,14-5,N,Baltimore Ravens,7.0,34.0,11.0,152.0,86.0,66.0,5.0,13.0,244.0,133.0,111.0,,Giants,False,False,2000,-34.16,9.78,-0.7
+20,SuperBowl,Sun,January 28,6:28PM ET,boxscore,L,,14-5,N,Baltimore Ravens,7.0,34.0,11.0,152.0,86.0,66.0,5.0,13.0,244.0,133.0,111.0,,Giants,True,False,2000,-34.16,9.78,-0.7
 0,1,Sun,September 3,1:02PM ET,boxscore,W,,1-0,@,New England Patriots,21.0,16.0,17.0,296.0,156.0,140.0,1.0,14.0,278.0,190.0,88.0,1.0,Buccaneers,False,False,2000,1.2,14.97,-12.44
 1,2,Sun,September 10,1:01PM ET,boxscore,W,,2-0,,Chicago Bears,41.0,0.0,21.0,327.0,171.0,156.0,,9.0,165.0,49.0,116.0,4.0,Buccaneers,False,False,2000,8.9,35.93,-2.89
 2,3,Sun,September 17,1:06PM ET,boxscore,W,,3-0,@,Detroit Lions,31.0,10.0,22.0,331.0,211.0,120.0,,13.0,243.0,226.0,17.0,3.0,Buccaneers,False,False,2000,13.23,12.85,-3.37
@@ -12240,7 +12240,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2001,,,
 18,Division,Sat,January 19,8:05PM ET,boxscore,W,OT,12-5,,Oakland Raiders,16.0,13.0,22.0,365.0,297.0,68.0,1.0,14.0,230.0,153.0,77.0,,Patriots,False,False,2001,-5.98,11.77,-1.02
 19,Conf. Champ.,Sun,January 27,12:40PM ET,boxscore,W,,13-5,@,Pittsburgh Steelers,24.0,17.0,15.0,259.0,192.0,67.0,,23.0,306.0,248.0,58.0,4.0,Patriots,False,False,2001,-10.26,8.81,9.42
-20,SuperBowl,Sun,February 3,6:40PM ET,boxscore,W,,14-5,N,St. Louis Rams,20.0,17.0,15.0,267.0,134.0,133.0,,26.0,427.0,337.0,90.0,3.0,Patriots,False,False,2001,-2.76,2.27,3.96
+20,SuperBowl,Sun,February 3,6:40PM ET,boxscore,W,,14-5,N,St. Louis Rams,20.0,17.0,15.0,267.0,134.0,133.0,,26.0,427.0,337.0,90.0,3.0,Patriots,True,True,2001,-2.76,2.27,3.96
 0,1,Sun,September 9,8:36PM ET,boxscore,W,,1-0,@,Tennessee Titans,31.0,23.0,11.0,307.0,225.0,82.0,2.0,19.0,315.0,210.0,105.0,3.0,Dolphins,False,False,2001,-3.79,8.05,0.96
 1,2,Sun,September 23,1:10PM ET,boxscore,W,,2-0,,Oakland Raiders,18.0,15.0,19.0,359.0,215.0,144.0,2.0,12.0,216.0,120.0,96.0,,Dolphins,False,False,2001,-3.47,10.67,-7.53
 2,3,Sun,September 30,12:03PM ET,boxscore,L,,2-1,@,St. Louis Rams,10.0,42.0,15.0,253.0,189.0,64.0,4.0,27.0,441.0,318.0,123.0,,Dolphins,False,False,2001,-7.12,-29.49,5.07
@@ -12706,7 +12706,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Rams,False,False,2001,,,
 18,Division,Sun,January 20,4:15PM ET,boxscore,W,,15-2,,Green Bay Packers,45.0,17.0,13.0,292.0,201.0,91.0,1.0,19.0,383.0,265.0,118.0,8.0,Rams,False,False,2001,-3.86,35.13,-3.86
 19,Conf. Champ.,Sun,January 27,4:27PM ET,boxscore,W,,16-2,,Philadelphia Eagles,29.0,24.0,22.0,371.0,210.0,161.0,,16.0,256.0,146.0,110.0,2.0,Rams,False,False,2001,10.36,-2.34,-3.3
-20,SuperBowl,Sun,February 3,6:40PM ET,boxscore,L,,16-3,N,New England Patriots,17.0,20.0,26.0,427.0,337.0,90.0,3.0,15.0,267.0,134.0,133.0,,Rams,False,False,2001,-2.27,2.76,-3.96
+20,SuperBowl,Sun,February 3,6:40PM ET,boxscore,L,,16-3,N,New England Patriots,17.0,20.0,26.0,427.0,337.0,90.0,3.0,15.0,267.0,134.0,133.0,,Rams,True,False,2001,-2.27,2.76,-3.96
 0,2,Sun,September 23,8:37PM ET,boxscore,L,,0-1,,Denver Broncos,17.0,38.0,14.0,308.0,224.0,84.0,3.0,27.0,381.0,234.0,147.0,,Cardinals,False,False,2001,-0.53,-15.71,-5.47
 1,3,Sun,September 30,4:05PM ET,boxscore,L,,0-2,,Atlanta Falcons,14.0,34.0,21.0,335.0,245.0,90.0,4.0,21.0,379.0,268.0,111.0,,Cardinals,False,False,2001,-1.33,-14.99,-6.44
 2,4,Sun,October 7,1:09PM ET,boxscore,W,,1-2,@,Philadelphia Eagles,21.0,20.0,19.0,329.0,232.0,97.0,1.0,19.0,440.0,261.0,179.0,2.0,Cardinals,False,False,2001,4.81,-2.83,-0.98
@@ -13013,7 +13013,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Raiders,False,False,2002,,,
 18,Division,Sun,January 12,4:45PM ET,boxscore,W,,12-5,,New York Jets,30.0,10.0,20.0,399.0,272.0,127.0,1.0,20.0,287.0,167.0,120.0,4.0,Raiders,False,False,2002,11.57,16.81,-12.23
 19,Conf. Champ.,Sun,January 19,6:47PM ET,boxscore,W,,13-5,,Tennessee Titans,41.0,24.0,25.0,375.0,286.0,89.0,1.0,28.0,312.0,174.0,138.0,2.0,Raiders,False,False,2002,15.54,-5.39,6.0
-20,SuperBowl,Sun,January 26,6:26PM ET,boxscore,L,,13-6,N,Tampa Bay Buccaneers,21.0,48.0,11.0,269.0,250.0,19.0,5.0,24.0,365.0,215.0,150.0,1.0,Raiders,False,False,2002,-36.42,-4.38,9.42
+20,SuperBowl,Sun,January 26,6:26PM ET,boxscore,L,,13-6,N,Tampa Bay Buccaneers,21.0,48.0,11.0,269.0,250.0,19.0,5.0,24.0,365.0,215.0,150.0,1.0,Raiders,True,False,2002,-36.42,-4.38,9.42
 0,1,Sun,September 8,1:04PM ET,boxscore,W,,1-0,@,Cincinnati Bengals,34.0,6.0,27.0,401.0,160.0,241.0,,13.0,203.0,167.0,36.0,1.0,Chargers,False,False,2002,22.74,7.0,-3.17
 1,2,Sun,September 15,4:15PM ET,boxscore,W,,2-0,,Houston Texans,24.0,3.0,16.0,267.0,143.0,124.0,1.0,7.0,118.0,29.0,89.0,3.0,Chargers,False,False,2002,-7.35,42.11,-13.25
 2,3,Sun,September 22,4:05PM ET,boxscore,W,,3-0,@,Arizona Cardinals,23.0,15.0,19.0,289.0,164.0,125.0,1.0,15.0,297.0,200.0,97.0,3.0,Chargers,False,False,2002,-2.1,9.41,-0.09
@@ -13141,7 +13141,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Buccaneers,False,False,2002,,,
 18,Division,Sun,January 12,1:01PM ET,boxscore,W,,13-4,,San Francisco 49ers,31.0,6.0,21.0,329.0,208.0,121.0,2.0,14.0,228.0,166.0,62.0,5.0,Buccaneers,False,False,2002,6.46,22.73,-5.49
 19,Conf. Champ.,Sun,January 19,3:08PM ET,boxscore,W,,14-4,@,Philadelphia Eagles,27.0,10.0,15.0,308.0,259.0,49.0,1.0,20.0,312.0,232.0,80.0,3.0,Buccaneers,False,False,2002,-2.9,24.0,-8.1
-20,SuperBowl,Sun,January 26,6:26PM ET,boxscore,W,,15-4,N,Oakland Raiders,48.0,21.0,24.0,365.0,215.0,150.0,1.0,11.0,269.0,250.0,19.0,5.0,Buccaneers,False,False,2002,4.38,36.42,-9.42
+20,SuperBowl,Sun,January 26,6:26PM ET,boxscore,W,,15-4,N,Oakland Raiders,48.0,21.0,24.0,365.0,215.0,150.0,1.0,11.0,269.0,250.0,19.0,5.0,Buccaneers,True,True,2002,4.38,36.42,-9.42
 0,1,Sun,September 8,4:15PM ET,boxscore,W,OT,1-0,@,Tampa Bay Buccaneers,26.0,20.0,21.0,368.0,250.0,118.0,1.0,19.0,333.0,261.0,72.0,1.0,Saints,False,False,2002,-0.63,7.7,-2.34
 1,2,Sun,September 15,1:04PM ET,boxscore,W,,2-0,,Green Bay Packers,35.0,20.0,16.0,357.0,211.0,146.0,2.0,18.0,357.0,262.0,95.0,4.0,Saints,False,False,2002,4.31,17.86,-5.38
 2,3,Sun,September 22,1:05PM ET,boxscore,W,,3-0,@,Chicago Bears,29.0,23.0,18.0,302.0,229.0,73.0,3.0,21.0,353.0,228.0,125.0,2.0,Saints,False,False,2002,0.64,-0.58,6.03
@@ -13374,7 +13374,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2003,,,
 18,Division,Sat,January 10,8:15PM ET,boxscore,W,,15-2,,Tennessee Titans,17.0,14.0,18.0,297.0,201.0,96.0,1.0,16.0,284.0,200.0,84.0,1.0,Patriots,False,False,2003,4.23,0.79,-1.14
 19,Conf. Champ.,Sun,January 18,3:06PM ET,boxscore,W,,16-2,,Indianapolis Colts,24.0,14.0,20.0,349.0,237.0,112.0,2.0,21.0,306.0,208.0,98.0,5.0,Patriots,False,False,2003,-2.5,14.15,-1.14
-20,SuperBowl,Sun,February 1,6:25PM ET,boxscore,W,,17-2,N,Carolina Panthers,32.0,29.0,29.0,481.0,354.0,127.0,1.0,17.0,387.0,295.0,92.0,1.0,Patriots,False,False,2003,17.23,-6.11,-7.78
+20,SuperBowl,Sun,February 1,6:25PM ET,boxscore,W,,17-2,N,Carolina Panthers,32.0,29.0,29.0,481.0,354.0,127.0,1.0,17.0,387.0,295.0,92.0,1.0,Patriots,True,True,2003,17.23,-6.11,-7.78
 0,1,Sun,September 7,1:06PM ET,boxscore,L,,0-1,,Houston Texans,20.0,21.0,14.0,301.0,215.0,86.0,3.0,16.0,393.0,266.0,127.0,,Dolphins,False,False,2003,-7.95,0.95,7.18
 1,2,Sun,September 14,1:02PM ET,boxscore,W,,1-1,@,New York Jets,21.0,10.0,23.0,376.0,189.0,187.0,1.0,17.0,387.0,366.0,21.0,1.0,Dolphins,False,False,2003,9.7,-1.82,0.97
 2,3,Sun,September 21,8:36PM ET,boxscore,W,,2-1,,Buffalo Bills,17.0,7.0,23.0,313.0,147.0,166.0,3.0,8.0,118.0,77.0,41.0,3.0,Dolphins,False,False,2003,-7.56,23.25,-8.03
@@ -13771,7 +13771,7 @@
 18,Wild Card,Sat,January 3,8:09PM ET,boxscore,W,,12-5,,Dallas Cowboys,29.0,10.0,16.0,380.0,273.0,107.0,,10.0,204.0,132.0,72.0,2.0,Panthers,False,False,2003,7.69,19.26,-7.86
 19,Division,Sat,January 10,4:30PM ET,boxscore,W,OT,13-5,@,St. Louis Rams,29.0,23.0,24.0,485.0,269.0,216.0,1.0,23.0,380.0,316.0,64.0,3.0,Panthers,False,False,2003,10.44,-0.65,-2.42
 20,Conf. Champ.,Sun,January 18,6:50PM ET,boxscore,W,,14-5,@,Philadelphia Eagles,14.0,3.0,14.0,256.0,101.0,155.0,,18.0,289.0,152.0,137.0,4.0,Panthers,False,False,2003,-0.64,13.92,-1.92
-21,SuperBowl,Sun,February 1,6:25PM ET,boxscore,L,,14-6,N,New England Patriots,29.0,32.0,17.0,387.0,295.0,92.0,1.0,29.0,481.0,354.0,127.0,1.0,Panthers,False,False,2003,6.11,-17.23,7.78
+21,SuperBowl,Sun,February 1,6:25PM ET,boxscore,L,,14-6,N,New England Patriots,29.0,32.0,17.0,387.0,295.0,92.0,1.0,29.0,481.0,354.0,127.0,1.0,Panthers,True,False,2003,6.11,-17.23,7.78
 0,1,Sun,September 7,1:04PM ET,boxscore,L,,0-1,,Minnesota Vikings,25.0,30.0,22.0,304.0,242.0,62.0,5.0,21.0,337.0,183.0,154.0,2.0,Packers,False,False,2003,-2.53,-5.88,2.89
 1,2,Sun,September 14,1:02PM ET,boxscore,W,,1-1,,Detroit Lions,31.0,6.0,17.0,332.0,132.0,200.0,2.0,14.0,293.0,237.0,56.0,3.0,Packers,False,False,2003,2.04,30.54,-9.05
 2,3,Sun,September 21,4:06PM ET,boxscore,L,,1-2,@,Arizona Cardinals,13.0,20.0,18.0,311.0,245.0,66.0,2.0,21.0,354.0,273.0,81.0,1.0,Packers,False,False,2003,-1.77,-8.6,5.13
@@ -13952,7 +13952,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2004,,,
 18,Division,Sun,January 16,4:45PM ET,boxscore,W,,15-2,,Indianapolis Colts,20.0,3.0,21.0,325.0,115.0,210.0,,18.0,276.0,230.0,46.0,3.0,Patriots,False,False,2004,8.47,10.24,-2.56
 19,Conf. Champ.,Sun,January 23,6:36PM ET,boxscore,W,,16-2,@,Pittsburgh Steelers,41.0,27.0,18.0,322.0,196.0,126.0,,19.0,388.0,225.0,163.0,4.0,Patriots,False,False,2004,13.28,3.47,-1.05
-20,SuperBowl,Sun,February 6,6:38PM ET,boxscore,W,,17-2,N,Philadelphia Eagles,24.0,21.0,21.0,331.0,219.0,112.0,1.0,24.0,369.0,324.0,45.0,4.0,Patriots,False,False,2004,2.42,-2.04,2.93
+20,SuperBowl,Sun,February 6,6:38PM ET,boxscore,W,,17-2,N,Philadelphia Eagles,24.0,21.0,21.0,331.0,219.0,112.0,1.0,24.0,369.0,324.0,45.0,4.0,Patriots,True,True,2004,2.42,-2.04,2.93
 0,1,Sat,September 11,1:07PM ET,boxscore,L,,0-1,,Tennessee Titans,7.0,17.0,14.0,263.0,198.0,65.0,3.0,15.0,243.0,61.0,182.0,1.0,Dolphins,False,False,2004,-18.03,6.55,0.37
 1,2,Sun,September 19,8:36PM ET,boxscore,L,,0-2,@,Cincinnati Bengals,13.0,16.0,11.0,226.0,201.0,25.0,3.0,12.0,210.0,116.0,94.0,1.0,Dolphins,False,False,2004,-26.52,21.78,2.12
 2,3,Sun,September 26,8:36PM ET,boxscore,L,,0-3,,Pittsburgh Steelers,3.0,13.0,13.0,169.0,117.0,52.0,4.0,15.0,314.0,161.0,153.0,1.0,Dolphins,False,False,2004,-23.95,8.3,5.68
@@ -14241,7 +14241,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Eagles,False,False,2004,,,
 18,Division,Sun,January 16,1:06PM ET,boxscore,W,,14-3,,Minnesota Vikings,27.0,14.0,23.0,395.0,286.0,109.0,1.0,21.0,385.0,288.0,97.0,2.0,Eagles,False,False,2004,14.44,1.99,2.56
 19,Conf. Champ.,Sun,January 23,3:08PM ET,boxscore,W,,15-3,,Atlanta Falcons,27.0,10.0,22.0,326.0,170.0,156.0,,14.0,202.0,103.0,99.0,1.0,Eagles,False,False,2004,8.0,8.59,2.2
-20,SuperBowl,Sun,February 6,6:38PM ET,boxscore,L,,15-4,N,New England Patriots,21.0,24.0,24.0,369.0,324.0,45.0,4.0,21.0,331.0,219.0,112.0,1.0,Eagles,False,False,2004,2.04,-2.42,-2.93
+20,SuperBowl,Sun,February 6,6:38PM ET,boxscore,L,,15-4,N,New England Patriots,21.0,24.0,24.0,369.0,324.0,45.0,4.0,21.0,331.0,219.0,112.0,1.0,Eagles,True,False,2004,2.04,-2.42,-2.93
 0,1,Sun,September 12,1:06PM ET,boxscore,W,,1-0,,Tampa Bay Buccaneers,16.0,10.0,13.0,291.0,125.0,166.0,1.0,10.0,169.0,139.0,30.0,2.0,Football Team,False,False,2004,-10.57,22.38,-5.9
 1,2,Sun,September 19,1:04PM ET,boxscore,L,,1-1,@,New York Giants,14.0,20.0,20.0,322.0,214.0,108.0,7.0,15.0,277.0,215.0,62.0,1.0,Football Team,False,False,2004,-25.56,13.58,6.23
 2,3,Mon,September 27,9:10PM ET,boxscore,L,,1-2,,Dallas Cowboys,18.0,21.0,21.0,384.0,290.0,94.0,,14.0,287.0,237.0,50.0,,Football Team,False,False,2004,6.12,-6.09,0.87
@@ -14676,7 +14676,7 @@
 18,Wild Card,Sun,January 8,4:36PM ET,boxscore,W,,12-5,@,Cincinnati Bengals,31.0,17.0,19.0,346.0,202.0,144.0,,19.0,327.0,243.0,84.0,2.0,Steelers,False,False,2005,18.23,-0.37,-2.3
 19,Division,Sun,January 15,1:04PM ET,boxscore,W,,13-5,@,Indianapolis Colts,21.0,18.0,21.0,295.0,183.0,112.0,2.0,15.0,305.0,247.0,58.0,,Steelers,False,False,2005,-2.34,-0.14,5.19
 20,Conf. Champ.,Sun,January 22,3:08PM ET,boxscore,W,,14-5,@,Denver Broncos,34.0,17.0,20.0,358.0,268.0,90.0,,16.0,308.0,211.0,97.0,4.0,Steelers,False,False,2005,13.83,-0.54,-2.21
-21,SuperBowl,Sun,February 5,6:27PM ET,boxscore,W,,15-5,N,Seattle Seahawks,21.0,10.0,14.0,339.0,158.0,181.0,2.0,20.0,396.0,259.0,137.0,1.0,Steelers,False,False,2005,-1.12,5.54,7.56
+21,SuperBowl,Sun,February 5,6:27PM ET,boxscore,W,,15-5,N,Seattle Seahawks,21.0,10.0,14.0,339.0,158.0,181.0,2.0,20.0,396.0,259.0,137.0,1.0,Steelers,True,True,2005,-1.12,5.54,7.56
 0,1,Sun,September 11,1:07PM ET,boxscore,L,,0-1,,Cincinnati Bengals,13.0,27.0,16.0,373.0,278.0,95.0,3.0,26.0,420.0,272.0,148.0,2.0,Browns,False,False,2005,-9.86,-4.16,0.9
 1,2,Sun,September 18,4:15PM ET,boxscore,W,,1-1,@,Green Bay Packers,26.0,24.0,19.0,391.0,336.0,55.0,,27.0,452.0,336.0,116.0,2.0,Browns,False,False,2005,15.47,-14.75,3.53
 2,3,Sun,September 25,12:03PM ET,boxscore,L,,1-2,@,Indianapolis Colts,6.0,13.0,14.0,263.0,188.0,75.0,,20.0,339.0,228.0,111.0,1.0,Browns,False,False,2005,-2.12,-8.41,1.73
@@ -15070,7 +15070,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Seahawks,False,False,2005,,,
 18,Division,Sat,January 14,4:35PM ET,boxscore,W,,14-3,,Washington Redskins,20.0,10.0,15.0,334.0,215.0,119.0,3.0,11.0,289.0,230.0,59.0,1.0,Seahawks,False,False,2005,3.91,13.04,-6.59
 19,Conf. Champ.,Sun,January 22,6:47PM ET,boxscore,W,,15-3,,Carolina Panthers,34.0,14.0,27.0,393.0,203.0,190.0,,11.0,212.0,176.0,36.0,4.0,Seahawks,False,False,2005,9.01,21.35,-11.16
-20,SuperBowl,Sun,February 5,6:27PM ET,boxscore,L,,15-4,N,Pittsburgh Steelers,10.0,21.0,20.0,396.0,259.0,137.0,1.0,14.0,339.0,158.0,181.0,2.0,Seahawks,False,False,2005,-5.54,1.12,-7.56
+20,SuperBowl,Sun,February 5,6:27PM ET,boxscore,L,,15-4,N,Pittsburgh Steelers,10.0,21.0,20.0,396.0,259.0,137.0,1.0,14.0,339.0,158.0,181.0,2.0,Seahawks,True,False,2005,-5.54,1.12,-7.56
 0,1,Sun,September 10,1:02PM ET,boxscore,L,,0-1,@,New England Patriots,17.0,19.0,12.0,240.0,141.0,99.0,,19.0,319.0,136.0,183.0,2.0,Bills,False,False,2006,-4.37,0.11,0.17
 1,2,Sun,September 17,1:03PM ET,boxscore,W,,1-1,@,Miami Dolphins,16.0,6.0,12.0,171.0,66.0,105.0,,15.0,282.0,190.0,92.0,1.0,Bills,False,False,2006,-6.55,7.93,10.37
 2,3,Sun,September 24,1:02PM ET,boxscore,L,,1-2,,New York Jets,20.0,28.0,26.0,475.0,306.0,169.0,3.0,15.0,256.0,182.0,74.0,,Bills,False,False,2006,-4.5,-3.81,-0.73
@@ -15183,7 +15183,7 @@
 18,Wild Card,Sat,January 6,4:35PM ET,boxscore,W,,13-4,,Kansas City Chiefs,23.0,8.0,28.0,435.0,247.0,188.0,3.0,7.0,126.0,82.0,44.0,3.0,Colts,False,False,2006,1.3,18.66,-2.27
 19,Division,Sat,January 13,4:35PM ET,boxscore,W,,14-4,@,Baltimore Ravens,15.0,6.0,15.0,261.0,161.0,100.0,2.0,13.0,244.0,161.0,83.0,4.0,Colts,False,False,2006,-7.36,18.87,-0.09
 20,Conf. Champ.,Sun,January 21,6:44PM ET,boxscore,W,,15-4,,New England Patriots,38.0,34.0,32.0,455.0,330.0,125.0,1.0,17.0,319.0,226.0,93.0,1.0,Colts,False,False,2006,14.34,-3.4,-6.49
-21,SuperBowl,Sun,February 4,6:27PM ET,boxscore,W,,16-4,N,Chicago Bears,29.0,17.0,24.0,430.0,239.0,191.0,3.0,11.0,265.0,154.0,111.0,5.0,Colts,False,False,2006,-3.78,23.57,-10.43
+21,SuperBowl,Sun,February 4,6:27PM ET,boxscore,W,,16-4,N,Chicago Bears,29.0,17.0,24.0,430.0,239.0,191.0,3.0,11.0,265.0,154.0,111.0,5.0,Colts,True,True,2006,-3.78,23.57,-10.43
 0,1,Sun,September 10,1:02PM ET,boxscore,L,,0-1,,Philadelphia Eagles,10.0,24.0,19.0,241.0,171.0,70.0,,24.0,441.0,311.0,130.0,1.0,Texans,False,False,2006,2.22,-17.65,0.84
 1,2,Sun,September 17,1:03PM ET,boxscore,L,,0-2,@,Indianapolis Colts,24.0,43.0,18.0,299.0,191.0,108.0,2.0,34.0,515.0,390.0,125.0,1.0,Texans,False,False,2006,4.14,-27.97,5.68
 2,3,Sun,September 24,1:03PM ET,boxscore,L,,0-3,,Washington Redskins,15.0,31.0,17.0,261.0,200.0,61.0,2.0,25.0,495.0,261.0,234.0,1.0,Texans,False,False,2006,4.31,-22.94,-0.43
@@ -15560,7 +15560,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bears,False,False,2006,,,
 18,Division,Sun,January 14,1:06PM ET,boxscore,W,OT,14-3,,Seattle Seahawks,27.0,24.0,21.0,371.0,251.0,120.0,2.0,18.0,306.0,179.0,127.0,1.0,Bears,False,False,2006,0.52,2.87,-0.69
 19,Conf. Champ.,Sun,January 21,3:06PM ET,boxscore,W,,15-3,,New Orleans Saints,39.0,14.0,18.0,340.0,144.0,196.0,,15.0,375.0,319.0,56.0,4.0,Bears,False,False,2006,3.01,11.45,11.06
-20,SuperBowl,Sun,February 4,6:27PM ET,boxscore,L,,15-4,N,Indianapolis Colts,17.0,29.0,11.0,265.0,154.0,111.0,5.0,24.0,430.0,239.0,191.0,3.0,Bears,False,False,2006,-23.57,3.78,10.43
+20,SuperBowl,Sun,February 4,6:27PM ET,boxscore,L,,15-4,N,Indianapolis Colts,17.0,29.0,11.0,265.0,154.0,111.0,5.0,24.0,430.0,239.0,191.0,3.0,Bears,True,False,2006,-23.57,3.78,10.43
 0,1,Sun,September 10,1:04PM ET,boxscore,L,,0-1,,Seattle Seahawks,6.0,9.0,15.0,251.0,213.0,38.0,1.0,17.0,264.0,173.0,91.0,1.0,Lions,False,False,2006,-9.11,7.66,-1.55
 1,2,Sun,September 17,1:03PM ET,boxscore,L,,0-2,@,Chicago Bears,7.0,34.0,15.0,245.0,199.0,46.0,3.0,22.0,383.0,294.0,89.0,1.0,Lions,False,False,2006,-10.87,-12.53,-4.21
 2,3,Sun,September 24,1:02PM ET,boxscore,L,,0-3,,Green Bay Packers,24.0,31.0,23.0,424.0,319.0,105.0,1.0,18.0,400.0,340.0,60.0,2.0,Lions,False,False,2006,6.9,-8.01,-3.59
@@ -15686,7 +15686,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2007,,,
 18,Division,Sat,January 12,8:15PM ET,boxscore,W,,17-0,,Jacksonville Jaguars,31.0,20.0,24.0,403.0,258.0,145.0,,22.0,350.0,270.0,80.0,2.0,Patriots,False,False,2007,25.54,-13.05,-2.44
 19,Conf. Champ.,Sun,January 20,3:05PM ET,boxscore,W,,18-0,,San Diego Chargers,21.0,12.0,25.0,347.0,198.0,149.0,3.0,17.0,311.0,207.0,104.0,2.0,Patriots,False,False,2007,4.23,5.37,3.08
-20,SuperBowl,Sun,February 3,6:30PM ET,boxscore,L,,18-1,N,New York Giants,14.0,17.0,22.0,274.0,229.0,45.0,1.0,17.0,338.0,247.0,91.0,1.0,Patriots,False,False,2007,-2.09,-5.07,-0.7
+20,SuperBowl,Sun,February 3,6:30PM ET,boxscore,L,,18-1,N,New York Giants,14.0,17.0,22.0,274.0,229.0,45.0,1.0,17.0,338.0,247.0,91.0,1.0,Patriots,True,False,2007,-2.09,-5.07,-0.7
 0,1,Sun,September 9,1:02PM ET,boxscore,L,OT,0-1,@,Washington Redskins,13.0,16.0,17.0,273.0,207.0,66.0,1.0,19.0,400.0,209.0,191.0,2.0,Dolphins,False,False,2007,-5.81,2.55,0.26
 1,2,Sun,September 16,4:05PM ET,boxscore,L,,0-2,,Dallas Cowboys,20.0,37.0,21.0,334.0,273.0,61.0,5.0,19.0,352.0,186.0,166.0,,Dolphins,False,False,2007,-9.34,-6.9,-0.2
 2,3,Sun,September 23,1:02PM ET,boxscore,L,,0-3,@,New York Jets,28.0,31.0,28.0,424.0,312.0,112.0,1.0,22.0,256.0,115.0,141.0,,Dolphins,False,False,2007,19.39,-11.06,-11.52
@@ -16014,7 +16014,7 @@
 18,Wild Card,Sun,January 6,1:03PM ET,boxscore,W,,11-6,@,Tampa Bay Buccaneers,24.0,14.0,16.0,277.0,177.0,100.0,,20.0,271.0,202.0,69.0,3.0,Giants,False,False,2007,4.54,-3.12,8.76
 19,Division,Sun,January 13,4:45PM ET,boxscore,W,,12-6,@,Dallas Cowboys,21.0,17.0,16.0,230.0,140.0,90.0,,23.0,336.0,182.0,154.0,1.0,Giants,False,False,2007,8.49,-7.34,1.73
 20,Conf. Champ.,Sun,January 20,6:42PM ET,boxscore,W,OT,13-6,@,Green Bay Packers,23.0,20.0,24.0,377.0,243.0,134.0,1.0,13.0,264.0,236.0,28.0,2.0,Giants,False,False,2007,4.61,0.92,-3.25
-21,SuperBowl,Sun,February 3,6:30PM ET,boxscore,W,,14-6,N,New England Patriots,17.0,14.0,17.0,338.0,247.0,91.0,1.0,22.0,274.0,229.0,45.0,1.0,Giants,False,False,2007,5.07,2.09,0.7
+21,SuperBowl,Sun,February 3,6:30PM ET,boxscore,W,,14-6,N,New England Patriots,17.0,14.0,17.0,338.0,247.0,91.0,1.0,22.0,274.0,229.0,45.0,1.0,Giants,True,True,2007,5.07,2.09,0.7
 0,1,Sun,September 9,4:15PM ET,boxscore,L,,0-1,@,Seattle Seahawks,6.0,20.0,13.0,284.0,194.0,90.0,2.0,17.0,343.0,204.0,139.0,1.0,Buccaneers,False,False,2007,-9.92,-3.2,0.33
 1,2,Sun,September 16,1:03PM ET,boxscore,W,,1-1,,New Orleans Saints,31.0,14.0,14.0,330.0,243.0,87.0,,19.0,343.0,244.0,99.0,2.0,Buccaneers,False,False,2007,12.58,0.62,6.09
 2,3,Sun,September 23,1:02PM ET,boxscore,W,,2-1,,St. Louis Rams,24.0,3.0,22.0,322.0,140.0,182.0,1.0,18.0,245.0,109.0,136.0,3.0,Buccaneers,False,False,2007,9.29,8.28,5.45
@@ -16406,7 +16406,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Steelers,False,False,2008,,,
 18,Division,Sun,January 11,4:45PM ET,boxscore,W,,13-4,,San Diego Chargers,35.0,24.0,22.0,342.0,177.0,165.0,,15.0,290.0,275.0,15.0,2.0,Steelers,False,False,2008,5.94,-0.97,5.45
 19,Conf. Champ.,Sun,January 18,6:43PM ET,boxscore,W,,14-4,,Baltimore Ravens,23.0,14.0,11.0,275.0,223.0,52.0,1.0,13.0,198.0,125.0,73.0,4.0,Steelers,False,False,2008,-12.37,23.82,3.13
-20,SuperBowl,Sun,February 1,6:31PM ET,boxscore,W,,15-4,N,Arizona Cardinals,27.0,23.0,20.0,292.0,234.0,58.0,1.0,23.0,407.0,374.0,33.0,2.0,Steelers,False,False,2008,4.62,-0.92,1.91
+20,SuperBowl,Sun,February 1,6:31PM ET,boxscore,W,,15-4,N,Arizona Cardinals,27.0,23.0,20.0,292.0,234.0,58.0,1.0,23.0,407.0,374.0,33.0,2.0,Steelers,True,True,2008,4.62,-0.92,1.91
 0,1,Sun,September 7,4:16PM ET,boxscore,L,,0-1,,Dallas Cowboys,10.0,28.0,11.0,205.0,114.0,91.0,,30.0,487.0,320.0,167.0,1.0,Browns,False,False,2008,0.33,-25.03,2.71
 1,2,Sun,September 14,8:23PM ET,boxscore,L,,0-2,,Pittsburgh Steelers,6.0,10.0,17.0,208.0,155.0,53.0,2.0,14.0,281.0,164.0,117.0,,Browns,False,False,2008,-10.2,0.53,3.71
 2,3,Sun,September 21,4:16PM ET,boxscore,L,,0-3,@,Baltimore Ravens,10.0,28.0,11.0,169.0,99.0,70.0,3.0,21.0,273.0,122.0,151.0,2.0,Browns,False,False,2008,-24.59,1.49,4.08
@@ -16770,7 +16770,7 @@
 18,Wild Card,Sat,January 3,4:36PM ET,boxscore,W,,10-7,,Atlanta Falcons,30.0,24.0,15.0,357.0,271.0,86.0,1.0,20.0,250.0,190.0,60.0,3.0,Cardinals,False,False,2008,4.78,7.65,-5.59
 19,Division,Sat,January 10,8:16PM ET,boxscore,W,,11-7,@,Carolina Panthers,33.0,13.0,21.0,360.0,215.0,145.0,1.0,16.0,269.0,194.0,75.0,6.0,Cardinals,False,False,2008,5.14,22.27,-3.52
 20,Conf. Champ.,Sun,January 18,4:06PM ET,boxscore,W,,12-7,,Philadelphia Eagles,32.0,25.0,21.0,369.0,267.0,102.0,1.0,22.0,454.0,357.0,97.0,3.0,Cardinals,False,False,2008,17.33,-12.1,2.55
-21,SuperBowl,Sun,February 1,6:31PM ET,boxscore,L,,12-8,N,Pittsburgh Steelers,23.0,27.0,23.0,407.0,374.0,33.0,2.0,20.0,292.0,234.0,58.0,1.0,Cardinals,False,False,2008,0.92,-4.62,-1.91
+21,SuperBowl,Sun,February 1,6:31PM ET,boxscore,L,,12-8,N,Pittsburgh Steelers,23.0,27.0,23.0,407.0,374.0,33.0,2.0,20.0,292.0,234.0,58.0,1.0,Cardinals,True,False,2008,0.92,-4.62,-1.91
 0,1,Sun,September 7,4:16PM ET,boxscore,L,,0-1,,Arizona Cardinals,13.0,23.0,13.0,291.0,183.0,108.0,5.0,18.0,285.0,176.0,109.0,,49ers,False,False,2008,-8.61,2.16,-1.37
 1,2,Sun,September 14,4:06PM ET,boxscore,W,OT,1-1,@,Seattle Seahawks,33.0,30.0,20.0,365.0,272.0,93.0,1.0,22.0,351.0,182.0,169.0,3.0,49ers,False,False,2008,3.32,9.7,-10.02
 2,3,Sun,September 21,4:06PM ET,boxscore,W,,2-1,,Detroit Lions,31.0,13.0,25.0,370.0,188.0,182.0,,14.0,240.0,124.0,116.0,2.0,49ers,False,False,2008,16.16,6.15,-3.23
@@ -16916,7 +16916,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Colts,False,False,2009,,,
 18,Division,Sat,January 16,8:15PM ET,boxscore,W,,15-2,,Baltimore Ravens,20.0,3.0,22.0,275.0,233.0,42.0,1.0,12.0,270.0,183.0,87.0,4.0,Colts,False,False,2009,2.95,12.05,-0.59
 19,Conf. Champ.,Sun,January 24,3:05PM ET,boxscore,W,,16-2,,New York Jets,30.0,17.0,27.0,461.0,360.0,101.0,1.0,17.0,388.0,302.0,86.0,1.0,Colts,False,False,2009,15.88,-5.09,1.12
-20,SuperBowl,Sun,February 7,6:31PM ET,boxscore,L,,16-3,N,New Orleans Saints,17.0,31.0,23.0,432.0,333.0,99.0,1.0,20.0,332.0,281.0,51.0,,Colts,False,False,2009,5.49,-9.15,-8.49
+20,SuperBowl,Sun,February 7,6:31PM ET,boxscore,L,,16-3,N,New Orleans Saints,17.0,31.0,23.0,432.0,333.0,99.0,1.0,20.0,332.0,281.0,51.0,,Colts,True,False,2009,5.49,-9.15,-8.49
 0,1,Sun,September 13,1:03PM ET,boxscore,L,,0-1,,New York Jets,7.0,24.0,11.0,183.0,145.0,38.0,2.0,22.0,462.0,272.0,190.0,1.0,Texans,False,False,2009,-13.86,-7.63,1.83
 1,2,Sun,September 20,1:03PM ET,boxscore,W,,1-1,@,Tennessee Titans,34.0,31.0,19.0,420.0,357.0,63.0,,19.0,449.0,209.0,240.0,2.0,Texans,False,False,2009,12.65,-9.39,2.27
 2,3,Sun,September 27,1:03PM ET,boxscore,L,,1-2,,Jacksonville Jaguars,24.0,31.0,23.0,397.0,286.0,111.0,2.0,24.0,399.0,214.0,185.0,1.0,Texans,False,False,2009,11.1,-18.25,0.07
@@ -17204,7 +17204,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Saints,False,False,2009,,,
 18,Division,Sat,January 16,4:34PM ET,boxscore,W,,14-3,,Arizona Cardinals,45.0,14.0,27.0,418.0,247.0,171.0,,15.0,359.0,258.0,101.0,2.0,Saints,False,False,2009,19.18,1.4,6.7
 19,Conf. Champ.,Sun,January 24,6:45PM ET,boxscore,W,OT,15-3,,Minnesota Vikings,31.0,28.0,15.0,257.0,189.0,68.0,1.0,31.0,475.0,310.0,165.0,5.0,Saints,False,False,2009,1.7,-6.36,6.82
-20,SuperBowl,Sun,February 7,6:31PM ET,boxscore,W,,16-3,N,Indianapolis Colts,31.0,17.0,20.0,332.0,281.0,51.0,,23.0,432.0,333.0,99.0,1.0,Saints,False,False,2009,9.15,-5.49,8.49
+20,SuperBowl,Sun,February 7,6:31PM ET,boxscore,W,,16-3,N,Indianapolis Colts,31.0,17.0,20.0,332.0,281.0,51.0,,23.0,432.0,333.0,99.0,1.0,Saints,True,True,2009,9.15,-5.49,8.49
 0,1,Sun,September 13,1:05PM ET,boxscore,W,,1-0,,Miami Dolphins,19.0,7.0,19.0,281.0,213.0,68.0,,16.0,259.0,163.0,96.0,4.0,Falcons,False,False,2009,0.41,17.37,-2.53
 1,2,Sun,September 20,1:02PM ET,boxscore,W,,2-0,,Carolina Panthers,28.0,20.0,23.0,371.0,220.0,151.0,2.0,24.0,440.0,296.0,144.0,2.0,Falcons,False,False,2009,12.82,-12.75,4.0
 2,3,Sun,September 27,1:02PM ET,boxscore,L,,2-1,@,New England Patriots,10.0,26.0,13.0,257.0,199.0,58.0,1.0,28.0,445.0,277.0,168.0,,Falcons,False,False,2009,-1.34,-18.68,2.51
@@ -17564,7 +17564,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Steelers,False,False,2010,,,
 18,Division,Sat,January 15,4:35PM ET,boxscore,W,,13-4,,Baltimore Ravens,31.0,24.0,21.0,263.0,192.0,71.0,2.0,12.0,126.0,91.0,35.0,3.0,Steelers,False,False,2010,-1.77,15.91,-6.44
 19,Conf. Champ.,Sun,January 23,6:41PM ET,boxscore,W,,14-4,,New York Jets,24.0,19.0,23.0,287.0,121.0,166.0,2.0,17.0,289.0,219.0,70.0,1.0,Steelers,False,False,2010,4.42,1.33,-0.71
-20,SuperBowl,Sun,February 6,6:34PM ET,boxscore,L,,14-5,N,Green Bay Packers,25.0,31.0,19.0,387.0,261.0,126.0,3.0,15.0,338.0,288.0,50.0,,Steelers,False,False,2010,-3.89,-7.72,2.5
+20,SuperBowl,Sun,February 6,6:34PM ET,boxscore,L,,14-5,N,Green Bay Packers,25.0,31.0,19.0,387.0,261.0,126.0,3.0,15.0,338.0,288.0,50.0,,Steelers,True,False,2010,-3.89,-7.72,2.5
 0,1,Sun,September 12,1:02PM ET,boxscore,L,,0-1,@,Tampa Bay Buccaneers,14.0,17.0,15.0,340.0,236.0,104.0,3.0,13.0,288.0,169.0,119.0,2.0,Browns,False,False,2010,-11.19,11.89,-0.29
 1,2,Sun,September 19,1:02PM ET,boxscore,L,,0-2,,Kansas City Chiefs,14.0,16.0,13.0,299.0,226.0,73.0,2.0,16.0,312.0,172.0,140.0,2.0,Browns,False,False,2010,-12.79,6.03,-0.61
 2,3,Sun,September 26,1:02PM ET,boxscore,L,,0-3,@,Baltimore Ravens,17.0,24.0,18.0,304.0,131.0,173.0,,19.0,365.0,256.0,109.0,,Browns,False,False,2010,5.88,-12.6,0.84
@@ -17835,7 +17835,7 @@
 18,Wild Card,Sun,January 9,4:40PM ET,boxscore,W,,11-6,@,Philadelphia Eagles,21.0,16.0,20.0,309.0,171.0,138.0,2.0,18.0,352.0,271.0,81.0,1.0,Packers,False,False,2010,9.04,-3.59,0.66
 19,Division,Sat,January 15,8:15PM ET,boxscore,W,,12-6,@,Atlanta Falcons,48.0,21.0,28.0,442.0,346.0,96.0,1.0,15.0,194.0,149.0,45.0,4.0,Packers,False,False,2010,26.24,11.75,-11.45
 20,Conf. Champ.,Sun,January 23,3:05PM ET,boxscore,W,,13-6,@,Chicago Bears,21.0,14.0,23.0,356.0,236.0,120.0,2.0,17.0,301.0,218.0,83.0,3.0,Packers,False,False,2010,-2.96,14.09,-3.8
-21,SuperBowl,Sun,February 6,6:34PM ET,boxscore,W,,14-6,N,Pittsburgh Steelers,31.0,25.0,15.0,338.0,288.0,50.0,,19.0,387.0,261.0,126.0,3.0,Packers,False,False,2010,7.72,3.89,-2.5
+21,SuperBowl,Sun,February 6,6:34PM ET,boxscore,W,,14-6,N,Pittsburgh Steelers,31.0,25.0,15.0,338.0,288.0,50.0,,19.0,387.0,261.0,126.0,3.0,Packers,True,True,2010,7.72,3.89,-2.5
 0,1,Thu,September 9,8:41PM ET,boxscore,L,,0-1,@,New Orleans Saints,9.0,14.0,12.0,253.0,162.0,91.0,1.0,18.0,308.0,229.0,79.0,,Vikings,False,False,2010,-6.45,-2.86,4.34
 1,2,Sun,September 19,1:05PM ET,boxscore,L,,0-2,,Miami Dolphins,10.0,14.0,22.0,364.0,208.0,156.0,4.0,12.0,226.0,106.0,120.0,2.0,Vikings,False,False,2010,-14.3,10.5,-1.14
 2,3,Sun,September 26,1:05PM ET,boxscore,W,,1-2,,Detroit Lions,24.0,10.0,21.0,368.0,185.0,183.0,3.0,17.0,295.0,232.0,63.0,3.0,Vikings,False,False,2010,-1.27,8.05,5.89
@@ -17998,7 +17998,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2011,,,
 18,Division,Sat,January 14,8:15PM ET,boxscore,W,,14-3,,Denver Broncos,45.0,10.0,31.0,509.0,363.0,146.0,2.0,15.0,252.0,108.0,144.0,1.0,Patriots,False,False,2011,27.14,11.2,-2.48
 19,Conf. Champ.,Sun,January 22,3:05PM ET,boxscore,W,,15-3,,Baltimore Ravens,23.0,20.0,25.0,330.0,234.0,96.0,3.0,19.0,398.0,282.0,116.0,1.0,Patriots,False,False,2011,5.91,-3.41,-1.42
-20,SuperBowl,Sun,February 5,6:30PM ET,boxscore,L,,15-4,N,New York Giants,17.0,21.0,21.0,349.0,266.0,83.0,1.0,26.0,396.0,282.0,114.0,,Patriots,False,False,2011,10.62,-13.35,-1.39
+20,SuperBowl,Sun,February 5,6:30PM ET,boxscore,L,,15-4,N,New York Giants,17.0,21.0,21.0,349.0,266.0,83.0,1.0,26.0,396.0,282.0,114.0,,Patriots,True,False,2011,10.62,-13.35,-1.39
 0,1,Mon,September 12,7:13PM ET,boxscore,L,,0-1,,New England Patriots,24.0,38.0,25.0,488.0,390.0,98.0,1.0,27.0,622.0,516.0,106.0,1.0,Dolphins,False,False,2011,8.63,-24.68,2.84
 1,2,Sun,September 18,4:15PM ET,boxscore,L,,0-2,,Houston Texans,13.0,23.0,18.0,306.0,153.0,153.0,2.0,19.0,345.0,207.0,138.0,,Dolphins,False,False,2011,-5.49,-3.32,-6.91
 2,3,Sun,September 25,1:02PM ET,boxscore,L,,0-3,@,Cleveland Browns,16.0,17.0,22.0,369.0,231.0,138.0,2.0,19.0,280.0,210.0,70.0,1.0,Dolphins,False,False,2011,0.92,-3.54,1.48
@@ -18322,7 +18322,7 @@
 18,Wild Card,Sun,January 8,1:06PM ET,boxscore,W,,10-7,,Atlanta Falcons,24.0,2.0,19.0,442.0,270.0,172.0,,14.0,247.0,183.0,64.0,,Giants,False,False,2011,16.19,13.58,-9.51
 19,Division,Sun,January 15,4:40PM ET,boxscore,W,,11-7,@,Green Bay Packers,37.0,20.0,19.0,420.0,325.0,95.0,1.0,25.0,388.0,241.0,147.0,4.0,Giants,False,False,2011,12.89,5.25,-1.79
 20,Conf. Champ.,Sun,January 22,6:41PM ET,boxscore,W,OT,12-7,@,San Francisco 49ers,20.0,17.0,20.0,352.0,267.0,85.0,,15.0,328.0,178.0,150.0,2.0,Giants,False,False,2011,-11.25,1.1,7.51
-21,SuperBowl,Sun,February 5,6:30PM ET,boxscore,W,,13-7,N,New England Patriots,21.0,17.0,26.0,396.0,282.0,114.0,,21.0,349.0,266.0,83.0,1.0,Giants,False,False,2011,13.35,-10.62,1.39
+21,SuperBowl,Sun,February 5,6:30PM ET,boxscore,W,,13-7,N,New England Patriots,21.0,17.0,26.0,396.0,282.0,114.0,,21.0,349.0,266.0,83.0,1.0,Giants,True,True,2011,13.35,-10.62,1.39
 0,1,Sun,September 11,1:06PM ET,boxscore,L,,0-1,,Detroit Lions,20.0,27.0,17.0,315.0,259.0,56.0,2.0,25.0,431.0,305.0,126.0,1.0,Buccaneers,False,False,2011,0.26,-7.26,1.73
 1,2,Sun,September 18,1:05PM ET,boxscore,W,,1-1,@,Minnesota Vikings,24.0,20.0,19.0,335.0,230.0,105.0,1.0,25.0,398.0,212.0,186.0,1.0,Buccaneers,False,False,2011,8.91,-13.95,8.24
 2,3,Sun,September 25,4:16PM ET,boxscore,W,,2-1,,Atlanta Falcons,16.0,13.0,20.0,295.0,180.0,115.0,2.0,21.0,325.0,295.0,30.0,3.0,Buccaneers,False,False,2011,-6.25,4.5,5.21
@@ -18757,7 +18757,7 @@
 18,Wild Card,Sun,January 6,1:07PM ET,boxscore,W,,11-6,,Indianapolis Colts,24.0,9.0,18.0,439.0,269.0,170.0,2.0,25.0,419.0,267.0,152.0,2.0,Ravens,False,False,2012,10.86,4.62,-0.48
 19,Division,Sat,January 12,4:36PM ET,boxscore,W,OT,12-6,@,Denver Broncos,38.0,35.0,21.0,479.0,324.0,155.0,1.0,30.0,398.0,273.0,125.0,3.0,Ravens,False,False,2012,9.89,-0.17,-6.13
 20,Conf. Champ.,Sun,January 20,6:40PM ET,boxscore,W,,13-6,@,New England Patriots,28.0,13.0,25.0,356.0,235.0,121.0,,28.0,428.0,320.0,108.0,3.0,Ravens,False,False,2012,12.89,-0.89,1.67
-21,SuperBowl,Sun,February 3,6:31PM ET,boxscore,W,,14-6,N,San Francisco 49ers,34.0,31.0,21.0,367.0,274.0,93.0,1.0,23.0,468.0,286.0,182.0,2.0,Ravens,False,False,2012,9.33,-8.82,1.8
+21,SuperBowl,Sun,February 3,6:31PM ET,boxscore,W,,14-6,N,San Francisco 49ers,34.0,31.0,21.0,367.0,274.0,93.0,1.0,23.0,468.0,286.0,182.0,2.0,Ravens,True,True,2012,9.33,-8.82,1.8
 0,1,Sun,September 9,1:03PM ET,boxscore,L,,0-1,,Atlanta Falcons,24.0,40.0,22.0,393.0,241.0,152.0,3.0,21.0,376.0,292.0,84.0,,Chiefs,False,False,2012,9.33,-18.91,-8.49
 1,2,Sun,September 16,1:02PM ET,boxscore,L,,0-2,@,Buffalo Bills,17.0,35.0,25.0,422.0,272.0,150.0,3.0,15.0,379.0,178.0,201.0,,Chiefs,False,False,2012,-1.75,-11.38,-4.69
 2,3,Sun,September 23,1:02PM ET,boxscore,W,OT,1-2,@,New Orleans Saints,27.0,24.0,27.0,510.0,237.0,273.0,3.0,14.0,288.0,205.0,83.0,1.0,Chiefs,False,False,2012,-1.14,1.18,1.17
@@ -19096,7 +19096,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,2012,,,
 18,Division,Sat,January 12,8:25PM ET,boxscore,W,,12-4-1,,Green Bay Packers,45.0,31.0,29.0,579.0,256.0,323.0,1.0,20.0,352.0,248.0,104.0,2.0,49ers,False,False,2012,25.88,-16.0,5.15
 19,Conf. Champ.,Sun,January 20,3:05PM ET,boxscore,W,,13-4-1,@,Atlanta Falcons,28.0,24.0,21.0,373.0,224.0,149.0,1.0,27.0,477.0,396.0,81.0,2.0,49ers,False,False,2012,16.62,-15.22,-1.23
-20,SuperBowl,Sun,February 3,6:31PM ET,boxscore,L,,13-5-1,N,Baltimore Ravens,31.0,34.0,23.0,468.0,286.0,182.0,2.0,21.0,367.0,274.0,93.0,1.0,49ers,False,False,2012,8.82,-9.33,-1.8
+20,SuperBowl,Sun,February 3,6:31PM ET,boxscore,L,,13-5-1,N,Baltimore Ravens,31.0,34.0,23.0,468.0,286.0,182.0,2.0,21.0,367.0,274.0,93.0,1.0,49ers,True,False,2012,8.82,-9.33,-1.8
 0,1,Sun,September 9,4:25PM ET,boxscore,L,,0-1,@,Arizona Cardinals,16.0,20.0,18.0,254.0,139.0,115.0,2.0,18.0,253.0,210.0,43.0,2.0,Seahawks,False,False,2012,-9.49,4.9,1.82
 1,2,Sun,September 16,4:06PM ET,boxscore,W,,1-1,,Dallas Cowboys,27.0,7.0,20.0,315.0,133.0,182.0,,17.0,296.0,247.0,49.0,2.0,Seahawks,False,False,2012,5.89,3.37,9.28
 2,3,Mon,September 24,8:41PM ET,boxscore,W,,2-1,,Green Bay Packers,14.0,12.0,14.0,238.0,111.0,127.0,,22.0,268.0,184.0,84.0,,Seahawks,False,False,2012,0.56,-2.33,3.33
@@ -19405,7 +19405,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,2013,,,
 18,Division,Sun,January 12,4:40PM ET,boxscore,W,,14-3,,San Diego Chargers,24.0,17.0,26.0,363.0,230.0,133.0,2.0,13.0,259.0,194.0,65.0,,Broncos,False,False,2013,15.88,-5.93,0.28
 19,Conf. Champ.,Sun,January 19,3:06PM ET,boxscore,W,,15-3,,New England Patriots,26.0,16.0,27.0,507.0,400.0,107.0,,19.0,320.0,256.0,64.0,,Broncos,False,False,2013,23.4,-9.06,-1.34
-20,SuperBowl,Sun,February 2,6:32PM ET,boxscore,L,,15-4,N,Seattle Seahawks,8.0,43.0,18.0,306.0,279.0,27.0,4.0,17.0,341.0,206.0,135.0,,Broncos,False,False,2013,-16.32,-7.18,-9.66
+20,SuperBowl,Sun,February 2,6:32PM ET,boxscore,L,,15-4,N,Seattle Seahawks,8.0,43.0,18.0,306.0,279.0,27.0,4.0,17.0,341.0,206.0,135.0,,Broncos,True,False,2013,-16.32,-7.18,-9.66
 0,1,Sun,September 8,8:30PM ET,boxscore,W,,1-0,,New York Giants,36.0,31.0,22.0,331.0,244.0,87.0,1.0,21.0,478.0,428.0,50.0,6.0,Cowboys,False,False,2013,-9.93,4.53,13.06
 1,2,Sun,September 15,1:02PM ET,boxscore,L,,1-1,@,Kansas City Chiefs,16.0,17.0,20.0,318.0,281.0,37.0,2.0,19.0,313.0,199.0,114.0,,Cowboys,False,False,2013,-6.67,-1.42,7.11
 2,3,Sun,September 22,1:02PM ET,boxscore,W,,2-1,,St. Louis Rams,31.0,7.0,21.0,396.0,203.0,193.0,1.0,17.0,232.0,197.0,35.0,1.0,Cowboys,False,False,2013,18.31,14.3,-10.56
@@ -19694,7 +19694,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Seahawks,False,False,2013,,,
 18,Division,Sat,January 11,4:36PM ET,boxscore,W,,14-3,,New Orleans Saints,23.0,15.0,13.0,277.0,103.0,174.0,,25.0,409.0,301.0,108.0,1.0,Seahawks,False,False,2013,0.52,1.25,6.46
 19,Conf. Champ.,Sun,January 19,6:42PM ET,boxscore,W,,15-3,,San Francisco 49ers,23.0,17.0,14.0,308.0,193.0,115.0,1.0,16.0,308.0,147.0,161.0,3.0,Seahawks,False,False,2013,-6.2,2.26,7.65
-20,SuperBowl,Sun,February 2,6:32PM ET,boxscore,W,,16-3,N,Denver Broncos,43.0,8.0,17.0,341.0,206.0,135.0,,18.0,306.0,279.0,27.0,4.0,Seahawks,False,False,2013,7.18,16.32,9.66
+20,SuperBowl,Sun,February 2,6:32PM ET,boxscore,W,,16-3,N,Denver Broncos,43.0,8.0,17.0,341.0,206.0,135.0,,18.0,306.0,279.0,27.0,4.0,Seahawks,True,True,2013,7.18,16.32,9.66
 0,1,Sun,September 7,1:00PM ET,boxscore,W,OT,1-0,@,Chicago Bears,23.0,20.0,15.0,360.0,167.0,193.0,1.0,29.0,427.0,341.0,86.0,3.0,Bills,False,False,2014,2.96,-1.97,2.04
 1,2,Sun,September 14,1:02PM ET,boxscore,W,,2-0,,Miami Dolphins,29.0,10.0,13.0,315.0,202.0,113.0,,23.0,290.0,210.0,80.0,2.0,Bills,False,False,2014,0.34,7.32,8.75
 2,3,Sun,September 21,1:02PM ET,boxscore,L,,2-1,,San Diego Chargers,10.0,22.0,18.0,292.0,205.0,87.0,,20.0,333.0,250.0,83.0,,Bills,False,False,2014,-4.38,-9.74,2.42
@@ -19732,7 +19732,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2014,,,
 18,Division,Sat,January 10,4:35PM ET,boxscore,W,,13-4,,Baltimore Ravens,35.0,31.0,29.0,422.0,408.0,14.0,1.0,28.0,428.0,292.0,136.0,2.0,Patriots,False,False,2014,20.04,-15.9,-1.99
 19,Conf. Champ.,Sun,January 18,6:50PM ET,boxscore,W,,14-4,,Indianapolis Colts,45.0,7.0,28.0,397.0,220.0,177.0,1.0,17.0,209.0,126.0,83.0,3.0,Patriots,False,False,2014,22.43,9.46,3.0
-20,SuperBowl,Sun,February 1,6:30PM ET,boxscore,W,,15-4,N,Seattle Seahawks,28.0,24.0,25.0,377.0,320.0,57.0,2.0,20.0,396.0,234.0,162.0,1.0,Patriots,False,False,2014,13.67,-10.4,1.37
+20,SuperBowl,Sun,February 1,6:30PM ET,boxscore,W,,15-4,N,Seattle Seahawks,28.0,24.0,25.0,377.0,320.0,57.0,2.0,20.0,396.0,234.0,162.0,1.0,Patriots,True,True,2014,13.67,-10.4,1.37
 0,1,Sun,September 7,1:03PM ET,boxscore,W,,1-0,,New England Patriots,33.0,20.0,25.0,360.0,169.0,191.0,3.0,20.0,315.0,226.0,89.0,2.0,Dolphins,False,False,2014,4.77,10.28,-1.99
 1,2,Sun,September 14,1:02PM ET,boxscore,L,,1-1,@,Buffalo Bills,10.0,29.0,23.0,290.0,210.0,80.0,2.0,13.0,315.0,202.0,113.0,,Dolphins,False,False,2014,-7.32,-0.34,-8.75
 2,3,Sun,September 21,4:25PM ET,boxscore,L,,1-2,,Kansas City Chiefs,15.0,34.0,18.0,332.0,191.0,141.0,,23.0,342.0,168.0,174.0,2.0,Dolphins,False,False,2014,-8.31,-6.05,-2.71
@@ -20272,7 +20272,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Seahawks,False,False,2014,,,
 18,Division,Sat,January 10,8:21PM ET,boxscore,W,,13-4,,Carolina Panthers,31.0,17.0,16.0,348.0,248.0,100.0,,21.0,362.0,230.0,132.0,3.0,Seahawks,False,False,2014,13.2,1.93,1.18
 19,Conf. Champ.,Sun,January 18,3:06PM ET,boxscore,W,OT,14-4,,Green Bay Packers,28.0,22.0,20.0,397.0,203.0,194.0,5.0,19.0,306.0,171.0,135.0,2.0,Seahawks,False,False,2014,2.03,7.48,-5.58
-20,SuperBowl,Sun,February 1,6:30PM ET,boxscore,L,,14-5,N,New England Patriots,24.0,28.0,20.0,396.0,234.0,162.0,1.0,25.0,377.0,320.0,57.0,2.0,Seahawks,False,False,2014,10.4,-13.67,-1.37
+20,SuperBowl,Sun,February 1,6:30PM ET,boxscore,L,,14-5,N,New England Patriots,24.0,28.0,20.0,396.0,234.0,162.0,1.0,25.0,377.0,320.0,57.0,2.0,Seahawks,True,False,2014,10.4,-13.67,-1.37
 0,1,Sun,September 13,1:03PM ET,boxscore,W,,1-0,,Indianapolis Colts,27.0,14.0,15.0,342.0,195.0,147.0,,23.0,304.0,240.0,64.0,3.0,Bills,False,False,2015,5.84,-1.79,9.54
 1,2,Sun,September 20,1:02PM ET,boxscore,L,,1-1,,New England Patriots,32.0,40.0,23.0,349.0,189.0,160.0,3.0,28.0,507.0,451.0,56.0,2.0,Bills,False,False,2015,5.24,-6.15,-7.57
 2,3,Sun,September 27,4:25PM ET,boxscore,W,,2-1,@,Miami Dolphins,41.0,14.0,21.0,428.0,277.0,151.0,,21.0,391.0,289.0,102.0,3.0,Bills,False,False,2015,19.56,8.29,-2.1
@@ -20561,7 +20561,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Broncos,False,False,2015,,,
 18,Division,Sun,January 17,4:40PM ET,boxscore,W,,13-4,,Pittsburgh Steelers,23.0,16.0,19.0,324.0,215.0,109.0,,16.0,396.0,311.0,85.0,1.0,Broncos,False,False,2015,-5.76,3.71,9.9
 19,Conf. Champ.,Sun,January 24,3:05PM ET,boxscore,W,,14-4,,New England Patriots,20.0,18.0,12.0,244.0,145.0,99.0,1.0,20.0,336.0,292.0,44.0,2.0,Broncos,False,False,2015,-11.11,11.95,3.99
-20,SuperBowl,Sun,February 7,6:39PM ET,boxscore,W,,15-4,N,Carolina Panthers,24.0,10.0,11.0,194.0,104.0,90.0,2.0,21.0,315.0,197.0,118.0,4.0,Broncos,False,False,2015,-20.81,20.91,11.64
+20,SuperBowl,Sun,February 7,6:39PM ET,boxscore,W,,15-4,N,Carolina Panthers,24.0,10.0,11.0,194.0,104.0,90.0,2.0,21.0,315.0,197.0,118.0,4.0,Broncos,True,True,2015,-20.81,20.91,11.64
 0,1,Sun,September 13,8:31PM ET,boxscore,W,,1-0,,New York Giants,27.0,26.0,27.0,436.0,356.0,80.0,3.0,18.0,288.0,189.0,99.0,,Cowboys,False,False,2015,4.61,-2.48,-2.2
 1,2,Sun,September 20,4:25PM ET,boxscore,W,,2-0,@,Philadelphia Eagles,20.0,10.0,21.0,359.0,250.0,109.0,2.0,17.0,226.0,219.0,7.0,3.0,Cowboys,False,False,2015,-6.08,15.51,1.73
 2,3,Sun,September 27,1:03PM ET,boxscore,L,,2-1,,Atlanta Falcons,28.0,39.0,23.0,347.0,220.0,127.0,1.0,26.0,438.0,280.0,158.0,,Cowboys,False,False,2015,12.25,-24.77,0.64
@@ -20703,7 +20703,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Panthers,False,False,2015,,,
 18,Division,Sun,January 17,1:06PM ET,boxscore,W,,16-1,,Seattle Seahawks,31.0,24.0,19.0,295.0,151.0,144.0,,23.0,403.0,325.0,78.0,2.0,Panthers,False,False,2015,8.35,-5.96,6.08
 19,Conf. Champ.,Sun,January 24,6:42PM ET,boxscore,W,,17-1,,Arizona Cardinals,49.0,15.0,21.0,476.0,324.0,152.0,1.0,21.0,287.0,227.0,60.0,7.0,Panthers,False,False,2015,15.85,10.49,3.81
-20,SuperBowl,Sun,February 7,6:39PM ET,boxscore,L,,17-2,N,Denver Broncos,10.0,24.0,21.0,315.0,197.0,118.0,4.0,11.0,194.0,104.0,90.0,2.0,Panthers,False,False,2015,-20.91,20.81,-11.64
+20,SuperBowl,Sun,February 7,6:39PM ET,boxscore,L,,17-2,N,Denver Broncos,10.0,24.0,21.0,315.0,197.0,118.0,4.0,11.0,194.0,104.0,90.0,2.0,Panthers,True,False,2015,-20.91,20.81,-11.64
 0,1,Sun,September 13,1:00PM ET,boxscore,W,,1-0,@,Chicago Bears,31.0,23.0,21.0,322.0,189.0,133.0,,25.0,402.0,213.0,189.0,1.0,Packers,False,False,2015,19.78,-11.43,1.29
 1,2,Sun,September 20,8:25PM ET,boxscore,W,,2-0,,Seattle Seahawks,27.0,17.0,21.0,361.0,234.0,127.0,1.0,21.0,324.0,205.0,119.0,2.0,Packers,False,False,2015,9.99,-1.19,3.78
 2,3,Mon,September 28,8:30PM ET,boxscore,W,,3-0,,Kansas City Chiefs,38.0,28.0,26.0,448.0,325.0,123.0,,23.0,326.0,251.0,75.0,1.0,Packers,False,False,2015,16.14,-8.1,-0.93
@@ -20888,7 +20888,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2016,,,
 18,Division,Sat,January 14,8:15PM ET,boxscore,W,,15-2,,Houston Texans,34.0,16.0,20.0,377.0,279.0,98.0,3.0,14.0,302.0,197.0,105.0,3.0,Patriots,False,False,2016,2.26,20.16,-2.22
 19,Conf. Champ.,Sun,January 22,6:40PM ET,boxscore,W,,16-2,,Pittsburgh Steelers,36.0,17.0,26.0,431.0,374.0,57.0,,22.0,368.0,314.0,54.0,2.0,Patriots,False,False,2016,20.62,-2.88,2.03
-20,SuperBowl,Sun,February 5,6:30PM ET,boxscore,W,OT,17-2,N,Atlanta Falcons,34.0,28.0,37.0,546.0,442.0,104.0,2.0,17.0,344.0,240.0,104.0,1.0,Patriots,False,False,2016,13.47,-7.42,-1.32
+20,SuperBowl,Sun,February 5,6:30PM ET,boxscore,W,OT,17-2,N,Atlanta Falcons,34.0,28.0,37.0,546.0,442.0,104.0,2.0,17.0,344.0,240.0,104.0,1.0,Patriots,True,True,2016,13.47,-7.42,-1.32
 0,1,Sun,September 11,4:08PM ET,boxscore,L,,0-1,@,Seattle Seahawks,10.0,12.0,11.0,214.0,150.0,64.0,,21.0,352.0,240.0,112.0,2.0,Dolphins,False,False,2016,-9.75,5.68,-0.42
 1,2,Sun,September 18,1:02PM ET,boxscore,L,,0-2,@,New England Patriots,24.0,31.0,23.0,457.0,387.0,70.0,4.0,29.0,463.0,302.0,161.0,1.0,Dolphins,False,False,2016,6.98,-17.47,3.95
 2,3,Sun,September 25,1:02PM ET,boxscore,W,OT,1-2,,Cleveland Browns,30.0,24.0,23.0,426.0,311.0,115.0,3.0,21.0,430.0,261.0,169.0,1.0,Dolphins,False,False,2016,-3.28,-1.58,12.54
@@ -21266,7 +21266,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Falcons,False,False,2016,,,
 18,Division,Sat,January 14,4:35PM ET,boxscore,W,,12-5,,Seattle Seahawks,36.0,20.0,28.0,422.0,323.0,99.0,,17.0,309.0,208.0,101.0,2.0,Falcons,False,False,2016,20.27,0.92,-2.56
 19,Conf. Champ.,Sun,January 22,3:05PM ET,boxscore,W,,13-5,,Green Bay Packers,44.0,21.0,30.0,493.0,392.0,101.0,,24.0,367.0,268.0,99.0,2.0,Falcons,False,False,2016,35.52,-14.83,5.0
-20,SuperBowl,Sun,February 5,6:30PM ET,boxscore,L,OT,13-6,N,New England Patriots,28.0,34.0,17.0,344.0,240.0,104.0,1.0,37.0,546.0,442.0,104.0,2.0,Falcons,False,False,2016,7.42,-13.47,1.32
+20,SuperBowl,Sun,February 5,6:30PM ET,boxscore,L,OT,13-6,N,New England Patriots,28.0,34.0,17.0,344.0,240.0,104.0,1.0,37.0,546.0,442.0,104.0,2.0,Falcons,True,False,2016,7.42,-13.47,1.32
 0,1,Thu,September 8,8:40PM ET,boxscore,L,,0-1,@,Denver Broncos,20.0,21.0,21.0,333.0,176.0,157.0,1.0,21.0,307.0,159.0,148.0,3.0,Panthers,False,False,2016,6.53,-4.46,-3.92
 1,2,Sun,September 18,1:03PM ET,boxscore,W,,1-1,,San Francisco 49ers,46.0,27.0,26.0,529.0,353.0,176.0,4.0,16.0,302.0,237.0,65.0,3.0,Panthers,False,False,2016,10.97,13.97,-5.67
 2,3,Sun,September 25,1:02PM ET,boxscore,L,,1-2,,Minnesota Vikings,10.0,22.0,18.0,306.0,201.0,105.0,3.0,13.0,211.0,153.0,58.0,,Panthers,False,False,2016,-12.29,5.7,-7.33
@@ -21468,7 +21468,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2017,,,
 18,Division,Sat,January 13,8:15PM ET,boxscore,W,,14-3,,Tennessee Titans,35.0,14.0,31.0,438.0,337.0,101.0,,15.0,267.0,202.0,65.0,,Patriots,False,False,2017,25.58,2.0,-7.65
 19,Conf. Champ.,Sun,January 21,3:05PM ET,boxscore,W,,15-3,,Jacksonville Jaguars,24.0,20.0,22.0,344.0,298.0,46.0,1.0,22.0,374.0,273.0,101.0,,Patriots,False,False,2017,10.37,-3.55,-1.4
-20,SuperBowl,Sun,February 4,6:30PM ET,boxscore,L,,15-4,N,Philadelphia Eagles,33.0,41.0,29.0,613.0,500.0,113.0,1.0,25.0,538.0,374.0,164.0,1.0,Patriots,False,False,2017,27.61,-29.26,-4.65
+20,SuperBowl,Sun,February 4,6:30PM ET,boxscore,L,,15-4,N,Philadelphia Eagles,33.0,41.0,29.0,613.0,500.0,113.0,1.0,25.0,538.0,374.0,164.0,1.0,Patriots,True,False,2017,27.61,-29.26,-4.65
 0,2,Sun,September 17,4:05PM ET,boxscore,W,,1-0,@,Los Angeles Chargers,19.0,17.0,21.0,336.0,225.0,111.0,,24.0,367.0,323.0,44.0,,Dolphins,False,False,2017,4.44,-11.99,7.94
 1,3,Sun,September 24,1:00PM ET,boxscore,L,,1-1,@,New York Jets,6.0,20.0,16.0,225.0,195.0,30.0,2.0,16.0,336.0,233.0,103.0,1.0,Dolphins,False,False,2017,-14.62,1.0,0.08
 2,4,Sun,October 1,9:30AM ET,boxscore,L,,1-2,,New Orleans Saints,0.0,20.0,11.0,186.0,128.0,58.0,1.0,22.0,347.0,261.0,86.0,,Dolphins,False,False,2017,-16.04,-6.94,4.01
@@ -21754,7 +21754,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Eagles,False,False,2017,,,
 18,Division,Sat,January 13,4:35PM ET,boxscore,W,,14-3,,Atlanta Falcons,15.0,10.0,22.0,334.0,238.0,96.0,2.0,19.0,281.0,195.0,86.0,,Eagles,False,False,2017,8.88,-0.03,-6.34
 19,Conf. Champ.,Sun,January 21,6:40PM ET,boxscore,W,,15-3,,Minnesota Vikings,38.0,7.0,27.0,456.0,346.0,110.0,,22.0,333.0,263.0,70.0,3.0,Eagles,False,False,2017,25.85,9.11,-4.48
-20,SuperBowl,Sun,February 4,6:30PM ET,boxscore,W,,16-3,N,New England Patriots,41.0,33.0,25.0,538.0,374.0,164.0,1.0,29.0,613.0,500.0,113.0,1.0,Eagles,False,False,2017,29.26,-27.61,4.65
+20,SuperBowl,Sun,February 4,6:30PM ET,boxscore,W,,16-3,N,New England Patriots,41.0,33.0,25.0,538.0,374.0,164.0,1.0,29.0,613.0,500.0,113.0,1.0,Eagles,True,True,2017,29.26,-27.61,4.65
 0,1,Sun,September 10,1:00PM ET,boxscore,L,,0-1,,Philadelphia Eagles,17.0,30.0,16.0,264.0,200.0,64.0,4.0,19.0,356.0,298.0,58.0,2.0,Football Team,False,False,2017,-12.95,2.95,-4.05
 1,2,Sun,September 17,4:25PM ET,boxscore,W,,1-1,@,Los Angeles Rams,27.0,20.0,21.0,385.0,156.0,229.0,,14.0,332.0,235.0,97.0,2.0,Football Team,False,False,2017,12.39,0.97,-2.95
 2,3,Sun,September 24,8:30PM ET,boxscore,W,,2-1,,Oakland Raiders,27.0,10.0,18.0,472.0,356.0,116.0,2.0,7.0,128.0,96.0,32.0,3.0,Football Team,False,False,2017,9.43,20.15,-13.27
@@ -22042,7 +22042,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Patriots,False,False,2018,,,
 18,Division,Sun,January 13,1:05PM ET,boxscore,W,,12-5,,Los Angeles Chargers,41.0,28.0,30.0,498.0,343.0,155.0,,22.0,335.0,316.0,19.0,2.0,Patriots,False,False,2018,24.01,-11.48,4.22
 19,Conf. Champ.,Sun,January 20,6:40PM ET,boxscore,W,OT,13-5,@,Kansas City Chiefs,37.0,31.0,36.0,524.0,348.0,176.0,2.0,18.0,290.0,249.0,41.0,,Patriots,False,False,2018,19.31,-14.41,1.94
-20,SuperBowl,Sun,February 3,6:30PM ET,boxscore,W,,14-5,N,Los Angeles Rams,13.0,3.0,22.0,407.0,253.0,154.0,1.0,14.0,260.0,198.0,62.0,1.0,Patriots,False,False,2018,2.46,11.82,-4.34
+20,SuperBowl,Sun,February 3,6:30PM ET,boxscore,W,,14-5,N,Los Angeles Rams,13.0,3.0,22.0,407.0,253.0,154.0,1.0,14.0,260.0,198.0,62.0,1.0,Patriots,True,True,2018,2.46,11.82,-4.34
 0,1,Sun,September 9,1:00PM ET,boxscore,W,,1-0,,Tennessee Titans,27.0,20.0,18.0,342.0,222.0,120.0,2.0,19.0,336.0,220.0,116.0,3.0,Dolphins,False,False,2018,-3.23,14.51,-3.3
 1,2,Sun,September 16,1:00PM ET,boxscore,W,,2-0,@,New York Jets,20.0,12.0,18.0,257.0,122.0,135.0,2.0,21.0,362.0,320.0,42.0,3.0,Dolphins,False,False,2018,-2.02,8.87,-0.32
 2,3,Sun,September 23,1:00PM ET,boxscore,W,,3-0,,Oakland Raiders,28.0,20.0,13.0,373.0,332.0,41.0,,25.0,434.0,325.0,109.0,2.0,Dolphins,False,False,2018,13.07,-9.08,7.77
@@ -22529,7 +22529,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Rams,False,False,2018,,,
 18,Division,Sat,January 12,8:15PM ET,boxscore,W,,14-3,,Dallas Cowboys,30.0,22.0,30.0,459.0,186.0,273.0,,19.0,308.0,258.0,50.0,,Rams,False,False,2018,24.75,-13.46,-0.14
 19,Conf. Champ.,Sun,January 20,3:05PM ET,boxscore,W,OT,15-3,@,New Orleans Saints,26.0,23.0,19.0,378.0,301.0,77.0,1.0,19.0,290.0,242.0,48.0,1.0,Rams,False,False,2018,3.02,-2.51,2.95
-20,SuperBowl,Sun,February 3,6:30PM ET,boxscore,L,,15-4,N,New England Patriots,3.0,13.0,14.0,260.0,198.0,62.0,1.0,22.0,407.0,253.0,154.0,1.0,Rams,False,False,2018,-11.82,-2.46,4.34
+20,SuperBowl,Sun,February 3,6:30PM ET,boxscore,L,,15-4,N,New England Patriots,3.0,13.0,14.0,260.0,198.0,62.0,1.0,22.0,407.0,253.0,154.0,1.0,Rams,True,False,2018,-11.82,-2.46,4.34
 0,1,Sun,September 9,4:25PM ET,boxscore,L,,0-1,,Washington Redskins,6.0,24.0,14.0,213.0,145.0,68.0,2.0,30.0,429.0,247.0,182.0,1.0,Cardinals,False,False,2018,-9.94,-16.72,7.08
 1,2,Sun,September 16,4:05PM ET,boxscore,L,,0-2,@,Los Angeles Rams,0.0,34.0,5.0,137.0,83.0,54.0,1.0,24.0,432.0,342.0,90.0,1.0,Cardinals,False,False,2018,-17.5,-18.11,3.56
 2,3,Sun,September 23,4:25PM ET,boxscore,L,,0-3,,Chicago Bears,14.0,16.0,13.0,221.0,168.0,53.0,4.0,21.0,316.0,194.0,122.0,2.0,Cardinals,False,False,2018,-6.07,2.63,1.68
@@ -22820,7 +22820,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Chiefs,False,False,2019,,,
 18,Division,Sun,January 12,3:05PM ET,boxscore,W,,13-4,,Houston Texans,51.0,31.0,29.0,434.0,316.0,118.0,1.0,23.0,442.0,348.0,94.0,1.0,Chiefs,False,False,2019,28.73,-5.46,-6.77
 19,Conf. Champ.,Sun,January 19,3:05PM ET,boxscore,W,,14-4,,Tennessee Titans,35.0,24.0,27.0,404.0,292.0,112.0,,20.0,295.0,210.0,85.0,,Chiefs,False,False,2019,29.52,-5.92,-9.99
-20,SuperBowl,Sun,February 2,6:30PM ET,boxscore,W,,15-4,N,San Francisco 49ers,31.0,20.0,26.0,397.0,268.0,129.0,2.0,21.0,351.0,210.0,141.0,2.0,Chiefs,False,False,2019,18.54,-5.19,-1.58
+20,SuperBowl,Sun,February 2,6:30PM ET,boxscore,W,,15-4,N,San Francisco 49ers,31.0,20.0,26.0,397.0,268.0,129.0,2.0,21.0,351.0,210.0,141.0,2.0,Chiefs,True,True,2019,18.54,-5.19,-1.58
 0,1,Mon,September 9,10:20PM ET,boxscore,W,,1-0,,Denver Broncos,24.0,16.0,19.0,357.0,259.0,98.0,,18.0,344.0,249.0,95.0,,Raiders,False,False,2019,16.92,-8.29,-1.51
 1,2,Sun,September 15,4:05PM ET,boxscore,L,,1-1,,Kansas City Chiefs,10.0,28.0,19.0,307.0,178.0,129.0,2.0,24.0,467.0,436.0,31.0,1.0,Raiders,False,False,2019,-2.14,-18.12,2.97
 2,3,Sun,September 22,1:00PM ET,boxscore,L,,1-2,@,Minnesota Vikings,14.0,34.0,17.0,302.0,214.0,88.0,1.0,23.0,385.0,174.0,211.0,,Raiders,False,False,2019,1.77,-20.43,-0.15
@@ -23140,7 +23140,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,2019,,,
 18,Division,Sat,January 11,4:35PM ET,boxscore,W,,14-3,,Minnesota Vikings,27.0,10.0,21.0,308.0,122.0,186.0,2.0,7.0,147.0,126.0,21.0,2.0,49ers,False,False,2019,0.66,16.91,-0.78
 19,Conf. Champ.,Sun,January 19,6:40PM ET,boxscore,W,,15-3,,Green Bay Packers,37.0,20.0,19.0,354.0,69.0,285.0,,21.0,358.0,296.0,62.0,3.0,49ers,False,False,2019,18.03,-5.47,2.28
-20,SuperBowl,Sun,February 2,6:30PM ET,boxscore,L,,15-4,N,Kansas City Chiefs,20.0,31.0,21.0,351.0,210.0,141.0,2.0,26.0,397.0,268.0,129.0,2.0,49ers,False,False,2019,5.19,-18.54,1.58
+20,SuperBowl,Sun,February 2,6:30PM ET,boxscore,L,,15-4,N,Kansas City Chiefs,20.0,31.0,21.0,351.0,210.0,141.0,2.0,26.0,397.0,268.0,129.0,2.0,49ers,True,False,2019,5.19,-18.54,1.58
 0,1,Sun,September 8,4:05PM ET,boxscore,W,,1-0,,Cincinnati Bengals,21.0,20.0,12.0,232.0,160.0,72.0,1.0,22.0,429.0,395.0,34.0,3.0,Seahawks,False,False,2019,-5.43,-0.16,8.5
 1,2,Sun,September 15,1:00PM ET,boxscore,W,,2-0,@,Pittsburgh Steelers,28.0,26.0,25.0,425.0,274.0,151.0,2.0,17.0,261.0,180.0,81.0,1.0,Seahawks,False,False,2019,5.07,-0.23,1.28
 2,3,Sun,September 22,4:25PM ET,boxscore,L,,2-1,,New Orleans Saints,27.0,33.0,26.0,514.0,406.0,108.0,1.0,15.0,265.0,177.0,88.0,1.0,Seahawks,False,False,2019,8.28,-0.89,-6.88
@@ -23401,7 +23401,7 @@
 17,,,Playoffs,,,,,,,,,,,,,,,,,,,,Chiefs,False,False,2020,,,
 18,Division,Sun,January 17,3:05PM ET,boxscore,W,,15-2,,Cleveland Browns,22.0,17.0,24.0,438.0,315.0,123.0,1.0,21.0,308.0,196.0,112.0,2.0,Chiefs,False,False,2020,19.09,-5.1,-8.48
 19,Conf. Champ.,Sun,January 24,6:40PM ET,boxscore,W,,16-2,,Buffalo Bills,38.0,24.0,29.0,439.0,325.0,114.0,1.0,24.0,363.0,234.0,129.0,1.0,Chiefs,False,False,2020,30.34,-3.03,-9.61
-20,SuperBowl,Sun,February 7,6:30PM ET,boxscore,L,,16-3,N,Tampa Bay Buccaneers,9.0,31.0,22.0,350.0,243.0,107.0,2.0,26.0,340.0,195.0,145.0,,Chiefs,False,False,2020,-7.9,-10.75,-1.18
+20,SuperBowl,Sun,February 7,6:30PM ET,boxscore,L,,16-3,N,Tampa Bay Buccaneers,9.0,31.0,22.0,350.0,243.0,107.0,2.0,26.0,340.0,195.0,145.0,,Chiefs,True,False,2020,-7.9,-10.75,-1.18
 0,1,Sun,September 13,1:00PM ET,boxscore,W,,1-0,@,Carolina Panthers,34.0,30.0,23.0,372.0,239.0,133.0,,22.0,388.0,259.0,129.0,,Raiders,False,False,2020,19.49,-16.44,-0.04
 1,2,Mon,September 21,8:15PM ET,boxscore,W,,2-0,,New Orleans Saints,34.0,24.0,28.0,377.0,261.0,116.0,1.0,26.0,424.0,312.0,112.0,1.0,Raiders,False,False,2020,22.48,-13.97,-0.31
 2,3,Sun,September 27,1:00PM ET,boxscore,L,,2-1,@,New England Patriots,20.0,36.0,22.0,375.0,249.0,126.0,3.0,25.0,406.0,156.0,250.0,1.0,Raiders,False,False,2020,0.71,-11.03,-5.81
@@ -23544,7 +23544,7 @@
 18,Wild Card,Sat,January 9,8:15PM ET,boxscore,W,,12-5,@,Washington Football Team,31.0,23.0,26.0,507.0,365.0,142.0,1.0,23.0,375.0,289.0,86.0,1.0,Buccaneers,False,False,2020,14.51,-5.16,-1.49
 19,Division,Sun,January 17,6:40PM ET,boxscore,W,,13-5,@,New Orleans Saints,30.0,20.0,20.0,316.0,189.0,127.0,,20.0,294.0,190.0,104.0,4.0,Buccaneers,False,False,2020,5.85,6.52,-0.63
 20,Conf. Champ.,Sun,January 24,3:05PM ET,boxscore,W,,14-5,@,Green Bay Packers,31.0,26.0,19.0,351.0,275.0,76.0,3.0,23.0,381.0,314.0,67.0,2.0,Buccaneers,False,False,2020,14.4,-7.4,0.17
-21,SuperBowl,Sun,February 7,6:30PM ET,boxscore,W,,15-5,N,Kansas City Chiefs,31.0,9.0,26.0,340.0,195.0,145.0,,22.0,350.0,243.0,107.0,2.0,Buccaneers,False,False,2020,10.75,7.9,1.18
+21,SuperBowl,Sun,February 7,6:30PM ET,boxscore,W,,15-5,N,Kansas City Chiefs,31.0,9.0,26.0,340.0,195.0,145.0,,22.0,350.0,243.0,107.0,2.0,Buccaneers,True,True,2020,10.75,7.9,1.18
 0,1,Sun,September 13,4:25PM ET,boxscore,W,,1-0,,Tampa Bay Buccaneers,34.0,23.0,18.0,271.0,189.0,82.0,,23.0,310.0,224.0,86.0,3.0,Saints,False,False,2020,1.98,-0.48,11.57
 1,2,Mon,September 21,8:15PM ET,boxscore,L,,1-1,@,Las Vegas Raiders,24.0,34.0,26.0,424.0,312.0,112.0,1.0,28.0,377.0,261.0,116.0,1.0,Saints,False,False,2020,13.97,-22.48,0.31
 2,3,Sun,September 27,8:20PM ET,boxscore,L,,1-2,,Green Bay Packers,30.0,37.0,21.0,397.0,275.0,122.0,1.0,24.0,369.0,271.0,98.0,,Saints,False,False,2020,14.59,-19.67,-5.23
@@ -23917,7 +23917,8 @@
 18,,,Playoffs,,,,,,,,,,,,,,,,,,,,Bengals,False,False,2021,,,
 19,Wild Card,Sat,January 15,4:30PM ET,boxscore,W,,11-7,,Las Vegas Raiders,26.0,19.0,18.0,308.0,225.0,83.0,,23.0,385.0,282.0,103.0,2.0,Bengals,False,False,2021,7.92,-3.65,1.81
 20,Division,Sat,January 22,4:30PM ET,boxscore,W,,12-7,@,Tennessee Titans,19.0,16.0,17.0,345.0,280.0,65.0,1.0,16.0,353.0,213.0,140.0,3.0,Bengals,False,False,2021,-1.17,3.15,4.99
-21,Conf. Champ.,Sun,January 30,3:00PM ET,preview,,,,@,Kansas City Chiefs,,,,,,,,,,,,,Bengals,False,False,2021,,,
+21,Conf. Champ.,Sun,January 30,3:00PM ET,boxscore,W,OT,13-7,@,Kansas City Chiefs,27.0,24.0,21.0,359.0,243.0,116.0,1.0,24.0,375.0,236.0,139.0,2.0,Bengals,False,False,2021,8.39,-11.28,-0.28
+22,SuperBowl,Sun,February 13,6:30PM ET,preview,,,,N,Los Angeles Rams,,,,,,,,,,,,,Bengals,True,False,2021,,,
 0,1,Sun,September 12,1:00PM ET,boxscore,W,,1-0,@,Buffalo Bills,23.0,16.0,16.0,252.0,177.0,75.0,,22.0,371.0,254.0,117.0,1.0,Steelers,False,False,2021,-0.54,3.55,5.01
 1,2,Sun,September 19,1:00PM ET,boxscore,L,,1-1,,Las Vegas Raiders,17.0,26.0,17.0,331.0,292.0,39.0,1.0,22.0,425.0,373.0,52.0,,Steelers,False,False,2021,1.19,-12.75,0.99
 2,3,Sun,September 26,1:00PM ET,boxscore,L,,1-2,,Cincinnati Bengals,10.0,24.0,21.0,342.0,297.0,45.0,2.0,12.0,268.0,172.0,96.0,1.0,Steelers,False,False,2021,-8.46,-0.17,-6.09
@@ -23995,7 +23996,7 @@
 18,,,Playoffs,,,,,,,,,,,,,,,,,,,,Chiefs,False,False,2021,,,
 19,Wild Card,Sun,January 16,8:15PM ET,boxscore,W,,13-5,,Pittsburgh Steelers,42.0,21.0,26.0,478.0,372.0,106.0,2.0,19.0,257.0,201.0,56.0,1.0,Chiefs,False,False,2021,16.09,2.06,-0.99
 20,Division,Sun,January 23,6:30PM ET,boxscore,W,OT,14-5,,Buffalo Bills,42.0,36.0,30.0,552.0,370.0,182.0,,23.0,422.0,313.0,109.0,,Chiefs,False,False,2021,32.62,-25.24,1.15
-21,Conf. Champ.,Sun,January 30,3:00PM ET,preview,,,,,Cincinnati Bengals,,,,,,,,,,,,,Chiefs,False,False,2021,,,
+21,Conf. Champ.,Sun,January 30,3:00PM ET,boxscore,L,OT,14-6,,Cincinnati Bengals,24.0,27.0,24.0,375.0,236.0,139.0,2.0,21.0,359.0,243.0,116.0,1.0,Chiefs,False,False,2021,11.28,-8.39,0.28
 0,1,Mon,September 13,8:15PM ET,boxscore,W,OT,1-0,,Baltimore Ravens,33.0,27.0,26.0,491.0,409.0,82.0,1.0,20.0,406.0,217.0,189.0,2.0,Raiders,False,False,2021,11.58,-3.0,-2.58
 1,2,Sun,September 19,1:00PM ET,boxscore,W,,2-0,@,Pittsburgh Steelers,26.0,17.0,22.0,425.0,373.0,52.0,,17.0,331.0,292.0,39.0,1.0,Raiders,False,False,2021,12.75,-1.19,-0.99
 2,3,Sun,September 26,4:05PM ET,boxscore,W,OT,3-0,,Miami Dolphins,31.0,28.0,28.0,497.0,357.0,140.0,1.0,22.0,330.0,197.0,133.0,,Raiders,False,False,2021,7.21,-5.04,0.43
@@ -24298,7 +24299,8 @@
 18,,,Playoffs,,,,,,,,,,,,,,,,,,,,Rams,False,False,2021,,,
 19,Wild Card,Mon,January 17,8:15PM ET,boxscore,W,,13-5,,Arizona Cardinals,34.0,11.0,16.0,375.0,235.0,140.0,,14.0,183.0,122.0,61.0,2.0,Rams,False,False,2021,11.41,17.81,-3.99
 20,Division,Sun,January 23,3:00PM ET,boxscore,W,,14-5,@,Tampa Bay Buccaneers,30.0,27.0,24.0,428.0,355.0,73.0,4.0,20.0,359.0,308.0,51.0,2.0,Rams,False,False,2021,-6.76,4.46,6.08
-21,Conf. Champ.,Sun,January 30,6:30PM ET,preview,,,,,San Francisco 49ers,,,,,,,,,,,,,Rams,False,False,2021,,,
+21,Conf. Champ.,Sun,January 30,6:30PM ET,boxscore,W,,15-5,,San Francisco 49ers,20.0,17.0,25.0,396.0,326.0,70.0,1.0,16.0,282.0,232.0,50.0,1.0,Rams,False,False,2021,10.05,-3.75,-1.12
+22,SuperBowl,Sun,February 13,6:30PM ET,preview,,,,N,Cincinnati Bengals,,,,,,,,,,,,,Rams,True,False,2021,,,
 0,1,Sun,September 12,1:00PM ET,boxscore,W,,1-0,@,Tennessee Titans,38.0,13.0,22.0,416.0,280.0,136.0,1.0,17.0,248.0,162.0,86.0,3.0,Cardinals,False,False,2021,8.83,14.48,1.57
 1,2,Sun,September 19,4:05PM ET,boxscore,W,,2-0,,Minnesota Vikings,34.0,33.0,21.0,474.0,371.0,103.0,2.0,22.0,419.0,242.0,177.0,,Cardinals,False,False,2021,11.99,-12.56,0.9
 2,3,Sun,September 26,1:00PM ET,boxscore,W,,3-0,@,Jacksonville Jaguars,31.0,19.0,23.0,407.0,316.0,91.0,1.0,20.0,361.0,202.0,159.0,4.0,Cardinals,False,False,2021,13.26,7.87,-9.13
@@ -24340,7 +24342,7 @@
 18,,,Playoffs,,,,,,,,,,,,,,,,,,,,49ers,False,False,2021,,,
 19,Wild Card,Sun,January 16,4:40PM ET,boxscore,W,,11-7,@,Dallas Cowboys,23.0,17.0,21.0,341.0,172.0,169.0,1.0,20.0,307.0,230.0,77.0,1.0,49ers,False,False,2021,2.43,5.37,-5.37
 20,Division,Sat,January 22,8:15PM ET,boxscore,W,,12-7,@,Green Bay Packers,13.0,10.0,12.0,212.0,106.0,106.0,1.0,14.0,263.0,196.0,67.0,1.0,49ers,False,False,2021,-11.56,4.75,9.07
-21,Conf. Champ.,Sun,January 30,6:30PM ET,preview,,,,@,Los Angeles Rams,,,,,,,,,,,,,49ers,False,False,2021,,,
+21,Conf. Champ.,Sun,January 30,6:30PM ET,boxscore,L,,12-8,@,Los Angeles Rams,17.0,20.0,16.0,282.0,232.0,50.0,1.0,25.0,396.0,326.0,70.0,1.0,49ers,False,False,2021,3.75,-10.05,1.12
 0,1,Sun,September 12,1:00PM ET,boxscore,W,,1-0,@,Indianapolis Colts,28.0,16.0,18.0,381.0,241.0,140.0,1.0,23.0,336.0,223.0,113.0,1.0,Seahawks,False,False,2021,14.35,-3.07,-0.51
 1,2,Sun,September 19,4:25PM ET,boxscore,L,OT,1-1,,Tennessee Titans,30.0,33.0,17.0,397.0,320.0,77.0,,33.0,532.0,320.0,212.0,1.0,Seahawks,False,False,2021,13.29,-17.41,1.06
 2,3,Sun,September 26,4:25PM ET,boxscore,L,,1-2,@,Minnesota Vikings,17.0,30.0,21.0,389.0,283.0,106.0,,28.0,453.0,313.0,140.0,,Seahawks,False,False,2021,14.86,-20.96,-1.13
