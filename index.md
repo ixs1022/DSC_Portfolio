@@ -4,13 +4,10 @@
 ### *February - March 2021*
 This project was done entirely using R, and the dataset is Chess match data found on Kaggle. The steps taken to create a model to predict the winner of a chess match include:
 
-•	Cleaning the data
-
-•	Creating histograms to show the frequency and distribution of each feature value
-
-•	Scatterplots to show relationships between variables followed by finding the mathematic correlation between features
-
-•	Found a linear regression model for the data to find winter based on rating and number of wins
+* Cleaning the data
+* Creating histograms to show the frequency and distribution of each feature value
+* Scatterplots to show relationships between variables followed by finding the mathematic correlation between features
+* Found a linear regression model for the data to find winter based on rating and number of wins
 
 
 Additional analysis could be done to improve the accuracy of the model.
@@ -67,9 +64,15 @@ There is limited data in the dataset I found, so further work could be done to g
 
 ## [Super Bowl Prediction](https://github.com/ixs1022/DSC_Portfolio/tree/main/SuperBowl)
 ### *January - February 2022*
-TBD
+This project predicts the teams that will play in the Super Bowl based on overall team statistics.
+* Pulled data from two web sources: nfl.com and pro-football-reference.com
+* Cleaned, prepared and summarized data so it could be merged into one dataset
+* Used SelectKBest to get the top 35 features to use to modelling
+* Trained three models: Logistic Regression, Support Vector Machines and Decision Tree
+* Outputted table of the predictions for each team along with probabilities, order by highest probabilities of playing the Super Bowl
 
 ---
 
-## DSC 680 Project 3
+## [Language Detection](https://github.com/ixs1022/DSC_Portfolio/tree/main/LanguageDetection)
+### *February 2022 - March 2022*
 TBD

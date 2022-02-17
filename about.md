@@ -5,6 +5,8 @@ Four years ago, I started working at a manufacturing plant for General Motors, f
 
 ## The Whole Story
 ![Isabella at Google's Campus, Dec 2021](./assets//img/ics.jpg)
+
+
 In 2015, I was graduating high school where I spent my four years taking all the science classes my school offered - Humany Biology, Anatomy, Physics, AP Biology, Chemistry I and II. I had my heart set on being a doctor and I had my heart set on going to Rochester Institute of Technology. The only problem was I ended up being accepted into the Information Systems and Techonology Department in the Web and Mobile Computing degree (previously Information Technology). 
 
 
