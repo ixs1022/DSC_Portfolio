@@ -16,9 +16,25 @@
 #contact-form label{
     display: block;
     color: white;
+    width: 20%;
 }
 
 #contact-form input, textarea {
     padding: 2px;
     border-radius: 7px;
+    width: 80%;
+    size: 1.25em;
+}
+
+#contact-form input {
+    line-height: 1.5em;
+}
+
+#contact-form textarea {
+    line-height: 4em;
+}
+
+#contact-form button {
+    width: 25%;
+    margin: auto;
 }
