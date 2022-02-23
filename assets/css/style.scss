@@ -7,6 +7,26 @@
     background: #9d7390;
 }
 
+/* MAIN CONTENT */
+#main-content {
+    padding-top: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    display: inline;
+}
+
+h6 {
+    margin-top: 0px;
+    display: inline;
+    margin-left: 2%;
+}
+
+/* CONTACT FORM */
 #contact-form {
     width: 75%;
     background: #9d7390;
@@ -45,7 +65,10 @@
     width: 76%;
     margin: auto;
 }
+/*******************/
 
+/* FOOTER */
 footer p{
     text-align: center;
 }
+/*******************/
