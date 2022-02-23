@@ -24,7 +24,7 @@ h1 {
     text-align: center;
 }
 
-h3, h4 {
+h4 {
     display: inline;
 }
 
@@ -32,6 +32,10 @@ h6 {
     margin-top: 0px;
     display: inline;
     float: right;
+}
+
+#project_title {
+    text-align: left;
 }
 
 /* CONTACT FORM */
