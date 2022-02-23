@@ -14,14 +14,16 @@
 }
 
 #contact-form label{
-    display: block;
+    width:15%;
+    text-align: right;
+    padding-right: 2px;
     color: white;
 }
 
 #contact-form input, textarea, button {
     padding: 2px;
     border-radius: 7px;
-    size: 1.25em;
+    font-size: 1.25em;
 }
 
 #contact-form input {
@@ -36,8 +38,9 @@
 
 #contact-form button {
     width: 35%;
-    display:block;
-    margin: auto;
+    margin-left: 20%;
+    padding: 5px;
+    font-size: 1.1;
 }
 
 #contact-form-h4{
