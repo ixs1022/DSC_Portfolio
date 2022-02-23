@@ -6,3 +6,19 @@
 #header_wrap, #footer_wrap {
     background: #9d7390;
 }
+
+#contact-form {
+    width: 75%;
+    background: #9d7390;
+    margin: auto;
+}
+
+#contact-form label{
+    display: block;
+    color: white;
+}
+
+#contact-form input, textarea {
+    padding: 2px;
+    border-radius: 7px;
+}
