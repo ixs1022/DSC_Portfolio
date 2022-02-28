@@ -1,4 +1,6 @@
 # Resume
+[Download my resume](./assets/files/ICS_Resume_Mar2022.pdf)
+
 
 ## Employment
 ### General Motors Rochester Operations
@@ -6,7 +8,7 @@
 ###### *June 2019 to Current* - *Rochester, NY (Remote)*
 * Assisted with server migrations from Windows Server 2012 to Windows Server Core 2016 virtual machines and database migrations of an OLTP and an OLAP database from SQL Server 2012 to SQL Server 2016; configured Window Server 2016 virtual machines with SSAS and SSRS and migrated reports to new Report Server
 * Led troubleshooting efforts of the new OLTP databases by monitoring bottleneck queries using SQL Spotlight, optimizing stored procedures and working with global IT teams to increase storage and memory resources on the database servers
-* Developed a feature for the internal part tracking web application using SQL Server, HTML, CSS, JavaScript, Python and Flask to allow machine operators to troubleshoot failed verifications at the workstation and get machines running in a timely manner without needing engineer intervention
+* Redesigned database backend for user management of our web application, changing from permission-based to role-based access. As part of this redesign, I also developed a feature for the web application to provide supervisors the ability to view and manage their teams in a hierarchical organization chart, restricting roles based on access levels of the current user's role.
 * Diagnosed a long-standing bottleneck in our database system that caused blocking and slowed or failed transaction; implemented a solution that eliminated the blocking and improved average transaction times by 250%
 
 #### Computer Science Co-op 
