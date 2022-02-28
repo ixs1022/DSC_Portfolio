@@ -18,6 +18,13 @@
 * Created a virtual machine with a copy of the production SQL Server databases, internal part tracking application and SSRS on a stand-alone PC used at machine builder sites for testing; configured the site server using Internet Information Services, setup the Report Server using the Reporting Services Configuration Manager, and enabled bridged networking to allow the host machine to run the sites without needing to access the sensitive information stored on the VM
 
 ## Projects
+#### Language Detection
+###### *Feb 2022 to Mar 2022*
+Using Tatoeba dataset, created two Multinomial Naive Bayes models in Python to detect languages based on two different criteria for "Top 25 Languages".
+* Used random sampling to undersample majority classes to balance dataset before modeling
+* Created bigrams using CountVectorizer as features for the models
+* Trained Multinomial Naive Bayes models that resulted in 95% accuracy for detecting the written language of the test dataset samples
+
 #### Super Bowl Teams Prediction 
 ###### *Jan 2022 to Feb 2022*
 Combined data from two web sources to predict which teams are most likely to play in the Super Bowl.

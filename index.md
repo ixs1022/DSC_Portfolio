@@ -82,5 +82,8 @@ This project predicts the teams that will play in the Super Bowl based on overal
 
 
 #### [Language Detection](https://github.com/ixs1022/DSC_Portfolio/tree/main/LanguageDetection)
-###### *February 2022 - March 2022*
-TBD
+###### *Feb 2022 to Mar 2022*
+Using Tatoeba dataset, created two Multinomial Naive Bayes models in Python to detect languages based on two different criteria for "Top 25 Languages".
+* Used random sampling to undersample majority classes to balance dataset before modeling
+* Created bigrams using CountVectorizer as features for the models
+* Trained Multinomial Naive Bayes models that resulted in 95% accuracy for detecting the written language of the test dataset samples
