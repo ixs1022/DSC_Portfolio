@@ -66,4 +66,11 @@
       </footer>
     </div>
   </body>
+  <script>
+    // Set the resume link to be downloadable and open in a new tab
+    resume_header = document.getElementById('resume');  // Resume h1, precedes the downloadable link
+    resume_link = resume_header.nextElementSibling; // the p tag containing the link is the next element on page
+    resume_link.setAttribute("target", "_blank"); // opens in a new tab
+    resume_link.setAttribute("downloadable", true) // is downloadable
+  </script>
 </html>
